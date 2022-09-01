@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School Organisation/School Admin Team.md
       - School Organisation/.keep
       - School Rules.md
