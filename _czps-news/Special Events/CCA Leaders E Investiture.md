@@ -8,12 +8,12 @@ third_nav_title: Special Events
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/ei1.png"></td>
-<td style="width: 50%;"><img src="/images/ei2.png"></td>
+<td style="width: 45%;"><img src="/images/ei1.png"></td>
+<td style="width: 55%;"><img src="/images/ei2.png"></td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;">May their passion inspire their peers and juniors</td>
-<td style="width: 50%; text-align: center;">Looking forward to great things from them!</td>
+<td style="width: 45%; text-align: center;">May their passion inspire their peers and juniors</td>
+<td style="width: 55%; text-align: center;">Looking forward to great things from them!</td>
 </tr>
 </tbody>
 </table>
