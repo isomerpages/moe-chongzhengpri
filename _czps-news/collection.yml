@@ -2,5 +2,6 @@ collections:
   czps-news:
     output: true
     order:
+      - Useful Information/Students.md
       - Useful Information/Staff.md
       - Useful Information/.keep
