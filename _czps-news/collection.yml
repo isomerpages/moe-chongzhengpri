@@ -2,6 +2,7 @@ collections:
   czps-news:
     output: true
     order:
+      - Achievements/.keep
       - Announcements.md
       - Special Events/.keep
       - CZPS In the Media.md
