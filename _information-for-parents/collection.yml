@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Prospective Parents.md
       - Useful Information/Meet the Parents Session.md
       - Useful Information/Home Based Learning (HBL).md
       - Useful Information/2022 P1 Orientation.md
