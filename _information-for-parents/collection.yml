@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Home School Partnership/Testimonials.md
       - Home School Partnership/.keep
       - Prospective Parents.md
       - Useful Information/Meet the Parents Session.md
