@@ -2,6 +2,7 @@ collections:
   czps-news:
     output: true
     order:
+      - Special Events/.keep
       - CZPS In the Media.md
       - Useful Information/Students.md
       - Useful Information/Staff.md
