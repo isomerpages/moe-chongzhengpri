@@ -1,0 +1,4 @@
+collections:
+  czps-news:
+    output: true
+    order: []
