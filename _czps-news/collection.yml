@@ -2,6 +2,7 @@ collections:
   czps-news:
     output: true
     order:
+      - Achievements/Students.md
       - Achievements/.keep
       - Announcements.md
       - Special Events/Cyberwellness Fest.md
