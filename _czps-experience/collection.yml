@@ -2,5 +2,6 @@ collections:
   czps-experience:
     output: true
     order:
+      - E Open House/E–Open House.md
       - E Open House/P1 Experience.md
       - E Open House/.keep
