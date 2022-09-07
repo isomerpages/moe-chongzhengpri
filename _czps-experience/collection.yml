@@ -1,4 +1,5 @@
 collections:
   czps-experience:
     output: true
-    order: []
+    order:
+      - E Open House/.keep
