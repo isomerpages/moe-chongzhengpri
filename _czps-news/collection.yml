@@ -2,6 +2,7 @@ collections:
   czps-news:
     output: true
     order:
+      - Achievements/CCAs.md
       - Achievements/Students.md
       - Achievements/.keep
       - Announcements.md
