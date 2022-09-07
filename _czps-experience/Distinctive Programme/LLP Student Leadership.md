@@ -39,3 +39,4 @@ third_nav_title: Distinctive Programme
 <ul>
 <li>Class Leaders Induction sessions</li>
 </ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNq7AcDYF-n8njux4W8WhA3wIglkaCUaLOI-Xir5SbVjGdra7SQL5jlQe4CYsrrgQkScRNAzkpi24g/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
