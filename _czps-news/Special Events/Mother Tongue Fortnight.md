@@ -27,3 +27,24 @@ third_nav_title: Special Events
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>P1 Traditional Toy Making</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf8.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf9.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf10.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf11.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf12.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf13.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf14.jpeg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
