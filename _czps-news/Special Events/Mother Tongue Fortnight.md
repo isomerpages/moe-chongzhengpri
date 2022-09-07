@@ -70,7 +70,54 @@ third_nav_title: Special Events
 </tr>
 <tr>
 <td style="width: 50%;"><img src="/images/mlf20.jpeg"></td>
-<td style="width: 50%;">&nbsp;</td>
+<td style="width: 50%;"><img src="/images/mlf21.jpeg"></td>
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>P4 Calligraphy</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf22.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf23.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf24.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf25.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf26.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf27.jpeg"></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>P5 Tiger Shoe Making</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf28.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf29.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf30.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf31.jpeg"></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>P6 Cross Talk</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf32.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf33.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf34.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf35.jpeg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Mother Tongue Fortnight - Malay Language</strong></h4>
+<p>Coming soon.</p>
+<h4><strong>Mother Tongue Fortnight - Tamil Language</strong></h4>
+<p>Coming soon.</p>
