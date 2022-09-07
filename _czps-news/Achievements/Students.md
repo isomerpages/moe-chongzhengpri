@@ -181,3 +181,11 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
+<p>Our pieces of artwork from Category A &ldquo;Zoom with Me&rdquo; and Category C &ldquo;R U in Or Out&rdquo; were selected for display for the Official Opening of the Singapore Youth Festival 2021. They were featured using immersive 360-degree virtual technology where selected pieces of artwork were set against a digitalised backdrop of gallery spaces within the National Gallery Singapore.</p>
+<h4><strong>Future Problem Solving Programme International Conference 2021</strong></h4>
+<p>Inspired by our starfish story to make a difference in our community, our school Community Problem Solving team (CmPS), the STAR team, who are P5 and P6 InnoKidz and prefects, have achieved the following awards!</p>
+<ul>
+<li>1st place in the Future Problem Solving Program (FPSP) CmPS Junior Division, National Finals 2020</li>
+<li>1st place position in the FPSP Virtual International Conference 2021, CmPS Junior Division, Environmental &amp; Health Concerns category</li>
+</ul>
+<p>The STAR team&rsquo;s project "Build A STAR in ME" focuses on the importance of developing the STAR habits (Recognise, Reinforce, Reflect, Respond and Role-model) in children, aged 5 to 12, to practise empathy so as to build positive peer-to-peer relationships.&nbsp;</p>
