@@ -227,3 +227,284 @@ third_nav_title: Achievements
 <p>These competitions aimed to raise students&rsquo; interest and enthusiasm for mathematical problem solving, develop their mathematical intuition, reasoning and logical thinking while being creative and critical in their thinking. Participants displayed their strong math concepts and passion for learning in the subject during the training workshops and the competitions. Well done!</p>
 <p>The tables below are the achievements of our participants.</p>
 <p>Congratulations to all winners!</p>
+<table width="863">
+<tbody>
+<tr>
+<td colspan="6" width="863">
+<p style="text-align: center;"><strong>Singapore and ASEAN Schools Math Olympiads&nbsp;</strong><strong>(SASMO)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37">&nbsp;</td>
+<td width="165">
+<p><strong>Gold</strong></p>
+</td>
+<td width="165">
+<p><strong>Silver</strong></p>
+</td>
+<td width="165">
+<p><strong>Bronze</strong></p>
+</td>
+<td width="165">
+<p><strong>Honorable Mention</strong></p>
+</td>
+<td width="165">
+<p><strong>Participation</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>P4</strong></p>
+</td>
+<td width="165">
+<p>Aadhyansh Kumar Gupta (4D)</p>
+<p>Cha Jia En (4C)</p>
+</td>
+<td width="165">
+<p>Aujla Mihir Singh (4A)</p>
+<p>Timothy Lim Kai Zhe (4B)</p>
+</td>
+<td width="165">
+<p>Ashraff Shah Bin Noor Afendi (4C)</p>
+<p>Cheung Pui Ki, Vianna (4C)</p>
+<p>Chua Zhong Ze (4B)</p>
+<p>Deon Woo Le Xuan (4B)</p>
+<p>Emma Teh Pei Xin (4B)</p>
+<p>Gandi Tanmayee Shri (4A)</p>
+<p>Kannan Parvathavarthini (4C)</p>
+<p>Krishnamurthy Keerthana (4C)</p>
+<p>Lee Zhe Rui (4B)</p>
+<p>Lum Zhuo Jun (4C)</p>
+<p>Shannon Ma Shu Ya (4C)</p>
+<p>Sim Yan Rui (4B)</p>
+<p>Tan Zi Qian Elijah (4C)</p>
+<p>Teh Jing Ern (4A)</p>
+<p>Teo Shigene (4B)</p>
+</td>
+<td width="165">
+<p>Pek Shi Yun (4A)</p>
+<p>Trivedi Akshat (4E)</p>
+<p>Yashikha Muthupalani (4B)</p>
+</td>
+<td width="165">
+<p>Khant Tayza (4B)</p>
+<p>Law Zhi Yi (4A)</p>
+<p>Lohith Prasanthraj (4E)</p>
+<p>Sng Min En, Amber (4C)</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>P5</strong></p>
+</td>
+<td width="165">
+<p>Choy Wen Xuan, Zeyan (5E)</p>
+<p>Liu Zeyuan (5F)</p>
+<p>Rayne Ong En Ning (5E)</p>
+</td>
+<td width="165">
+<p>Balaprathyush Damodharan (5E)</p>
+<p>Hebballi Shankar (5E)</p>
+</td>
+<td width="165">
+<p>Bajpai Rupesh (5F)</p>
+<p>Hoy Cher Wei (5F)</p>
+<p>Janani Ramesh (5F)</p>
+<p>Kanakasaphapathi Tanishka (5E)</p>
+<p>Koh Rui Heng Braedon (5E)</p>
+<p>Low Swee Yang Rayden (5F)</p>
+<p>Lyra Yong Qin Lin (5E)</p>
+<p>Sanjana Ram (5E)</p>
+</td>
+<td width="165">
+<p>Liong Qi Yuan, Jonathan (5E)</p>
+</td>
+<td width="165">
+<p>Eimaan Nurjannah Lim Rui Mun (5E)</p>
+<p>Goh Min Xuan (5E)</p>
+<p>June Ong Jia Xuan (5F)</p>
+<p>Kek Zi Yu Hayden (5F)</p>
+<p>Loh Kit Yew, Toby (5E)</p>
+<p>Lucien Tang Jing Heng (5F)</p>
+<p>Palanikumar Pooja (5F)</p>
+<p>Ulfa Raihanah Binte Mohd. Raizal (5F)</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>P6</strong></p>
+</td>
+<td width="165">
+<p>Ellie Loo Yi Hyun (6F)</p>
+<p>Lakshana Rajadurai (6E)</p>
+<p>Leow Zhi Ya Nicole (6E)</p>
+<p>Rajesh Adithya Elara (6F)</p>
+</td>
+<td width="165">
+<p>Aden Chua Ming Zhao (6F)</p>
+<p>Aujla Mahtab Singh (6E)</p>
+<p>Ayra Arissah (6F)</p>
+<p>Chan See Ru (6F)</p>
+<p>Goh Jing Jing (6E)</p>
+<p>Goh Si Han, Jonas (6F)</p>
+<p>Jayden Tan Yi Hong (6E)</p>
+<p>Kwan Keng Hei (6F)</p>
+<p>Ng Xin Kai, Louis (6E)</p>
+<p>Tan Ding Wen (6F)</p>
+<p>Tan Rui Xuan Riona (6F)</p>
+</td>
+<td width="165">
+<p>Amanda Wan Zheng Mun (6E)</p>
+<p>Chace Ong (6E)</p>
+<p>Angeline Tan (6F)</p>
+<p>Dilan Subhu Veerappan (6F)</p>
+<p>Joed Cheah Sawatt (6E)</p>
+<p>Krithika Kailasam (6E)</p>
+<p>Leong Tze Min (6E)</p>
+<p>Marabelle Lee Zhiyi (6F)</p>
+<p>Mirunalini Jagathesh (6E)</p>
+<p>Sia Xin Yi (6F)</p>
+<p>Wang Yichen (6E)</p>
+</td>
+<td width="165">
+<p>Chee Jun Yong Austin (6E)</p>
+<p>De Silva Weeraddana Chanuthi Santhuli (6E)</p>
+<p>Edara Neha (6F)</p>
+<p>Lim En Qi Celest (6E)</p>
+<p>Nur Alya Amani Binte Mohammad Norhisham (6F)</p>
+<p>Sharifah Atia Binte Syed Abu Bakar Alsagoff (6E)</p>
+<p>Thaswika Sathiya Narayanan (6F)</p>
+<p>Vihaan Nagar (6E)</p>
+<p>Vij Adit (6E)</p>
+</td>
+<td width="165">
+<p>Akif Naufal Bin Noor Aidil (6E)</p>
+<p>Chia Rui Heng Bryan (6E)</p>
+<p>Harish Palaniappan (6F)</p>
+<p>Lim Jun Liang, Davis (6E)</p>
+<p>Lin Minxiang (6E)</p>
+<p>Liong Qiao Ning, Jane (6F)</p>
+<p>Mohamed Danish Bin Mohamed Rosli (6E)</p>
+<p>Shen Enrui, Tricia (6F)</p>
+<p>Vinod Siddhisha (6E)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="864">
+<tbody>
+<tr>
+<td colspan="5" width="863">
+<p style="text-align: center;"><strong>NUS High Math Olympiad (NMOS)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="34">&nbsp;</td>
+<td width="207">
+<p><strong>Silver</strong></p>
+</td>
+<td width="207">
+<p><strong>Bronze</strong></p>
+</td>
+<td width="207">
+<p><strong>Honorable Mention</strong></p>
+</td>
+<td colspan="2" width="207">
+<p><strong>Participation</strong></p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p><strong>P5</strong></p>
+</td>
+<td width="207">
+<p>Liu Zeyuan (5F)</p>
+</td>
+<td width="207">
+<p>Choy Wen Xuan, Zeyan (5E)</p>
+<p>Hebballi Shankar (5E)</p>
+</td>
+<td width="207">
+<p>Hoy Cher Wei (5F)</p>
+<p>Lucien Tan Jing Heng (5E)</p>
+</td>
+<td colspan="2" width="207">
+<p>Bajpai Rupesh (5F)</p>
+<p>Balaprathyush Damodharan (5F)</p>
+<p>Eimaan Nurjannah Lim (5F)</p>
+<p>Kanakasaphapathi Tanishka (5E)</p>
+<p>Kek Zi Yu Hayden (5E)</p>
+<p>Koh Rui Heng Braedon (5E)</p>
+<p>Liong Qi Yuan, Jonathan (5E)</p>
+<p>Low Swee Yang Rayden (5F)</p>
+<p>Lyra Yong Qin Lin (5F)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p><strong>P6</strong></p>
+</td>
+<td width="207">
+<p>Lakshana Rajadurai (6E)</p>
+</td>
+<td width="207">
+<p>Goh Si Han, Jonas (6F)</p>
+<p>Kwan Keng Hei (6F)</p>
+<p>Rajesh Adithya Elana (6F)</p>
+</td>
+<td width="207">
+<p>Amanda Wan Zheng Mun (6E)</p>
+<p>Chan See Ru (6F)</p>
+<p>Lim En Qi Celest (6E)</p>
+<p>Vihaan Nagar (6E)</p>
+</td>
+<td colspan="2" width="207">
+<p>Aden Chua Ming Zhao (6F)</p>
+<p>Chen Ying Si @ Angeline Tan (6F)</p>
+<p>Dilian Subhu Veerappan (6F)</p>
+<p>Ellie Loo Yi Hyun (6F)</p>
+<p>Leow Zhi Ya Nicole (6E)</p>
+<p>Sharifah Atia (6E)</p>
+<p>Tan Ding Wen (6F)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td colspan="3" width="863">
+<p style="text-align: center;"><strong>Singapore Mathematical Olympiad for Primary Schools (SMOPS)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="288">
+<p><strong>Silver</strong></p>
+</td>
+<td width="288">
+<p><strong>Bronze</strong></p>
+</td>
+<td width="288">
+<p><strong>Participation</strong></p>
+</td>
+</tr>
+<tr>
+<td width="288">
+<p>Rajesh Adithya Elara (6F)</p>
+<p>Liu Zeyuan (5F)</p>
+</td>
+<td width="288">
+<p>Tan Ding Wen (6F)</p>
+</td>
+<td width="288">
+<p>Balaprathyush Damodharan (5F)</p>
+<p>Hoy Cher Wei (5F)</p>
+<p>Koh Rui Heng Braedon (5E)</p>
+<p>Rayne Ong En Ning (5E)</p>
+<p>Amanda Wan Zheng Mun (6E)</p>
+<p>Kwan Keng Hei (6F)</p>
+<p>Vihaan Nagar (6E)</p>
+</td>
+</tr>
+</tbody>
+</table>
