@@ -29,3 +29,6 @@ third_nav_title: E Open House
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMHWjBV2yeQ9FpL4MdeSbUmQ-GsLG7MCzfX4LnweV5EMoAJuSt5Ub_aiACybNrk-DHpYrHMfidwWaj/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 <h4><strong>ART PROGRAMME</strong></h4>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQDyEz5WtqDTw9SSbn9mON9Y528Gy3HMPdYS5XfViE7by9Ycucop6_dPJFy1j8cXvrQtx8XXIvj7SXS/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4><strong>YOUNG ACHIEVERS DAY</strong></h4>
+<p>A day dedicated to showcase students&rsquo; talents/skills that they have picked up and affirm their holistic development.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuiwQlUulzk16VFFoVfe6-DKNkK0mk8lTMW2uLu7SLP41MdmHxTMwBfC6iqzHNY-3H0gamdBCMl3By/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
