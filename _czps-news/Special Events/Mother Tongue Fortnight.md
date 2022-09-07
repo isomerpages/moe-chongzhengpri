@@ -48,3 +48,17 @@ third_nav_title: Special Events
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>P2 Chinese Drum Making</strong></p>
+<p style="text-align: center;"><strong>P1 Traditional Toy Making</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf15.jpeg"></td>
+<td style="width: 50%;"><img src="/images/mlf16.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/mlf17.jpeg"></td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
