@@ -217,3 +217,13 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
+<h4><strong>Math Olympiad</strong></h4>
+<p>This year, Chongzheng Primary School participated in 3 Math Competitions, namely:</p>
+<ul>
+<li>Singapore and ASEAN Schools Math Olympiads (SASMO)</li>
+<li>NUS High Math Olympiad (NMOS)</li>
+<li>Singapore Mathematical Olympiad for Primary Schools (SMOPS)</li>
+</ul>
+<p>These competitions aimed to raise students&rsquo; interest and enthusiasm for mathematical problem solving, develop their mathematical intuition, reasoning and logical thinking while being creative and critical in their thinking. Participants displayed their strong math concepts and passion for learning in the subject during the training workshops and the competitions. Well done!</p>
+<p>The tables below are the achievements of our participants.</p>
+<p>Congratulations to all winners!</p>
