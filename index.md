@@ -8,11 +8,17 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      key_highlights:
+        - title: Cyberwellness Fest
+          description: Read More
+          url: /czps-news/special-events/cyberwellness-fest
+        - title: Prefects e-Investiture
+          description: Read More
+          url: /czps-news/special-events/prefects-e-investiture
+        - title: Chinese New Year
+          description: Read More
+          url: /czps-news/special-events/chinese-new-year
+  - resources:
+      title: Announcements
+      button: More
 ---
-
