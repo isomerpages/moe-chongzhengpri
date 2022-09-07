@@ -189,3 +189,31 @@ third_nav_title: Achievements
 <li>1st place position in the FPSP Virtual International Conference 2021, CmPS Junior Division, Environmental &amp; Health Concerns category</li>
 </ul>
 <p>The STAR team&rsquo;s project "Build A STAR in ME" focuses on the importance of developing the STAR habits (Recognise, Reinforce, Reflect, Respond and Role-model) in children, aged 5 to 12, to practise empathy so as to build positive peer-to-peer relationships.&nbsp;</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 65%;"><img src="/images/stu6.jpg"></td>
+<td style="width: 35%;"><img src="/images/stu7.png"></td>
+</tr>
+<tr>
+<td style="width: 65%;">Our STAR team after our virtual interview for the Future Problem Solving Programme International Conference.</td>
+<td style="width: 35%;">Scan the QR code to access our Scrapbook!</td>
+</tr>
+<tr>
+<td style="width: 65%;"><img src="/images/stu8.jpg"></td>
+<td style="width: 35%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 65%;">Virtual award ceremony for the Future Problem Solving Programme International Conference.&nbsp;</td>
+<td style="width: 35%;">Scan the QR code to access our Addendum!</td>
+</tr>
+<tr>
+<td style="width: 65%;">&nbsp;</td>
+<td style="width: 35%;"><img src="/images/stu9.png"></td>
+</tr>
+<tr>
+<td style="width: 65%;">&nbsp;</td>
+<td style="width: 35%;">Scan the QR code to access our Google Site!</td>
+</tr>
+</tbody>
+</table>
