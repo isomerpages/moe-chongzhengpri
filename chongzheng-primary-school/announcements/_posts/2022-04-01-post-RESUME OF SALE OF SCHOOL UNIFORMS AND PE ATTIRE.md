@@ -11,5 +11,4 @@ description: ""
 <p>Thank you for your understanding in the past years when the sales could only be made via online with the vendor Shirley Seasonwears.</p>
 <p>We seek your continual support and co-operation in observing the prevailing social distancing measures to keep our school ground a safe place for all.</p>
 <p>Sincerely</p>
-<p><strong>James Lim</strong></p>
-<p><strong>Principal</strong></p>
+<p><strong>James Lim<br>Principal</strong></p>
