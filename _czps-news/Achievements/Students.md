@@ -508,3 +508,22 @@ third_nav_title: Achievements
 </tr>
 </tbody>
 </table>
+<h4><strong>Pupil of the Year 2020</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33%;"><img src="/images/stu10.jpg"></td>
+<td style="width: 67%;">During my six years in Chongzheng Primary School, various opportunities have allowed me to develop into a more confident and resilient leader. When I became the head student leader in 2020, I was uncertain about my ability to lead the student body well. However, my teachers, friends and parents stood by me, encouraging me to do the best that I could. Without these pillars of support, I would not have believed that I could do it. I will always be grateful for the memorable experiences and memories forged throughout my journey in Chongzheng Primary School. Without them, I would not be where I am today!</td>
+</tr>
+</tbody>
+</table>
+<p>Samantha Lim<br />6 Confidence, 2020</p>
+<h4><strong>Sports Pupil of the Year</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33%;"><img src="/images/stu11.png"></td>
+<td style="width: 67%;">I am Donovan Lee from 2020 graduating class, 6C. I was the recipient of the Sports Award last year. It was indeed one of the highlights in my primary school chapter! Being the captain of our school rugby team gave me a lot of opportunities to show leadership and confidence in leading my team during competitions. “Confidence in Ourselves” is one of the core values in ChongZheng Primary school and this is what I had learnt from my time there. Having confidence in myself will help me move forward in life and not back away from challenges. Once again, I am very grateful for the award. Thank you ChongZheng for teaching me important values that I will need in the future!</td>
+</tr>
+</tbody>
+</table>
