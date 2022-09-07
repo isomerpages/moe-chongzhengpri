@@ -70,7 +70,7 @@ third_nav_title: Achievements
 <td style="width: 50%; text-align: center;"><strong>P3 &ndash; P4</strong></td>
 </tr>
 <tr>
-<td style="width: 50%;">&nbsp;</td>
+<td style="width: 50%;"><img src="/images/stu3.jpg"><br><img src="/images/stu4.jpg"></td>
 <td style="width: 50%;">
 <p style="text-align: center;"><strong>&ldquo;The Cleel&rdquo;</strong></p>
 <p style="text-align: center;">We want to show our ideologies which are always ever - flowing. The clay represents our different individualities. We had fun experimenting with planning clay making and glazing.</p>
@@ -125,7 +125,7 @@ third_nav_title: Achievements
 <td style="width: 50%; text-align: center;"><strong>P1 &ndash; P2</strong></td>
 </tr>
 <tr>
-<td style="width: 50%;">&nbsp;</td>
+<td style="width: 50%;"><img src="/images/stu5.jpg"></td>
 <td style="width: 50%;">
 <p style="text-align: center;"><strong>&ldquo;</strong><strong>ZOOM WITH ME</strong><strong>&rdquo;</strong></p>
 <p style="text-align: center;">We never knew that our primary school would allow us to study from home. We were excited to have a peek at each other&rsquo;s homes during our zoom lessons. It was fun talking with one another via digital platforms. We are glad that we could still learn at home with the help of technology.</p>
