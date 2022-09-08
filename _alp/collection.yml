@@ -2,4 +2,5 @@ collections:
   alp:
     output: true
     order:
+      - Talent Development (INNOKIDZ PROGRAMME).md
       - ALP.md
