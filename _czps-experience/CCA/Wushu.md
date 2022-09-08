@@ -150,3 +150,79 @@ third_nav_title: CCA
 <p><strong>Video by CCA Leader</strong></p>
 <p><strong>Wushu eCCA</strong></p>
 <img src="/images/Wushu.gif">
+<img src="/images/wu3.jpg">
+<img src="/images/wu4.jpg">
+<p><strong>2018</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="312">
+<div>&nbsp;1) Ang Zi Hao Kieran 4-Excellence</div>
+<div>&nbsp;4-Duan Cudgel (2nd place)</div>
+<div>&nbsp;4-Duan Broadsword (5th place)</div>
+<div>&nbsp;3-Duan Changquan (12th place)</div>
+<div>&nbsp;Sportsmanship Award 2018</div>
+</td>
+<td width="312">
+<div>&nbsp;2) Lim Sheen 6-Confidence</div>
+<div>&nbsp;24-Style Taijiquan (3rd place)</div>
+<div>&nbsp;42-Style Taijijian (3rd place)</div>
+<div>&nbsp;Sportsmanship Award 2018</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div>&nbsp;3) Joshua Jeremiah Tan Zhu En 6-Aspiration</div>
+<div>&nbsp;Nanquan (7th place)</div>
+<div>&nbsp;Nan Dao (10th place)</div>
+<div>&nbsp;Nan Gun (10th place)</div>
+<div>&nbsp;Sportsmanship Award 2018</div>
+</td>
+</tr>
+</tbody>
+</table>
+<img src="/images/wu5.jpg">
+<p><strong>2017</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="312">
+<div>1) Yo Yu Ying 5-Confidence</div>
+<div>Changquan (8th place)</div>
+</td>
+<td width="312">
+<p>2) Joshua Jeremiah Tan Zhu En 5-Aspiration</p>
+<div>Nanquan (Southern Fist) (7th place)</div>
+<div>Nan Dao (Southern Broadsword) (9th place)</div>
+<div>Nan Gun (Southern Cudgel) (8th place)</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>3) Alan Tan, 6-Aspiration Sword (5th place)</div>
+<div>5-Duan Nanquan(Southern Fist) (3<sup>rd</sup>&nbsp;place)</div>
+<div>5-Duan Spear (2nd place)</div>
+</td>
+<td>
+<div>4) Joash Tan, 6-Aspiration</div>
+<div>Nanquan (Southern Fist) (9th place), Broadsword (7th place)</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>5) Alan Tan, 6-Diligence</div>
+<div>Nanquan (Southern Fist) (8th place)</div>
+</td>
+<td>
+<div>6) Jayden Choo, 6-Excellence</div>
+<div>5-Duan Changquan (6th place)&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>7) Sng Zi Yan, 6-Aspiration 4-Duan Sword (8th place)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<img style="width: 80%;" src="/images/wu6.jpg">
