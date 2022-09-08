@@ -24,3 +24,70 @@ third_nav_title: CCA
 <p><strong>Achievements for the past 3 years:&nbsp;</strong></p>
 <p>We are pleased to share the following good news;</p>
 <p>1. Our P5s and P6s, - Category C Mixed Media Artwork, were selected for SYF Arts Presentation 2017 and 2019. Our Cat A and Cat B are also in the online and print SYF Journals 2017 and 2019.</p>
+<p>2. Art Community</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="119">
+<p><strong>SYF Arts Presentation</strong></p>
+</td>
+<td style="text-align: center;" width="302">
+<p><strong>2017 and 2019</strong></p>
+<p><strong>All 3 Categories -&nbsp;Cat A ,B C are in the online and print SYF Journals 2017 and 2019.&nbsp;</strong></p>
+</td>
+<td style="text-align: center;" width="203">
+<p><strong>Category &lsquo;C&rsquo; was selected for onsite exhibition both in 2017 and 2019.</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="119">
+<p><strong>CEP</strong></p>
+</td>
+<td style="text-align: center;" width="302">
+<p><strong>2017 &ndash; Totem</strong></p>
+<p><strong>2018 &ndash; Payong Batik 1000 display</strong></p>
+<p><strong>2019 &ndash;Chingay 2020 &ndash; Building the Bridge of Harmony</strong></p>
+</td>
+<td style="text-align: center;" width="203">
+<p><strong>All collaboration between Passion Arts and CZPS were exhibited onsite.</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="119">
+<p><strong>CIP</strong></p>
+</td>
+<td style="text-align: center;" width="302">
+<p><strong>2018 &ndash; Arts Fiesta @ Poly View</strong></p>
+<p><strong>Cip Project of HDB Friendly Faces Lively Places (FFLP)</strong></p>
+</td>
+<td style="text-align: center;" width="203">
+<p><strong>Art Club members facilitated and assisted an acrylic painting activity</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="119">
+<p><strong>Competitions</strong></p>
+</td>
+<td style="text-align: center;" width="302">
+<p><strong>2017 &ndash; Downtown Line 3 DTL3 Postcard Design Competition</strong></p>
+</td>
+<td style="text-align: center;" width="203">
+<p><strong>2 pupils won and had their designs printed on postcards.</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="119">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td style="text-align: center;" width="302">
+<p><strong>2018 - Staedler World Colouring Kid Day</strong></p>
+</td>
+<td style="text-align: center;" width="203">
+<p><strong>5 Consolation certificate</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<img src="/images/art1.gif">
+<img src="/images/art2.jpg">
+<img src="/images/art3.jpg">
