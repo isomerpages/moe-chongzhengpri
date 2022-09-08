@@ -41,6 +41,10 @@ third_nav_title: Distinctive Programme
 </ul>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNq7AcDYF-n8njux4W8WhA3wIglkaCUaLOI-Xir5SbVjGdra7SQL5jlQe4CYsrrgQkScRNAzkpi24g/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <ul>
-<li>Prefects e Investiture</li>
+<li>Prefects E-Investiture</li>
 </ul>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOoYh3WH19hqJWToQ7W8aaqarwmrUJvtrfN6KTj-arkLStxaR3g5G-azaJSBPsZDsxpT9dBYsMufvp/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<ul>
+<li>Leadership Training workshop (Part 1)</li>
+</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUkL1Vi4uxnCTWoxNw0RfreRIwsWlT-IyJ2ct9U68RlLlmn3_mQkNwkYmfPtynSMpOVW_o_l1Z-qLM/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
