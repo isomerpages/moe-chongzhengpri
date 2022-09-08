@@ -2,6 +2,7 @@ collections:
   czps-experience:
     output: true
     order:
+      - CCA/Digital Media.md
       - CCA/Speech and Drama.md
       - CCA/CCA.md
       - CCA/.keep
