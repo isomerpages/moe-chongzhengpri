@@ -25,3 +25,6 @@ third_nav_title: Curriculum
 <p><strong>Opening Hours</strong></p>
 <p>Monday to Friday : 9am - 4pm</p>
 <p>Closed for lunch : 1.15pm - 1.45pm except Thursday: 12.45pm -1.15pm&nbsp;</p>
+<hr />
+<h4><strong>USEFUL INFORMATION</strong></h4>
+<p><a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" target="_blank" rel="noopener">21st Century Competencies</a><br /><a href="https://www.moe.gov.sg/programmes/cyber-wellness" target="_blank" rel="noopener">Cyber Wellness</a><br /><a href="https://www.help123.sg/" target="_blank" rel="noopener">Help123.sg - Get Help if you are facing Cyberwellness Issues</a></p>
