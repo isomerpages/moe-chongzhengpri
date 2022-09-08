@@ -74,3 +74,7 @@ third_nav_title: Distinctive Programme
 <li>Student Leaders Appreciation Day</li>
 </ul>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTo6j2fFEdy1uMjnE2eXCODe_iP00ct-P1pZaOZvcGVyWtc3ny7D6qxPwanTticGWQ1nW__8tMDqpc4/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<ul>
+<li>CCA Fiesta!</li>
+</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjHGJ21IgAqBbFt7UVisrigdgbfVvLwkx7hc-wS3cfsLTv7ydND-TEO2IWZqcOBRbfZB7EBqJ01odm/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
