@@ -2,6 +2,8 @@ collections:
   czps-experience:
     output: true
     order:
+      - CCA/.keep
+      - CCA/CCA.md
       - CCA/Rugby.md
       - CCA/Hockey.md
       - CCA/Wushu.md
@@ -18,8 +20,6 @@ collections:
       - CCA/Environmental Science Club.md
       - CCA/Digital Media.md
       - CCA/Speech and Drama.md
-      - CCA/CCA.md
-      - CCA/.keep
       - Distinctive Programme/ALP.md
       - Distinctive Programme/LLP.md
       - Distinctive Programme/.keep
