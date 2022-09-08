@@ -1,2 +1,28 @@
 logo: /images/isomer-logo.svg
-links: []
+links:
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Vision, Mission & Values
+        url: /about-us/vision-mission-n-values
+      - title: School Guiding Principle
+        url: /about-us/school-guiding-principle
+      - title: School Crest
+        url: /about-us/school-crest
+      - title: School Organisation
+        url: /about-us/school-organisation/school-management
+      - title: School Rules
+        url: /about-us/school-rules
+  - title: Information for Parents
+    url: /information-for-parents/general-information
+    sublinks:
+      - title: General Information
+        url: /information-for-parents/general-information
+      - title: Home-School Partnership
+        url: /information-for-parents/home-school-partnership
+      - title: Prospective Parents
+        url: /information-for-parents/prospective-parents/p1-registration
+      - title: Useful Information
+        url: /information-for-parents/useful-information/meet-the-parents-session
