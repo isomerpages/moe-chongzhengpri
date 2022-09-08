@@ -2,4 +2,4 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Example Title.md
+      - Mother Tongue.md
