@@ -2,6 +2,7 @@ collections:
   czps-experience:
     output: true
     order:
+      - CCA/Speech and Drama.md
       - CCA/CCA.md
       - CCA/.keep
       - Distinctive Programme/ALP.md
