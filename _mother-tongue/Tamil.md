@@ -36,3 +36,14 @@ description: ""
 <img style="width: 70%;" src="/images/t5.jpg" />
 <p><strong><u>P4 CULTURAL CAMP</u></strong></p>
 <p>THE TAMIL LANGUAGE DEPARTMENT ORGANIZED A MTL FORTNIGHT CULTURAL CAMP FOR THE PRIMARY 4 PUPILS EVERY YEAR. THE THEME FOR THIS YEAR&rsquo;S CULTURAL CAMP IS HOSPITALITY AND FOOD PRESENTATION.</p>
+<img src="/images/t6.jpg">
+<img src="/images/t7.jpg">
+<img src="/images/t8.jpg">
+<p><strong><u>LEARNING JOURNEY:</u></strong></p>
+<p>P5 LEARNING JOURNEY TO THE INDIAN HERITAGE CENTRE IN SEARCH OF THEIR ROOTS</p>
+<img src="/images/t9.jpg">
+<p><strong><u>P1&amp; P2 SPEECH AND DRAMA</u></strong></p>
+<p>PUPILS ENHANCING THEIR ACTING SKILLS AND VOICE PROJECTION THROUGH THIS PROGRAMME.</p>
+<img src="/images/t10.jpg">
+<img src="/images/t11.jpg">
+<img src="/images/t12.jpg">
