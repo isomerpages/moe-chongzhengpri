@@ -85,3 +85,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>USEFUL INFORMATION</strong></h4>
+<p>http://tinta.edumall.sg/mekar/slot/u112/index.html</p>
+<p><a href="http://parents-in-education.moe.gov.sg/primary-education/learning-resources-pri/malay-language-learning-resources" target="_blank" rel="noopener">http://parents-in-education.moe.gov.sg/primary-education/learning-resources-pri/malay-language-learning-resources&nbsp;</a>(For parents)</p>
