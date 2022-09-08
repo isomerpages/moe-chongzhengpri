@@ -48,3 +48,7 @@ third_nav_title: Distinctive Programme
 <li>Leadership Training workshop (Part 1)</li>
 </ul>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUkL1Vi4uxnCTWoxNw0RfreRIwsWlT-IyJ2ct9U68RlLlmn3_mQkNwkYmfPtynSMpOVW_o_l1Z-qLM/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<ul>
+<li>EAS Appreciation Day</li>
+</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSax_8XlYEPwjtlxeREO8Bygo45Bx5uK7qgT_kc0gvqKF91cf-jImASNSFXoZFYS9_Q0jVxVXG5evI4/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
