@@ -2,7 +2,7 @@ collections:
   cce:
     output: true
     order:
-      - PROGRAMME FOR ACTIVE LEARNING (PAL).md
+      - Programme for Active Learning (PAL).md
       - National Education.md
       - Sexuality Education.md
       - Character and Citizenship Education.md
