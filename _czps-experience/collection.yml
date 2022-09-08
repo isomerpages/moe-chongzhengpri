@@ -2,6 +2,7 @@ collections:
   czps-experience:
     output: true
     order:
+      - Curriculum/Character and Citizenship Education.md
       - Curriculum/ICT.md
       - Curriculum/.keep
       - CCA/.keep
