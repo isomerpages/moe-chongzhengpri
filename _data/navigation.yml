@@ -26,3 +26,27 @@ links:
         url: /information-for-parents/prospective-parents/p1-registration
       - title: Useful Information
         url: /information-for-parents/useful-information/meet-the-parents-session
+  - title: CZPS Experience
+    url: /czps-experience/curriculum/english
+    sublinks:
+      - title: Curriculum
+        url: /czps-experience/curriculum/english
+      - title: CCA
+        url: /czps-experience/cca
+      - title: Distinctive Programme
+        url: /czps-experience/distinctive-programme
+      - title: E-Open House
+        url: /czps-experience/e-open-house
+  - title: CZPS News
+    url: /czps-news/achievements/cca
+    sublinks:
+      - title: Achievements
+        url: /czps-news/achievements/cca
+      - title: Announcements
+        url: /czps-news/announcements
+      - title: Special Events
+        url: /czps-news/special-events/cyberwellness-fest
+      - title: CZPS In the Media
+        url: /czps-news/czps-in-the-media
+      - title: Useful Information
+        url: /czps-news/useful-information/students
