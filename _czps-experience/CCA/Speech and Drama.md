@@ -19,3 +19,6 @@ third_nav_title: CCA
 </ul>
 <p><strong>Description:</strong></p>
 <p>The Language Club is all about bringing stories to life through the medium of shadow puppetry and theatre. Our members&rsquo; voices and skills have entertained children of ages ranging from 3 to 12 years as we imparted morals through fairy tales and NE values through the re-telling of the Singapore story. We aim to let all our members showcase their skills both behind the screen and before it. Everyone plays a part.</p>
+<img src="/images/sd1.gif">
+<img src="/images/sd2.jpg">
+<img src="/images/sd3.jpg">
