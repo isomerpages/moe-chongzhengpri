@@ -6,10 +6,10 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge: </strong></p>
 <ol>
-<li>1. Mdm Noor Haida Mohd Jakaria (Main-in-charge)</li>
-<li>2. Mdm Suckjit Kaur</li>
-<li>3. Mdm Law KE</li>
-<li>4. Mrs Karen Yeo</li>
+<li>Mdm Noor Haida Mohd Jakaria (Main-in-charge)</li>
+<li>Mdm Suckjit Kaur</li>
+<li>Mdm Law KE</li>
+<li>Mrs Karen Yeo</li>
 </ol>
 <p><strong>CCA Leaders:&nbsp;</strong></p>
 <ul>
