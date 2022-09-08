@@ -2,6 +2,7 @@ collections:
   czps-experience:
     output: true
     order:
+      - CCA/Chinese Dance.md
       - CCA/Malay Dance.md
       - CCA/Indian Dance.md
       - CCA/Modern Dance.md
