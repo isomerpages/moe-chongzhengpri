@@ -88,6 +88,6 @@ third_nav_title: CCA
 </tr>
 </tbody>
 </table>
-<img src="/images/art1.gif">
+<img src="/images/art1.gif"><br>
 <img src="/images/art2.jpg">
 <img src="/images/art3.jpg">
