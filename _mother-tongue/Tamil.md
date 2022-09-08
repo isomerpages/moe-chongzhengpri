@@ -31,3 +31,8 @@ description: ""
 <img src="/images/t1.jpg">
 <img src="/images/t2.jpg">
 <img src="/images/t3.jpg">
+<p><strong>PUPILS PLAYING SEVEN STONES AND PAMPARAM,<br /></strong><strong>(TRADITIONAL TAMIL GAMES) DURING THEIR RECESS TIME</strong></p>
+<img style="width: 70%;" src="/images/t4.jpg" />
+<img style="width: 70%;" src="/images/t5.jpg" />
+<p><strong><u>P4 CULTURAL CAMP</u></strong></p>
+<p>THE TAMIL LANGUAGE DEPARTMENT ORGANIZED A MTL FORTNIGHT CULTURAL CAMP FOR THE PRIMARY 4 PUPILS EVERY YEAR. THE THEME FOR THIS YEAR&rsquo;S CULTURAL CAMP IS HOSPITALITY AND FOOD PRESENTATION.</p>
