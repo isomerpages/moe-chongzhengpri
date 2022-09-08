@@ -56,3 +56,7 @@ third_nav_title: Distinctive Programme
 <li>CCA Leaders E-Investiture</li>
 </ul>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdtG3gK29PYW3N8HVPmRkn9A2YAbUUOOvcecnbZzno_M_o4JG_jGBVP3OuVz_g0yvHcdYQ3dqDf0eX/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<ul>
+<li>Class Leaders Booster session</li>
+</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1VfZnBoXZV6tDiUirVbh9KrY83iaco8a6ZPOMUnA3SwIRjVVK4oNM_U7sHAMgTP3PIsHxTjtV82SI/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
