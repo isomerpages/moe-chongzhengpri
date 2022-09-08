@@ -36,6 +36,6 @@ third_nav_title: CCA
 <li>The group obtained a certificate of Accomplishment at the 2018 SYF Arts Presentation</li>
 <li>The group performed at the Tampines Arts Festival in 2017</li>
 </ul>
-
+<img src="/images/cd.gif">
 <img src="/images/cd2.png">
-<img style="width: 65%;" src="/images/cd2.jpg">
+<img style="width: 60%;" src="/images/cd2.jpg">
