@@ -47,3 +47,6 @@ description: ""
 <img src="/images/t10.jpg">
 <img src="/images/t11.jpg">
 <img src="/images/t12.jpg">
+<hr>
+<h4><strong>USEFUL INFORMATION</strong></h4>
+<p><a href="https://www.mtl.moe.edu.sg/theenthamizh/p1a.html(Curriculum%20Resources)" target="_blank" rel="noopener">(Curriculum Resources)</a><br /><a href="https://wk.w3tamil.com/" target="_blank" rel="noopener">https://wk.w3tamil.com/</a>&nbsp;(Touch Typing - Tamil)<br /><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">https://vle.learning.moe.edu.sg/login</a>&nbsp;(SLS portal)</p>
