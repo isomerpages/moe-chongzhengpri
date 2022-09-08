@@ -60,3 +60,13 @@ third_nav_title: Distinctive Programme
 <li>Class Leaders Booster session</li>
 </ul>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1VfZnBoXZV6tDiUirVbh9KrY83iaco8a6ZPOMUnA3SwIRjVVK4oNM_U7sHAMgTP3PIsHxTjtV82SI/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<ul>
+<li>Service Learning Project</li>
+<li>Teachers&rsquo; Day</li>
+<li>Leadership Training workshop (Part 2) for P4s</li>
+</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcLOruWrlb6-O-T55olBr2Mm0OH_F0cXhUhslnZSqfpN5UB9vnOC9u9VJjPXoytd9LktRlRlD5zvdj/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<ul>
+<li>Leadership Training workshop (Part 2) for P5s</li>
+</ul>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMuxCXlPbjbSrK943I_zjWdy5BVB3fgQ_1zjwrnkcCUYzcv-9Ln5JbSI7-EMZwCqwCXbFxZgr3Ed9N/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
