@@ -39,3 +39,49 @@ description: ""
 <li>Learning Journeys (P3 - P6)</li>
 </ol>
 <p><strong>Term 3<br /></strong>Hari Raya cum Racial Harmony Day celebration</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/m1.jpg"></td>
+<td style="width: 50%;"><img src="/images/m2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p>Jejak Kembara</p>
+<p>Minggu Bahasa Ibunda</p>
+</td>
+<td style="width: 50%;">
+<p>Membaca Bersama</p>
+<p>MingguBahasa Ibunda</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/m3.jpg"></td>
+<td style="width: 50%;"><img src="/images/m4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p>Membaca Bersama</p>
+<p>Minggu Bahasa Ibunda</p>
+</td>
+<td style="width: 50%;">
+<p>Pesta Membaca</p>
+<p>Minggu Bahasa Ibunda</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/m5.jpg"></td>
+<td style="width: 50%;"><img src="/images/m6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p>Jejak Kembara</p>
+<p>Minggu Bahasa Ibunda</p>
+</td>
+<td style="width: 50%;">
+<p>Jejak Kembara</p>
+<p>Minggu Bahasa Ibunda</p>
+</td>
+</tr>
+</tbody>
+</table>
