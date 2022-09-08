@@ -1,4 +1,5 @@
 collections:
   alp:
     output: true
-    order: []
+    order:
+      - ALP.md
