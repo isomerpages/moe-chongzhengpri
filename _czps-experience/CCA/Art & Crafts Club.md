@@ -89,5 +89,5 @@ third_nav_title: CCA
 </tbody>
 </table>
 <img src="/images/art1.gif">
-<img style="width: 75%;" src="/images/art2.jpg">
+<img src="/images/art2.jpg">
 <img src="/images/art3.jpg">
