@@ -2,6 +2,7 @@ collections:
   czps-experience:
     output: true
     order:
+      - Curriculum/Science.md
       - Curriculum/Mother Tongue.md
       - Curriculum/PE, Art and Music.md
       - Curriculum/Character and Citizenship Education.md
