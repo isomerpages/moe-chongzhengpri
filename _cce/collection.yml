@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - CCE (FTGP).md
       - CCE (MTL).md
       - Programme for Active Learning (PAL).md
       - National Education.md
