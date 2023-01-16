@@ -37,8 +37,7 @@ third_nav_title: School Organisation
 <th>OPERATIONS STAFF</th>
 </tr>
 <tr>
-<td>Mr Patrick Tan</td>
-<td><strong>Operations Manager</strong></td>
+
 </tr>
 <tr>
 <td>Mr Mohammad Farhan Bin Ramli</td>
@@ -60,8 +59,7 @@ third_nav_title: School Organisation
 <th>OTHER SUPPORTING STAFF</th>
 </tr>
 <tr>
-<td>Mr Tang Wai Leng, George</td>
-<td><strong>ICT Manager</strong></td>
+
 </tr>
 <tr>
 <td>Mr Seng Kok Heng</td>
