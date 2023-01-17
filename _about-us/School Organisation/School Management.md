@@ -65,9 +65,6 @@ third_nav_title: School Organisation
 <td style="text-align: center;">mahathir_mohamed_saman@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="214">Miss Hamidah Abdullah</td>
-<td style="text-align: center;" width="214">HOD/ Character &amp; Citizenship Education</td>
-<td style="text-align: center;" width="267">hamidah_abdullah@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Gerardo Seow</td>
