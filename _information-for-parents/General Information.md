@@ -22,3 +22,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Year End sale of school textbooks and uniforms Schedule</strong></h4>
+<img style="width: 80%;" src="/images/buc.png" />
