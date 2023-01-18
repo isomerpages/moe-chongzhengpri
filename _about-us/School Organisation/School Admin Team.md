@@ -29,6 +29,9 @@ third_nav_title: School Organisation
 <td>Rapinah Binte Alias</td>
 <td><strong>Corporate Support Officer</strong></td>
 </tr>
+	<td>Mdm Muthmainnah Binte Dailami</td>
+<td><strong>Corporate Support Officer</strong></td>
+</tr>
 </tbody>
 </table>
 <table>
@@ -51,6 +54,9 @@ third_nav_title: School Organisation
 <td>Mdm Saidah Bte Mohd Salleh</td>
 <td><strong>Operations Support Officer</strong></td>
 </tr>
+	<td>Mdm Taksiah Binte Ahmad</td>
+<td><strong>Operations Support Officer</strong></td>
+</tr>
 </tbody>
 </table>
 <table>
@@ -63,6 +69,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td>Mr Seng Kok Heng</td>
+<td><strong>Desktop Engineer</strong></td>
+</tr>
+<tr>
+	<td>Mr Mohammad Shahril</td>
 <td><strong>Desktop Engineer</strong></td>
 </tr>
 <tr>
