@@ -29,18 +29,20 @@ third_nav_title: School Organisation
 <p>1 Aspiration</p>
 </td>
 <td width="198">
-<p>Mdm Elaine Goh</p>
+<p>Mdm Nur Saqinah Bte Adnan</p>
 </td>
 <td width="330">
-<p>goh_yi_ling_elaine@moe.edu.sg</p>
+<p>nur_saqinah_adnan@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
 <td width="198">
-<p>Mdm Jasmina Parvin</p>
+<p>Mdm Goh Swee Eem</p>
+<p>Mdm Jaslyn Koh</p>
 </td>
-<td width="330">
-<p>jasmina_parvin_mohd_ali@moe.edu.sg</p>
+<td style="text-align: center;" width="330">
+<p>goh_swee_eem@moe.edu.sg</p>
+<p>gao_chujuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -48,48 +50,10 @@ third_nav_title: School Organisation
 <p>1 Benevolence</p>
 </td>
 <td width="198">
-<p>Mrs Ivory Ho</p>
+<p>Mdm Azidah Aman</p>
 </td>
 <td width="330">
-<p>koh_hui_tian@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="198">
-<p>Miss Zahidah Bte Ahmad</p>
-</td>
-<td width="330">
-<p>zahidah_ahmad@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
-<p>1 Confidence</p>
-</td>
-<td width="198">
-<p>Mrs Candice Tu</p>
-</td>
-<td width="330">
-<p>tan_shuwen_candice@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="198">
-<p>Mdm Norinna Musari</p>
-</td>
-<td width="330">
-<p>norinna_musari@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
-<p>1 Diligence</p>
-</td>
-<td width="198">
-<p>Mdm Mastura Bte Mohamed</p>
-</td>
-<td width="330">
-<p>mastura_mohamed@moe.edu.sg</p>
+<p>azidah_aman@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -102,21 +66,59 @@ third_nav_title: School Organisation
 </tr>
 <tr style="text-align: center;">
 <td rowspan="2" width="113">
-<p>1 Excellence</p>
+<p>1 Confidence</p>
 </td>
 <td width="198">
-<p>Mdm Nor Aisah Bte Ahmat</p>
+<p>Mrs Ang Li Hoon</p>
 </td>
 <td width="330">
-<p>nor_aisah_ahmat@moe.edu.sg</p>
+<p>neo_li_hoon@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
 <td width="198">
-<p>Ms Joey Lim</p>
+<p>Miss Krishna Veni</p>
 </td>
 <td width="330">
-<p>lim_pei_na_joey@moe.edu.sg</p>
+<p>krishna_veni_rajendran@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" width="113">
+<p>1 Diligence</p>
+</td>
+<td width="198">
+<p>Mdm Hasnita Binte Surani</p>
+</td>
+<td width="330">
+<p>hasnita_surani@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td width="198">
+<p>Mr Jay Chu</p>
+</td>
+<td width="330">
+<p>chu_hin_wa@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td rowspan="2" width="113">
+<p>1 Excellence</p>
+</td>
+<td width="198">
+<p>Mrs Karen Yeo</p>
+</td>
+<td width="330">
+<p>karen_yeo_han_leng@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td width="198">
+<p>Mdm Norisha Bte Ismail</p>
+</td>
+<td width="330">
+<p>norisha_ismail@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -124,20 +126,22 @@ third_nav_title: School Organisation
 <p>1 Faith</p>
 </td>
 <td width="198">
-<p>Mdm Sohrah Bte Mumhude</p>
+<p>Mrs Brenda Tan</p>
 </td>
 <td width="330">
-<p>sohrah_mumhude@moe.edu.sg</p>
+<p>lim_yen_theng@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
 <td width="198">
-<p>Mrs Rachel Lam</p>
+<p>Mdm Nurhiza Bte Mohamed</p>
 </td>
 <td width="330">
-<p>tan_lay_ming_a@moe.edu.sg</p>
+<p>nurhiza_mohamed@moe.edu.sg</p>
 </td>
 </tr>
+	<tr style="text-align: center;">
+<td rowspan="2" width="113">
 </tbody>
 </table>
 <table style="margin-left: auto; margin-right: auto;">
@@ -164,46 +168,10 @@ third_nav_title: School Organisation
 <p>2 Aspiration</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Mrs Ang Li Hoon</p>
+<p>Mdm Elaine Goh</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>neo_li_hoon@moe.edu.sg&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mdm Siti Khairunnisa Bte Ariffin</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>siti_khairunnisa_ariffin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>2 Benevolence</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Mrs Brenda Tan</p>
-</td>
-<td style="text-align: center;" width="330">lim_yen_theng@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mr Jay Chu</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>chu_hin_wa@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>2 Confidence</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Mdm Hasnita Binte Surani</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>hasnita_surani@moe.edu.sg</p>
+<p>goh_yi_ling_elaine@moe.edu.sg&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -216,55 +184,91 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="113">
-<p>2 Diligence</p>
+<p>2 Benevolence</p>
 </td>
-<td style="text-align: center;" width="198">Mdm Azidah Aman</td>
-<td style="text-align: center;" width="330">azidah_aman@moe.edu.sg</td>
+<td style="text-align: center;" width="198">
+<p>Mrs Ivory Ho</p>
+</td>
+<td style="text-align: center;" width="330">koh_hui_tian@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Mdm Rekha Rajendran</p>
-<p>Mdm Vera Tan</p>
+<p>Ms Su Rui</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>rekha_rajendran@moe.edu.sg</p>
-<p>tan_hiang_lang_vera@moe.edu.sg</p>
+<p>su_rui_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2" width="113">
+<p>2 Confidence</p>
+</td>
+<td style="text-align: center;" width="198">
+<p>Mrs Candice Tu</p>
+</td>
+<td style="text-align: center;" width="330">
+<p>tan_shuwen_candice@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="198">
+<p>Mdm Siti Khairunnisa Bte Ariffin</p>
+</td>
+<td style="text-align: center;" width="330">
+<p>siti_khairunnisa_ariffin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2" width="113">
+<p>2 Diligence</p>
+</td>
+<td style="text-align: center;" width="198">Mdm Mastura Bte Mohamed</td>
+<td style="text-align: center;" width="330">mastura_mohamed@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="198">
+<p>Mdm Siew Huay Ming</p>
+<td style="text-align: center;" width="330">
+<p>siew_huay_ming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="113">
 <p>2 Excellence</p>
 </td>
-<td style="text-align: center;" width="198">Mrs Karen Yeo</td>
+<td style="text-align: center;" width="198">Mdm Nor Aisah Bte Ahmat</td>
 <td style="text-align: center;" width="330">
-<p>karen_yeo_han_leng@moe.edu.sg</p>
+<p>nor_aisah_ahmat@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Mdm Law Koon Eng&nbsp;</p>
-<p>Mdm Jaslyn Koh</p>
+<p>Ms Joey Lim&nbsp;</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>law_koon_eng@moe.edu.sg</p>
-<p>gao_chujuan@moe.edu.sg</p>
+<p>lim_pei_na_joey@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="113">
 <p>2 Faith</p>
 </td>
-<td style="text-align: center;" width="198">Mdm Nur Saqinah Bte Adnan</td>
+<td style="text-align: center;" width="198">Mrs Rachel Lam</td>
 <td style="text-align: center;" width="330">
-<p>nur_saqinah_adnan@moe.edu.sg</p>
+<p>tan_lay_ming_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="198">Mdm Goh Swee Eem</td>
+<td style="text-align: center;" width="198">Mdm Vera Tan</p>
+<p>Mdm Law Koon Eng</p>
+</td>
 <td style="text-align: center;" width="330">
-<p>goh_swee_eem@moe.edu.sg</p>
+<p>tan_hiang_lang_vera@moe.edu.sg</p>
+<p>law_koon_eng@moe.edu.sg</p>
 </td>
 </tr>
+<tr style="text-align: center;">
+<td rowspan="2" width="113">
 </tbody>
 </table>
 <table style="margin-left: auto; margin-right: auto;">
@@ -290,9 +294,9 @@ third_nav_title: School Organisation
 <td style="text-align: center;" rowspan="2" width="113">
 <p>3 Aspiration</p>
 </td>
-<td style="text-align: center;" width="198">Mdm Noorjahan A S Khan</td>
+<td style="text-align: center;" width="198">Mdm Hajar Bibi Bte Abdul Rashid</td>
 <td style="text-align: center;" width="330">
-<p>badrul_hisham@moe.edu.sg</p>
+<p>hajar_bibi_abdul_rashid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -306,18 +310,18 @@ third_nav_title: School Organisation
 <p>3 Benevolence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Mdm Hajar Bibi Bte Abdul Rashid</p>
+<p>Ms Kwan Shiow Yan</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>hajar_bibi_abdul_rashid@moe.edu.sg</p>
+<p>kwan_shiow_yan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Miss Chia Chen Wei</p>
+<p>Miss Ng Bao Lin</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>chia_chen_wei@moe.edu.sg</p>
+<p>ng_bao_lin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -330,9 +334,9 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="198">Miss Kwek Meei Huey, Aileen</td>
+<td style="text-align: center;" width="198">Mr Mohamad Rafey Bin Abdul Jalil</td>
 <td style="text-align: center;" width="330">
-<p>kwek_meei_huey_aileen@moe.edu.sg</p>
+<p>mohamad_rafey@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -348,10 +352,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Mdm Razidah Bte Amat</p>
+<p>Mr Mohamed Izzat</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>razidah_amat@moe.edu.sg</p>
+<p>mohamed_izzat_mohamed_sarip@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -359,18 +363,22 @@ third_nav_title: School Organisation
 <p>3 Excellence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Ms Ng Choon Tee</p>
+<p>Mdm Razidah Bte Amat
+
+</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>ng_choon_tee@moe.edu.sg&nbsp;</p>
+<p>razidah_amat@moe.edu.sg&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="198">Miss Noor Haida Bte Mohd Jakaria</td>
+<td style="text-align: center;" width="198">Mdm Razana bte Abdul Rahman</td>
 <td style="text-align: center;" width="330">
-<p>noor_haida_mohd_jakaria@moe.edu.sg</p>
+<p>razana_abdul_rahman@moe.edu.sg</p>
 </td>
 </tr>
+	<tr style="text-align: center;">
+<td rowspan="2" width="113">
 </tbody>
 </table>
 <table style="margin-left: auto; margin-right: auto;">
@@ -397,33 +405,34 @@ third_nav_title: School Organisation
 <p>4 Aspiration</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Mr Ng Fu Tian, Benny</p>
+<p>Mr Ryan Pek</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>ng_fu_tian_benny@moe.edu.sg</p>
+<p>ryan_pek@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="198">Mdm Norisha Bte Ismail</td>
+<td style="text-align: center;" width="198">Mdm Jasmina Parvin
+</td>
 <td style="text-align: center;" width="330">
-<p>norisha_ismail@moe.edu.sg</p>
+<p>jasmina_parvin_mohd_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="113">
 <p>4 Benevolence</p>
 </td>
-<td style="text-align: center;" width="198">Miss Candice Loke May Xyn</td>
+<td style="text-align: center;" width="198">Mdm Leong Lai Lan</td>
 <td style="text-align: center;" width="330">
-<p>candice_loke_may_xyn@moe.edu.sg</p>
+<p>leong_lai_lan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Mr Mohamad Rafey Bin Abdul Jalil</p>
+<p>Mr Ahmad Shalehin</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>mohamad_rafey@moe.edu.sg</p>
+<p>ahmad_shalehin_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -431,18 +440,18 @@ third_nav_title: School Organisation
 <p>4 Confidence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Mdm Amutha Lechmee</p>
+<p>Mr Ng Fu Tian, Benny</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>amutha_lechmee@moe.edu.sg</p>
+<p>ng_fu_tian_benny@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Mdm Azizah Bte Shaik Abdul Kadir</p>
+<p>Miss Noor Haida Bte Mohd Jakaria</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>azizah_shaik_abdul_kadir@moe.edu.sg</p>
+<p>noor_haida_mohd_jakaria@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -450,37 +459,41 @@ third_nav_title: School Organisation
 <p>4 Diligence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Ms Kwan Shiow Yan</p>
+<p>Ms Emi Tan Huilin</p>
+	<p>Mdm Sharifah Zaleha Bte S Mansor</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>kwan_shiow_yan@moe.edu.sg</p>
+<p>emi_ng_huilin@moe.edu.sg</p>
+<p>sharifah_zaleha_s_mansor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Mr Ahmad Shalehin</p>
+<p>Miss Chia Chen Wei</p>
 </td>
-<td style="text-align: center;" width="330">ahmad_shalehin_ahmad@moe.edu.sg</td>
+<td style="text-align: center;" width="330">chia_chen_wei@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="113">
 <p>4 Excellence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Miss Ng Bao Lin</p>
+<p>Ms Ng Choon Tee</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>ng_bao_lin@moe.edu.sg</p>
+<p>ng_choon_tee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Mdm Foo Li Ying, Pauline</p>
+<p>Miss Kwek Meei Huey, Aileen</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>foo_li_ying_pauline@moe.edu.sg</p>
+<p>kwek_meei_huey_aileen@moe.edu.sg</p>
 </td>
 </tr>
+	<tr style="text-align: center;">
+<td rowspan="2" width="113">
 </tbody>
 </table>
 <table style="margin-left: auto; margin-right: auto;">
@@ -506,65 +519,65 @@ third_nav_title: School Organisation
 <td style="text-align: center;" rowspan="2" width="113">
 <p>5 Aspiration</p>
 </td>
-<td style="text-align: center;" width="198">Mdm Quek Lew Cheng</td>
+<td style="text-align: center;" width="198">Mrs Sharon Tan</td>
 <td style="text-align: center;" width="330">
-<p>quek_lew_cheng@moe.edu.sg</p>
+<p>sharon_goh_choo_lin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="198">Mdm Kamaliah Abdul Jalil<br />Ms Shainaz Banu&nbsp;</td>
+<td style="text-align: center;" width="198">Mdm Maznah Bte Yusak<br /></td>
 <td style="text-align: center;" width="330">
-<p>kamaliah_abdul_jalil@moe.edu.sg</p>
-<p>shainaz_banu@moe.edu.sg</p>
+<p>maznah_yusak@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="113">
 <p>5 Benevolence</p>
 </td>
-<td style="text-align: center;" width="198">Mr Ameer Ahamed Khan</td>
+<td style="text-align: center;" width="198">Ms Zaishereen Bte Aman</td>
 <td style="text-align: center;" width="330">
-<p>ameer_ahamed_khan_amanullah@moe.edu.sg</p>
+<p>zaishereen_aman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Ms Norisah Bte Md Ismail</p>
+<p>Miss Sim Yu Xian
+</p>
 </td>
-<td style="text-align: center;" width="330">norisah_md_ismail@moe.edu.sg</td>
+<td style="text-align: center;" width="330">sim_yu_xian@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="113">
 <p>5 Confidence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Mdm Lim Winnie</p>
+<p>Miss Candice Loke May Xyn</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>lim_winnie@moe.edu.sg</p>
+<p>candice_loke_may_xyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="198">Mdm Eunice Bor</td>
-<td style="text-align: center;" width="330">bor_bee_cheoh_eunice@moe.edu.sg</td>
+<td style="text-align: center;" width="198">Mdm Azizah Bte Shaik Abdul Kadir</td>
+<td style="text-align: center;" width="330">azizah_shaik_abdul_kadir@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2" width="113">
 <p>5 Diligence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Miss Lee Mong Lan</p>
+<p>Mdm Amutha Lechmee</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>lee_mong_lan@moe.edu.sg</p>
+<p>amutha_lechmee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Mr Paul Chan</p>
+<p>Mr Teo Beng Hwee</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>chan_ng_poh_huat@moe.edu.sg</p>
+<p>teo_beng_hwee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -572,18 +585,20 @@ third_nav_title: School Organisation
 <p>5 Excellence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Ms Emi Tan Huilin</p>
+<p>Mr Gavin Ong</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>emi_ng_huilin@moe.edu.sg</p>
+<p>ong_wei_lee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="198">
-<p>Miss Krishna Veni</p>
+<p>Mdm Rekha Rajendran</p>
 </td>
-<td style="text-align: center;" width="330">krishna_veni_rajendran@moe.edu.sg</td>
+<td style="text-align: center;" width="330">rekha_rajendran@moe.edu.sg</td>
 </tr>
+	<tr style="text-align: center;">
+<td rowspan="2" width="113">
 </tbody>
 </table>
 <table>
@@ -609,62 +624,65 @@ third_nav_title: School Organisation
 <td rowspan="2" width="113">
 <p>6 Aspiration</p>
 </td>
-<td width="198">Mrs Sharon Tan</td>
+<td width="198">Mdm Quek Lew Cheng	
+</td>
 <td width="330">
-<p>sharon_goh_choo_lin@moe.edu.sg</p>
+<p>quek_lew_cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
 <td width="198">
-<p>Mdm Maznah Bte Yusak</p>
+<p>Mdm Kamaliah Abdul Jalil</p>
 </td>
 <td width="330">
-<p>maznah_yusak@moe.edu.sg</p>
+<p>kamaliah_abdul_jalil@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
 <td rowspan="2" width="113">
 <p>6 Benevolence</p>
 </td>
-<td width="198">Mdm Suckjit Kaur</td>
+<td width="198">Mrs Sharon Ee</p>
+<p>Mr Ameer Ahamed Khan</p>
 <td width="330">
-<p>kaur_suckjit_singh_bang@moe.edu.sg</p>
+<p>sharon_cheng_shi_min@moe.edu.sg</p>
+<p>ameer_ahamed_khan_amanullah@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
-<td width="198">Mr Gavin Ong</td>
-<td width="330">ong_wei_lee@moe.edu.sg</td>
+<td width="198">Ms Norisah Bte Md Ismail	</td>
+<td width="330">norisah_md_ismail@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
 <td rowspan="2" width="113">
 <p>6 Confidence</p>
 </td>
 <td width="198">
-<p>Ms Zaishereen Bte Aman</p>
+<p>Mdm Lim Winnie</p>
 </td>
 <td width="330">
-<p>zaishereen_aman@moe.edu.sg</p>
+<p>lim_winnie@moe.edu.sg	</p>
 </td>
 </tr>
 <tr style="text-align: center;">
-<td width="198">Ms Josephine Poh</td>
-<td width="330">poh_jia_lin_josephine@moe.edu.sg</td>
+<td width="198">Mdm Eunice Bor</td>
+<td width="330">bor_bee_cheoh_eunice@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
 <td rowspan="2" width="113">
 <p>6 Diligence</p>
 </td>
-<td width="198">Mdm Sharifah Zaleha Bte S Mansor</td>
+<td width="198">Miss Lee Mong Lan</td>
 <td width="330">
-<p>sharifah_zaleha_s_mansor@moe.edu.sg</p>
+<p>lee_mong_lan@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
 <td width="198">
-<p>Miss Sim Yu Xian</p>
+<p>Mr Paul Chan</p>
 </td>
 <td width="330">
-<p>sim_yu_xian@moe.edu.sg</p>
+<p>chan_ng_poh_huat@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -672,34 +690,19 @@ third_nav_title: School Organisation
 <p>6 Excellence</p>
 </td>
 <td width="198">
-<p>Mdm Leong Lai Lan</p>
+<p>Mdm Suckjit Kaur</p>
 </td>
 <td width="330">
-<p>leong_lai_lan@moe.edu.sg</p>
+<p>kaur_suckjit_singh_bang@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
 <td width="198">
-<p>Mr Teo Beng Hwee</p>
+<p>Mdm Foo Li Ying, Pauline</p>
 </td>
-<td width="330">teo_beng_hwee@moe.edu.sg</td>
+<td width="330">foo_li_ying_pauline@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
 <td rowspan="2" width="113">
-<p>6 Faith</p>
-</td>
-<td width="198">Mrs Sharon Ee</td>
-<td width="330">
-<p>sharon_cheng_shi_min@moe.edu.sg&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mdm Razana bte Abdul Rahman</p>
-</td>
-<td width="330">
-<p style="text-align: center;">razana_abdul_rahman@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
