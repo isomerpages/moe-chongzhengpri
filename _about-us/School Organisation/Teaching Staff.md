@@ -8,9 +8,7 @@ third_nav_title: School Organisation
 <tbody>
 <tr>
 <td colspan="3" width="642">
-<p style="text-align: center;"><strong>Primary 1</strong></p>
-<p style="text-align: center;">Year Head: Ms Farah</p>
-<p style="text-align: center;">Assistant Year Head (Acting): Ms Joey Lim</p>
+<p style="text-align: center;"><strong>Primary 1</strong><br>Year Head: Ms Farah<br>Assistant Year Head (Acting): Ms Joey Lim</p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -37,12 +35,10 @@ third_nav_title: School Organisation
 </tr>
 <tr style="text-align: center;">
 <td width="198">
-<p>Mdm Goh Swee Eem</p>
-<p>Mdm Jaslyn Koh</p>
+<p>Mdm Goh Swee Eem<br>Mdm Jaslyn Koh</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>goh_swee_eem@moe.edu.sg</p>
-<p>gao_chujuan@moe.edu.sg</p>
+<p>goh_swee_eem@moe.edu.sg<br>gao_chujuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -148,8 +144,7 @@ third_nav_title: School Organisation
 <tbody>
 <tr>
 <td style="text-align: center;" colspan="3" width="642">
-<p><strong>Primary 2</strong></p>
-<p>Year Head: Mdm Farah</p>
+<p><strong>Primary 2</strong><br>Year Head: Mdm Farah</p>
 </td>
 </tr>
 <tr>
@@ -259,12 +254,11 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="198">Mdm Vera Tan</p>
-<p>Mdm Law Koon Eng</p>
+<td style="text-align: center;" width="198">
+<p>Mdm Vera Tan<br>Mdm Law Koon Eng</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>tan_hiang_lang_vera@moe.edu.sg</p>
-<p>law_koon_eng@moe.edu.sg</p>
+<p>tan_hiang_lang_vera@moe.edu.sg<br>law_koon_eng@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -275,8 +269,7 @@ third_nav_title: School Organisation
 <tbody>
 <tr>
 <td style="text-align: center;" colspan="3" width="642">
-<p><strong>Primary 3</strong></p>
-<p>Year Head: Mr Kevin Joseph Francis</p>
+<p><strong>Primary 3</strong><br>Year Head: Mr Kevin Joseph Francis</p>
 </td>
 </tr>
 <tr>
@@ -385,8 +378,7 @@ third_nav_title: School Organisation
 <tbody>
 <tr>
 <td style="text-align: center;" colspan="3" width="642">
-<p><strong>Primary 4</strong></p>
-<p>Year Head: Mr Kevin Joseph Francis</p>
+<p><strong>Primary 4</strong><br>Year Head: Mr Kevin Joseph Francis</p>
 </td>
 </tr>
 <tr>
@@ -459,12 +451,10 @@ third_nav_title: School Organisation
 <p>4 Diligence</p>
 </td>
 <td style="text-align: center;" width="198">
-<p>Ms Emi Tan Huilin</p>
-	<p>Mdm Sharifah Zaleha Bte S Mansor</p>
+<p>Ms Emi Tan Huilin<br>Mdm Sharifah Zaleha Bte S Mansor</p>
 </td>
 <td style="text-align: center;" width="330">
-<p>emi_ng_huilin@moe.edu.sg</p>
-<p>sharifah_zaleha_s_mansor@moe.edu.sg</p>
+<p>emi_ng_huilin@moe.edu.sg<br>sharifah_zaleha_s_mansor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -500,8 +490,7 @@ third_nav_title: School Organisation
 <tbody>
 <tr>
 <td style="text-align: center;" colspan="3" width="642">
-<p><strong>Primary 5</strong></p>
-<p>Year Head: Mr Peter Seah</p>
+<p><strong>Primary 5</strong><br>Year Head: Mr Peter Seah</p>
 </td>
 </tr>
 <tr>
@@ -605,8 +594,7 @@ third_nav_title: School Organisation
 <tbody>
 <tr style="text-align: center;">
 <td colspan="3" width="642">
-<p><strong>Primary 6</strong></p>
-<p>Year Head: Mr Peter Seah<strong><br /></strong></p>
+<p><strong>Primary 6</strong><br>Year Head: Mr Peter Seah</p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -642,11 +630,9 @@ third_nav_title: School Organisation
 <td rowspan="2" width="113">
 <p>6 Benevolence</p>
 </td>
-<td width="198">Mrs Sharon Ee</p>
-<p>Mr Ameer Ahamed Khan</p>
+<td width="198"><p>Mrs Sharon Ee<br>Mr Ameer Ahamed Khan</p>
 <td width="330">
-<p>sharon_cheng_shi_min@moe.edu.sg</p>
-<p>ameer_ahamed_khan_amanullah@moe.edu.sg</p>
+<p>sharon_cheng_shi_min@moe.edu.sg<br>ameer_ahamed_khan_amanullah@moe.edu.sg</p>
 </td>
 </tr>
 <tr style="text-align: center;">
