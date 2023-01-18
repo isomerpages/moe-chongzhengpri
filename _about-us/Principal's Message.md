@@ -13,7 +13,7 @@ description: ""
 <p align="justify">Paired with our Mission, we want everyone here at Chongzheng to experience school life to the fullest, develop our minds and also continue to give back to the wider community.  In time to come, we will also re-look at our school Values and look for enhancements that can reflect the anchors which we use to develop each and every Chongzheng star.
 <p align="justify">Close to our heart is also <Strong>our school Motto, “Confident and Steadfast”,</Strong> which reminds us of our beginnings, and what the school sets out to inculcate in every Chongzheng student. Besides that, “Living and Learning in Chongzheng” is not just a line in our school song. It is a line we take seriously and we seek to provide the “Best Day Ever” for our children when they learn, play and interact with others both in and out of the classroom. With the Growth Mindset as one of our basis for development, we are confident that 2023 will be a wonderful year for us here at Chongzheng, and we remain steadfast in the face of challenges that may come our way.
 <p align="justify">Enjoy navigating the website, and see for yourself, how vibrant school life is at Chongzheng.
-<p align="justify">All the best for 2023!</p>
+<br>All the best for 2023!</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
