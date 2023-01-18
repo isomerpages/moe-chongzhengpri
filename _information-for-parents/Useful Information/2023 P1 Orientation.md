@@ -4,10 +4,5 @@ permalink: /information-for-parents/useful-information/2023-p1-orientation/
 description: ""
 third_nav_title: Useful Information
 ---
-
-<p><strong><a href="/files/0%20P1%20Student%20Guide%20for%20Parents.pdf">0. P1 Student Guide for Parents.pdf</a></strong></p>
-<p><strong><a href="/files/1%20P1%20Orientation%20-%20Principal's%20Time%20-%20to%20publish.pdf">1. P1 Orientation - Principal's Time - to publish.pdf</a></strong></p>
-<p><strong><a href="/files/2%20YH%20Sharing%20-%20to%20publish.pdf">2. YH Sharing - to publish.pdf</a></strong></p>
-<p><strong><a href="/files/3%20EL%20slides%20for%20P1%20parents%202021%20-%20to%20publish.pdf">3. EL slides for P1 parents 2021 - to publish.pdf</a></strong></p>
-<p><strong><a href="/files/4%202021%20P1%20Orientation%20Math_22_Nov%20-%20to%20publish.pdf">4. 2021 P1 Orientation Math_22_Nov - to publish.pdf</a></strong></p>
-<p><strong><a href="/files/5%20P1%20Orientation%20PAM%20Experience%202022%20-%20to%20publish.pdf">5. P1 Orientation PAM Experience 2022 - to publish.pdf</a></strong></p>
+<h4><strong>Materials from the P1 Orientation</strong></h4>
+<p><a href="/files/2022%20P1%20Orientation%20Collated.pdf" target="_blank" rel="noopener">Sharing by Year Head</a><br /><a href="/files/Slides%20on%20Admin%20Matters.pdf" target="_blank" rel="noopener">Admin Matters</a><br /><a href="/files/2022%20P1%20Orientation%20FAQ%20from%20Padlet.pdf" target="_blank" rel="noopener">FAQ from Padlet</a></p>
