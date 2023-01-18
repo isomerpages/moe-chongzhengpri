@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: Cyberwellness Fest
+        - title: 2023 P1 Parents' Talk
           description: Read More
-          url: /czps-news/special-events/cyberwellness-fest
-        - title: Prefects e-Investiture
+          url: /information-for-parents/useful-information/p1-parents-talk
+        - title: CZ E.P.I.C Day!
           description: Read More
-          url: /czps-news/special-events/prefects-e-investiture
-        - title: Chinese New Year
+          url: /czps-news/special-events/e-p-i-c-day
+        - title: CCA Fiesta
           description: Read More
-          url: /czps-news/special-events/chinese-new-year
+          url: /czps-news/special-events/cca-fiesta-1
   - resources:
       title: Announcements
       button: More
