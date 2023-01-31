@@ -1,0 +1,39 @@
+collections:
+  czps-experience:
+    output: true
+    order:
+      - Curriculum/English.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/PE, Art and Music.md
+      - Curriculum/Character and Citizenship Education.md
+      - Curriculum/ICT.md
+      - Curriculum/.keep
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/Rugby.md
+      - CCA/Hockey.md
+      - CCA/Wushu.md
+      - CCA/Modular CCA (Sports).md
+      - CCA/Girl Guides (Brownies).md
+      - CCA/Scouts.md
+      - CCA/Angklung.md
+      - CCA/Choir.md
+      - CCA/Chinese Dance.md
+      - CCA/Malay Dance.md
+      - CCA/Indian Dance.md
+      - CCA/Modern Dance.md
+      - CCA/Art & Crafts Club.md
+      - CCA/Environmental Science Club.md
+      - CCA/Digital Media.md
+      - CCA/Speech and Drama.md
+      - Distinctive Programme/.keep
+      - Distinctive Programme/Distinctive Programme.md
+      - Distinctive Programme/ALP.md
+      - Distinctive Programme/Project Work – Values–In–Action (PW–VIA).md
+      - Distinctive Programme/Talent Development (INNOKIDZ PROGRAMME).md
+      - Distinctive Programme/LLP.md
+      - E Open House/E–Open House.md
+      - E Open House/P1 Experience.md
+      - E Open House/.keep
