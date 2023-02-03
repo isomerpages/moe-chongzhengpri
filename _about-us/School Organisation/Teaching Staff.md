@@ -4,142 +4,76 @@ permalink: /about-us/school-organisation/teaching-staff/
 description: ""
 third_nav_title: School Organisation
 ---
-<table style="margin-left: auto; margin-right: auto;">
+<h3>Primary 1<br>
+Year Head: Ms Farah<br>
+Assistant Year Head (Acting): Ms Joey Lim</h3>
+
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teachers</th>
+    <th>Email</th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td colspan="3" width="642">
-<p style="text-align: center;"><strong>Primary 1</strong><br>Year Head: Ms Farah<br>Assistant Year Head (Acting): Ms Joey Lim</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="113">
-<p><strong>Class</strong></p>
-</td>
-<td width="198">
-<p><strong>Form Teachers</strong></p>
-</td>
-<td width="330">
-<p><strong>Email</strong></p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
-<p>1 Aspiration</p>
-</td>
-<td width="198">
-<p>Mdm Nur Saqinah Bte Adnan</p>
-</td>
-<td width="330">
-<p>nur_saqinah_adnan@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="198">
-<p>Mdm Goh Swee Eem<br>Mdm Jaslyn Koh</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>goh_swee_eem@moe.edu.sg<br>gao_chujuan@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
-<p>1 Benevolence</p>
-</td>
-<td width="198">
-<p>Mdm Azidah Aman</p>
-</td>
-<td width="330">
-<p>azidah_aman@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="198">
-<p>Mdm Sim Bee Kim</p>
-</td>
-<td width="330">
-<p>sim_bee_kim@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
-<p>1 Confidence</p>
-</td>
-<td width="198">
-<p>Mrs Ang Li Hoon</p>
-</td>
-<td width="330">
-<p>neo_li_hoon@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="198">
-<p>Miss Krishna Veni</p>
-</td>
-<td width="330">
-<p>krishna_veni_rajendran@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
-<p>1 Diligence</p>
-</td>
-<td width="198">
-<p>Mdm Hasnita Binte Surani</p>
-</td>
-<td width="330">
-<p>hasnita_surani@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="198">
-<p>Mr Jay Chu</p>
-</td>
-<td width="330">
-<p>chu_hin_wa@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
-<p>1 Excellence</p>
-</td>
-<td width="198">
-<p>Mrs Karen Yeo</p>
-</td>
-<td width="330">
-<p>karen_yeo_han_leng@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="198">
-<p>Mdm Norisha Bte Ismail</p>
-</td>
-<td width="330">
-<p>norisha_ismail@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
-<p>1 Faith</p>
-</td>
-<td width="198">
-<p>Mrs Brenda Tan</p>
-</td>
-<td width="330">
-<p>lim_yen_theng@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td width="198">
-<p>Mdm Nurhiza Bte Mohamed</p>
-</td>
-<td width="330">
-<p>nurhiza_mohamed@moe.edu.sg</p>
-</td>
-</tr>
-	<tr style="text-align: center;">
-<td rowspan="2" width="113">
+  <tr>
+    <td rowspan="2">1 Aspiration</td>
+    <td>Mdm Nur Saqinah Bte Adnan</td>
+    <td>nur_saqinah_adnan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Goh Swee Eem<br>Mdm Jaslyn Koh</td>
+    <td>goh_swee_eem@moe.edu.sg<br>gao_chujuan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Benevolence</td>
+    <td>Mdm Azidah Aman</td>
+    <td>azidah_aman@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Sim Bee Kim</td>
+    <td>sim_bee_kim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Confidence</td>
+    <td>Mrs Ang Li Hoon</td>
+    <td>neo_li_hoon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Krishna Veni</td>
+    <td>krishna_veni_rajendran@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Diligence</td>
+    <td>Mdm Hasnita Binte Surani</td>
+    <td>hasnita_surani@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Jay Chu</td>
+    <td>chu_hin_wa@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Excellence</td>
+    <td>Mrs Karen Yeo</td>
+    <td>karen_yeo_han_leng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Norisha Bte Ismail</td>
+    <td>norisha_ismail@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Faith</td>
+    <td>Mrs Brenda Tan</td>
+    <td>lim_yen_theng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Nurhiza Bte Mohamed</td>
+    <td>nurhiza_mohamed@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
+
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
