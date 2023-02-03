@@ -4,9 +4,9 @@ permalink: /about-us/school-organisation/teaching-staff/
 description: ""
 third_nav_title: School Organisation
 ---
-<h3>Primary 1<br>
+<h4>Primary 1<br>
 Year Head: Ms Farah<br>
-Assistant Year Head (Acting): Ms Joey Lim</h3>
+Assistant Year Head (Acting): Ms Joey Lim</h4>
 
 <table>
 <thead>
@@ -74,240 +74,132 @@ Assistant Year Head (Acting): Ms Joey Lim</h3>
 </tbody>
 </table>
 
-<table style="margin-left: auto; margin-right: auto;">
+<h4>Primary 2<br>Year Head: Mdm Farah</h4>
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teachers</th>
+    <th>Email</th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td style="text-align: center;" colspan="3" width="642">
-<p><strong>Primary 2</strong><br>Year Head: Mdm Farah</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="113">
-<p><strong>Class</strong></p>
-</td>
-<td style="text-align: center;" width="198">
-<p><strong>Form Teachers</strong></p>
-</td>
-<td style="text-align: center;" width="330">
-<p><strong>Email</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>2 Aspiration</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Mdm Elaine Goh</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>goh_yi_ling_elaine@moe.edu.sg&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mdm Siti Zubaidah Bte Sarip</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>siti_zubaidah_sarip@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>2 Benevolence</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Mrs Ivory Ho</p>
-</td>
-<td style="text-align: center;" width="330">koh_hui_tian@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Ms Su Rui</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>su_rui_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>2 Confidence</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Mrs Candice Tu</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>tan_shuwen_candice@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mdm Siti Khairunnisa Bte Ariffin</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>siti_khairunnisa_ariffin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>2 Diligence</p>
-</td>
-<td style="text-align: center;" width="198">Mdm Mastura Bte Mohamed</td>
-<td style="text-align: center;" width="330">mastura_mohamed@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mdm Siew Huay Ming</p>
-<td style="text-align: center;" width="330">
-<p>siew_huay_ming@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>2 Excellence</p>
-</td>
-<td style="text-align: center;" width="198">Mdm Nor Aisah Bte Ahmat</td>
-<td style="text-align: center;" width="330">
-<p>nor_aisah_ahmat@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Ms Joey Lim&nbsp;</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>lim_pei_na_joey@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>2 Faith</p>
-</td>
-<td style="text-align: center;" width="198">Mrs Rachel Lam</td>
-<td style="text-align: center;" width="330">
-<p>tan_lay_ming_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mdm Vera Tan<br>Mdm Law Koon Eng</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>tan_hiang_lang_vera@moe.edu.sg<br>law_koon_eng@moe.edu.sg</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="2" width="113">
+  <tr>
+    <td rowspan="2">2 Aspiration</td>
+    <td>Mdm Elaine Goh</td>
+    <td>goh_yi_ling_elaine@moe.edu.sg </td>
+  </tr>
+  <tr>
+    <td>Mdm Siti Zubaidah Bte Sarip</td>
+    <td>siti_zubaidah_sarip@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Benevolence</td>
+    <td>Mrs Ivory Ho</td>
+    <td>koh_hui_tian@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Su Rui</td>
+    <td>su_rui_b@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Confidence</td>
+    <td>Mrs Candice Tu</td>
+    <td>tan_shuwen_candice@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Siti Khairunnisa Bte Ariffin</td>
+    <td>siti_khairunnisa_ariffin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Diligence</td>
+    <td>Mdm Mastura Bte Mohamed</td>
+    <td>mastura_mohamed@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Siew Huay Ming</td>
+    <td>siew_huay_ming@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Excellence</td>
+    <td>Mdm Nor Aisah Bte Ahmat</td>
+    <td>nor_aisah_ahmat@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Joey Lim </td>
+    <td>lim_pei_na_joey@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Faith</td>
+    <td>Mrs Rachel Lam</td>
+    <td>tan_lay_ming_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Vera Tan<br>Mdm Law Koon Eng</td>
+    <td>tan_hiang_lang_vera@moe.edu.sg<br>law_koon_eng@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="3" width="642">
-<p><strong>Primary 3</strong><br>Year Head: Mr Kevin Joseph Francis</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="113">
-<p><strong>Class</strong></p>
-</td>
-<td style="text-align: center;" width="198">
-<p><strong>Form Teachers</strong></p>
-</td>
-<td style="text-align: center;" width="330">
-<p><strong>Email</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>3 Aspiration</p>
-</td>
-<td style="text-align: center;" width="198">Mdm Hajar Bibi Bte Abdul Rashid</td>
-<td style="text-align: center;" width="330">
-<p>hajar_bibi_abdul_rashid@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">Mr Ling Wei Yong</td>
-<td style="text-align: center;" width="330">
-<p>ling_wei_yong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>3 Benevolence</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Ms Kwan Shiow Yan</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>kwan_shiow_yan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Miss Ng Bao Lin</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>ng_bao_lin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>3 Confidence</p>
-</td>
-<td style="text-align: center;" width="198">Ms Nur Farhana Bte Hamzah</td>
-<td style="text-align: center;" width="330">
-<p>nur_farhana_hamzah@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">Mr Mohamad Rafey Bin Abdul Jalil</td>
-<td style="text-align: center;" width="330">
-<p>mohamad_rafey@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>3 Diligence</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Mrs Sharleen Ong</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>chong_siew_lee_sharleen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mr Mohamed Izzat</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>mohamed_izzat_mohamed_sarip@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">
-<p>3 Excellence</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Mdm Razidah Bte Amat
 
-</p>
-</td>
-<td style="text-align: center;" width="330">
-<p>razidah_amat@moe.edu.sg&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">Mdm Razana bte Abdul Rahman</td>
-<td style="text-align: center;" width="330">
-<p>razana_abdul_rahman@moe.edu.sg</p>
-</td>
-</tr>
-	<tr style="text-align: center;">
-<td rowspan="2" width="113">
+<h4>Primary 3<br>Year Head: Mr Kevin Joseph Francis</h4>
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teachers</th>
+    <th>Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">3 Aspiration</td>
+    <td>Mdm Hajar Bibi Bte Abdul Rashid</td>
+    <td>hajar_bibi_abdul_rashid@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Ling Wei Yong</td>
+    <td>ling_wei_yong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Benevolence</td>
+    <td>Ms Kwan Shiow Yan</td>
+    <td>kwan_shiow_yan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Miss Ng Bao Lin</td>
+    <td>ng_bao_lin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Confidence</td>
+    <td>Ms Nur Farhana Bte Hamzah</td>
+    <td>nur_farhana_hamzah@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Mohamad Rafey Bin Abdul Jalil</td>
+    <td>mohamad_rafey@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Diligence</td>
+    <td>Mrs Sharleen Ong</td>
+    <td>chong_siew_lee_sharleen@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Mohamed Izzat</td>
+    <td>mohamed_izzat_mohamed_sarip@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Excellence</td>
+    <td>Mdm Razidah Bte Amat</td>
+    <td>razidah_amat@moe.edu.sg </td>
+  </tr>
+  <tr>
+    <td>Mdm Razana bte Abdul Rahman</td>
+    <td>razana_abdul_rahman@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
+
+
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
