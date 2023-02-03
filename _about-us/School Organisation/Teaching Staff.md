@@ -4,9 +4,9 @@ permalink: /about-us/school-organisation/teaching-staff/
 description: ""
 third_nav_title: School Organisation
 ---
-<h4>Primary 1<br>
-Year Head: Ms Farah<br>
-Assistant Year Head (Acting): Ms Joey Lim</h4>
+<h4>Primary 1</h4>
+<h5>Year Head: Ms Farah<br>
+Assistant Year Head (Acting): Ms Joey Lim</h5>
 
 <table>
 <thead>
@@ -74,7 +74,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h4>
 </tbody>
 </table>
 
-<h4>Primary 2<br>Year Head: Mdm Farah</h4>
+<h4>Primary 2</h4>
+<h5>Year Head: Mdm Farah</h5>
 <table>
 <thead>
   <tr>
@@ -141,7 +142,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h4>
 </tbody>
 </table>
 
-<h4>Primary 3<br>Year Head: Mr Kevin Joseph Francis</h4>
+<h4>Primary 3</h4>
+<h5>Year Head: Mr Kevin Joseph Francis</h5>
 <table>
 <thead>
   <tr>
@@ -199,7 +201,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h4>
 </tbody>
 </table>
 
-<h4>Primary 4<br>Year Head: Mr Kevin Joseph Francis</h4>
+<h4>Primary 4</h4>
+<h5>Year Head: Mr Kevin Joseph Francis</h5>
 
 <table>
 <thead>
@@ -258,7 +261,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h4>
 </tbody>
 </table>
 
-<h4>Primary 5<br>Year Head: Mr Peter Seah</h4>
+<h4>Primary 5</h4>
+<h5>Year Head: Mr Peter Seah</h5>
 <table>
 <thead>
   <tr>
@@ -316,7 +320,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h4>
 </tbody>
 </table>
 
-<h4>Primary 6<br>Year Head: Mr Peter Seah</h4>
+<h4>Primary 6</h4>
+<h5>Year Head: Mr Peter Seah</h5>
 
 <table>
 <thead>
