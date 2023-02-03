@@ -4,9 +4,9 @@ permalink: /about-us/school-organisation/teaching-staff/
 description: ""
 third_nav_title: School Organisation
 ---
-<h4>Primary 1</h4>
+<center><h4>Primary 1</h4>
 <h5>Year Head: Ms Farah<br>
-Assistant Year Head (Acting): Ms Joey Lim</h5>
+Assistant Year Head (Acting): Ms Joey Lim</h5></center>
 
 <table>
 <thead>
