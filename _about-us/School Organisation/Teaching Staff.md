@@ -74,8 +74,9 @@ Assistant Year Head (Acting): Ms Joey Lim</h5></center>
 </tbody>
 </table>
 
-<h4>Primary 2</h4>
-<h5>Year Head: Mdm Farah</h5>
+<center><h4>Primary 2</h4>
+<h5>Year Head: Mdm Farah</h5></center>
+
 <table>
 <thead>
   <tr>
@@ -142,8 +143,9 @@ Assistant Year Head (Acting): Ms Joey Lim</h5></center>
 </tbody>
 </table>
 
-<h4>Primary 3</h4>
-<h5>Year Head: Mr Kevin Joseph Francis</h5>
+<center><h4>Primary 3</h4>
+<h5>Year Head: Mr Kevin Joseph Francis</h5></center>
+
 <table>
 <thead>
   <tr>
@@ -201,8 +203,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h5></center>
 </tbody>
 </table>
 
-<h4>Primary 4</h4>
-<h5>Year Head: Mr Kevin Joseph Francis</h5>
+<center><h4>Primary 4</h4>
+<h5>Year Head: Mr Kevin Joseph Francis</h5></center>
 
 <table>
 <thead>
@@ -261,8 +263,9 @@ Assistant Year Head (Acting): Ms Joey Lim</h5></center>
 </tbody>
 </table>
 
-<h4>Primary 5</h4>
-<h5>Year Head: Mr Peter Seah</h5>
+<center><h4>Primary 5</h4>
+<h5>Year Head: Mr Peter Seah</h5></center>
+
 <table>
 <thead>
   <tr>
@@ -320,8 +323,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h5></center>
 </tbody>
 </table>
 
-<h4>Primary 6</h4>
-<h5>Year Head: Mr Peter Seah</h5>
+<center><h4>Primary 6</h4>
+<h5>Year Head: Mr Peter Seah</h5></center>
 
 <table>
 <thead>
