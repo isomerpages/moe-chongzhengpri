@@ -21,8 +21,4 @@ sections:
   - resources:
       title: Announcements
       button: More
-  - infopic:
-      title: Year End sale of school textbooks and uniforms Schedule
-      image: /images/yes.png
-      alt: Image alt text
 ---
