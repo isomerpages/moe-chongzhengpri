@@ -6,7 +6,6 @@ third_nav_title: School Organisation
 ---
 <table>
 <tbody>
-<tr>
 <th>ADMIN STAFF</th>
 </tr>
 <tr>
@@ -31,7 +30,7 @@ third_nav_title: School Organisation
 </tr>
 	<td>Mdm Muthmainnah Binte Dailami</td>
 <td><strong>Corporate Support Officer</strong></td>
-</tr>
+
 </tbody>
 </table>
 <table>
