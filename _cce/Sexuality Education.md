@@ -7,7 +7,7 @@ description: ""
 <img style="width: 80%;" src="/images/se1.png">
 <img style="width: 80%;" src="/images/se2.png">
 <p><a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener" name="Sexuality Education">You may click&nbsp;</a><a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener">here&nbsp;</a>for more information on MOE Sexuality Education.</p>
-<p><strong>Schedule of Sexuality Education for P5 students of Chongzheng Primary School in 2022:</strong></p>
-<img style="width: 100%;" src="/images/se3.png">
-<p><strong>Schedule of Sexuality Education for P6 students of Chongzheng Primary School in 2022:</strong></p>
-<img style="width: 100%;" src="/images/se4.png">
+<p><strong>Schedule of Sexuality Education for P5 students of Chongzheng Primary School in 2023:</strong></p>
+<img style="width: 100%;" src="/images/2023 P5 Schedule of Sed.png">
+<p><strong>Schedule of Sexuality Education for P6 students of Chongzheng Primary School in 2023:</strong></p>
+<img style="width: 100%;" src="/images/2023 P6 Schedule of SEd.png">

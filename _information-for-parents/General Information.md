@@ -18,9 +18,3 @@ description: ""
 <img style="width: 75%;" src="/images/gi4.jpeg">
 <p>The Continental Book Center<br />Mr James Low<br />Tel: 6788 5269<br />Opening Hours:<br />Monday - Friday, 9am - 3pm</p>
 <p><strong>Student's Protection Plan<br /></strong>NTUC Income Insurance Co-operative Limited Income Centre<br />75 Bras Basah Road<br />Singapore 189557<br />Tel: 6788 1777</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Year End sale of school textbooks and uniforms Schedule</strong></h4>
-<img style="width: 80%;" src="/images/buc.png" />
