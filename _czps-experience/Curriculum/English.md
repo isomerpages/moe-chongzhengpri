@@ -19,7 +19,9 @@ The main approach used in the teaching of English Language is STELLAR (Strategie
 
 <h5><strong>ICT Infusion:</strong></h5>
 ICT is used pervasively to help support the teaching and learning of the English curriculum. 
-![](/images/EL%20Website%2001.jpg)![](/images/EL%20Website%2002.jpg)![](/images/EL%20Website%2003.jpg)
+<img src="/images/EL Website 01.jpg">
+<img src="/images/EL Website 02.jpg">
+<img src="/images/EL Website 03.jpg">
 <h5><strong>Other EL Programmes </strong></h5>
 <p><strong>*   LEAP Star</strong></p>
 The EL department plans and implements level focused programmes in Term 3. Through the course of a few weeks, creative and engaging English activities aligned with the SOW will also be set up to develop oracy skills through different platforms at each level.  .
