@@ -11,4 +11,4 @@ Click the respective buttons below to find out more:
 
 ||||||
 |-|-|-|-|-|
-| [National Education](/StudentDevelopmentExperience/national-education/) | Sexuality Education | Co-curricular Activities | Project Work | Student Leadership |
+| [National Education](/StudentDevelopmentExperience/national-education/) | [Sexuality Education](/StudentDevelopmentExperience/sexuality-education/)| Co-curricular Activities | Project Work | Student Leadership |
