@@ -16,4 +16,4 @@ third_nav_title: Curriculum
 <p>The CCE student-centred programmes are guided by the three key concepts of CCE &ndash; Identity, Relationship and Choices, and designed with the CZ Experience of &ldquo;Know It&rdquo;, &ldquo;Feel It&rsquo; and &ldquo;Live It&rdquo; in mind.&nbsp;</p>
 <img style="width: 80%;" src="/images/cce4.png">
 <p>CCE curriculum comprises CCE Form Teacher Guidance Period (FTGP) sessions, CCE Mother Tongue Language (MTL) lessons as well as Programme for Active Learning (PAL). Student development experiences (SDEs) like the National Education (NE) Commemorative Days, Co-curricular (CCA) Activities, Project Work cum VIA and Student Leadership Development through the school&rsquo;s distinctive programme reinforce the formal CCE curriculum. The various key programmes and activities are integrated into every level to equip our students with the necessary knowledge, skills and values.</p>
-<a href=""><img src="/images/cce5.png"></a>
+<a href="/StudentDevelopmentExperience/StudentDevelopmentExperiences/"><img src="/images/cce5.png"></a>
