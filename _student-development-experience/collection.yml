@@ -1,4 +1,5 @@
 collections:
   student-development-experience:
     output: true
-    order: []
+    order:
+      - Student Development Experiences.md
