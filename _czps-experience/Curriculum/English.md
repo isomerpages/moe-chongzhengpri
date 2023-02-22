@@ -15,15 +15,16 @@ The main approach used in the teaching of English Language is STELLAR (Strategie
 *   writing
 
 <h5><strong>CZ Reading Programmes:</strong></h5>
-<p>To support the STELLAR curriculum, the school aims to encourage students to read widely through planned school – wide reading programmes. Students can search for books in the CZPS Library by accessing the CZPS Library Catalogue online (https://schoolibrary.moe.edu.sg/chongzhengpri) and the NLB Discover Reads: (https://childrenandteens.nlb.gov.sg)</p>
+<p>To support the STELLAR curriculum, the school aims to encourage students to read widely through planned school – wide reading programmes. Students can search for books in the CZPS Library by accessing the CZPS Library Catalogue online (https://schoolibrary.moe.edu.sg/chongzhengpri) and the NLB Discover Reads: (https://childrenandteens.nlb.gov.sg</p>
+<p><img src="/images/CZPS%20Reading%20Programme%202023.png"><p>
 
 <h5><strong>ICT Infusion:</strong></h5>
 ICT is used pervasively to help support the teaching and learning of the English curriculum. 
 <img style="width:75%; height:325px" src="/images/EL Website 01.jpg"><p>
 <img style="width:75%; height:325px;" src="/images/EL Website 02.jpg"><p>
 <img style="width:75%; height:325px"  src="/images/EL Website 03.jpg">
-<h5><strong>Other EL Programmes </strong></h5>
-<p><strong>*   LEAP Star</strong></p>
+<h5><strong>Other EL Programmes </strong></h5><Strong><li>
+	LEAP Star</strong></p>
 The EL department plans and implements level focused programmes in Term 3. Through the course of a few weeks, creative and engaging English activities aligned with the SOW will also be set up to develop oracy skills through different platforms at each level.  .
 
 <h5><strong>USEFUL INFORMATION</strong></h5>
