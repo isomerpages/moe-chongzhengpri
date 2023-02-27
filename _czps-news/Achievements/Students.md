@@ -78,7 +78,7 @@ P4 Bronze :
 * Isaac Tan Ze Kai
 * Lee Jia En, Viviana
 
-**Friend of Singa Award**
+<b>Friend of Singa Award</b>
 * Tey Kai Qi, Kate
 * Hebbali Shankar
 * Lewis Yip Chuen Yuen
