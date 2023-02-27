@@ -4,6 +4,33 @@ permalink: /czps-news/achievements/cca/
 description: ""
 third_nav_title: Achievements
 ---
+<h4><strong>National School Games 2022</strong></h4>
+·       Hockey Senior Boys – Silver
+
+·       Hockey Junior Boys – 5th Place
+
+·       Hockey Senior Girls – 4th Place
+
+·       Hockey Junior Girls – 5th Place
+
+·       Rugby – 4th Place in Tier 1
+
+
+
+<h4><strong>Brownies East Division Day 2022</strong></h4>
+
+·       Dance : 2nd Place
+
+·       Toy Making : 2nd Place
+
+·       Patch Design : 2nd Place
+
+·       Cheerleading : 2nd Place
+
+·       Skit/Singing : Merit
+
+·       Snack Making : Merit
+
 <h4><strong>Brownies 2021</strong></h4>
 <p>This year, the girls participated actively in the competitions during the East Division Day 2021. The theme for the event was &lsquo;Girls making a difference&rsquo; and due to COVID-19, the competitions were decentralised. The girls worked well together and they put a lot of effort in planning and creating their submissions. We are happy to share that we won the first place in the dance competition, the third place in the eco-friendly recycled fashion and cheerleading and the fourth place for the skit/singing competition.</p>
 <p>Congratulations to our Brownies for their excellent team work!</p>
