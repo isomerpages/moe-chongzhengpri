@@ -78,7 +78,7 @@ P4 Bronze :
 * Isaac Tan Ze Kai
 * Lee Jia En, Viviana
 
-**Friend of Singa Award **
+**Friend of Singa Award**
 * Tey Kai Qi, Kate
 * Hebbali Shankar
 * Lewis Yip Chuen Yuen
@@ -285,7 +285,8 @@ P4 Bronze :
 <p>Our pieces of artwork from Category A &ldquo;Zoom with Me&rdquo; and Category C &ldquo;R U in Or Out&rdquo; were selected for display for the Official Opening of the Singapore Youth Festival 2021. They were featured using immersive 360-degree virtual technology where selected pieces of artwork were set against a digitalised backdrop of gallery spaces within the National Gallery Singapore.</p>
 <br>
 <br>
-**Future Problem Solving Programme International Conference 2021**
+<b>Future Problem Solving Programme International Conference 2021</b>
+
 <p>Inspired by our starfish story to make a difference in our community, our school Community Problem Solving team (CmPS), the STAR team, who are P5 and P6 InnoKidz and prefects, have achieved the following awards!</p>
 <ul>
 <li>1st place in the Future Problem Solving Program (FPSP) CmPS Junior Division, National Finals 2020</li>
@@ -320,7 +321,7 @@ P4 Bronze :
 </tr>
 </tbody>
 </table>
-<h4><strong>Math Olympiad</strong></h4>
+<b>Math Olympiad</strong></b>
 <p>This year, Chongzheng Primary School participated in 3 Math Competitions, namely:</p>
 <ul>
 <li>Singapore and ASEAN Schools Math Olympiads (SASMO)</li>
