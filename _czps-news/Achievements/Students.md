@@ -4,7 +4,108 @@ permalink: /czps-news/achievements/students/
 description: ""
 third_nav_title: Achievements
 ---
-<h4><strong>2021 SYF Art Exhibition</strong></h4>
+**Swift Explorers Singapore (Coding) 2022**
+* Top 20 Team invited to showcase
+
+**SOTA Primary 6 Art Competition 2022**
+* Nur Safi Bte Shamsulnizam : Top 50 Finalist
+
+**Future Problem Solving Programme : 1st Place**
+* Katie Ho Si Ern
+* Muhammad Zuhair Adnan
+* Ria Hidayah
+* Sarah Ho
+* Syaista Binte Muhammad Fadly
+*	Dean Woo Le Xuan
+* Rachel Abigail Sugiharto
+* Kwan Yat Sum
+
+**I CAN Challenge 2022 : Top 3**
+* Balaprathyush Damodharan
+* Hoy Cher Wei
+* Tey Kai Qi, Kate
+* Koh Rui Heng Braedon
+* Ong Yu Lin
+•	Palani Nidhish
+•	Fitri Nazirah Binte Razali
+•	Nur Alisha Binte Mohamed Ismail
+
+
+
+**SASMO**
+<br>P6 Gold :
+* Choy Wen Xuan, Zeyan
+* Liu Zeyuan
+
+P6 Silver :
+* Hebballi Shankar
+
+6 Bronze : 
+* Isaac Hung Shi
+* Koh Rui Heng Braedon
+* Rayne Ong En Ning
+* Satheeshkumar Piruthivirajj
+* Bajpai Rupesh
+* Yan Zhantu
+
+P5 Silver :
+* Aadhyansh Kumar Gupta
+* Trivedi Akshat
+* Krishnamurthy Keerthana
+* Lee Zhe Rui
+* Tan Zi Qian Elijah
+* Gandi Tanmayee Shri
+
+P5 Bronze : 
+* KANNAN PARVATHAVARTHINI
+* SHANNON MA SHU YA
+* PEK SHI YUN
+
+P4 Gold : 
+* Zhang Kairui
+
+P4 Silver :
+* Rajesh Aadhavan Elara
+* Yau Chen Ee
+
+P4 Bronze :
+* Leow Zhe Kai Immanuel
+* Shen Enning, Tammy
+* Ladwa Samarth
+* Aedan Tan Kai Zhe
+* Darren Elliott Leung
+* Evan Rainier Tanoto
+* Isaac Tan Ze Kai
+* Lee Jia En, Viviana
+
+**Friend of Singa Award **
+* Tey Kai Qi, Kate
+* Hebbali Shankar
+* Lewis Yip Chuen Yuen
+* Wu Chieh-Hsin
+* Kannan Parvathavarthini
+* Sendhanamudhan
+* Mihammad Emir Bahir
+* Mithun Sakthivel
+
+**Tirukkurai Vizha 2022 Literary Competitions**
+* Aravindan Kanishka : Motivational Prize
+* Dhyaananth Prasanthraj : Motivational Prize
+* Akshara Kirthick : 3rd Prize
+* Nivrithie Viswanathan : Motivational Prize
+* Sridhar Venbha : Motivational Prize
+* Ramalingam Pon Ashwin : 3rd Prize
+* Prasanthraj Lohith : Motivational Prize
+
+**SKML Digital Story Creating Competition 2022**
+* Prasanthraj Lohith : 3rd Prize
+* Jagadeesan Harshan : 4th Prize
+
+**Muthamizh Vizha Oratory Contest**
+* Kannan Parvathavarthini : Motivational Prize
+
+
+**2021 SYF Art Exhibition**
 <p>SYF Art Exhibition 2021 celebrates the artist in every student and promotes appreciation for the arts. Themed 'Artist and Technology', the exhibition invited student artists to reflect on how technology has impacted their lives. Through their wonderful pieces of artwork, our students emphasised the importance of safe and responsible usage of technology.</p>
 <p>The SYF Art Exhibition provides opportunities for students to showcase their artistic talents and to promote arts appreciation in schools. The main theme &ldquo;artist&rdquo; remains a consistent theme in every SYF art exhibition. It signifies our belief that every student is unique, and so are their artworks.</p>
 <p>CZ submitted 3 pieces of artwork for 3 different categories as listed below:</p>
@@ -182,7 +283,9 @@ third_nav_title: Achievements
 </tbody>
 </table>
 <p>Our pieces of artwork from Category A &ldquo;Zoom with Me&rdquo; and Category C &ldquo;R U in Or Out&rdquo; were selected for display for the Official Opening of the Singapore Youth Festival 2021. They were featured using immersive 360-degree virtual technology where selected pieces of artwork were set against a digitalised backdrop of gallery spaces within the National Gallery Singapore.</p>
-<h4><strong>Future Problem Solving Programme International Conference 2021</strong></h4>
+<br>
+<br>
+**Future Problem Solving Programme International Conference 2021**
 <p>Inspired by our starfish story to make a difference in our community, our school Community Problem Solving team (CmPS), the STAR team, who are P5 and P6 InnoKidz and prefects, have achieved the following awards!</p>
 <ul>
 <li>1st place in the Future Problem Solving Program (FPSP) CmPS Junior Division, National Finals 2020</li>
