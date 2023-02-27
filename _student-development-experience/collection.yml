@@ -1,0 +1,7 @@
+collections:
+  student-development-experience:
+    output: true
+    order:
+      - Student Development Experiences.md
+      - National Education.md
+      - Sexuality Education.md

@@ -1,8 +1,11 @@
 ---
 title: National Education
-permalink: /czps-experience/curriculum/character-and-citizenship-education/national-education/
+permalink: /StudentDevelopmentExperience/national-education/
 description: ""
 ---
+
+
+
 <p>In CZ, we believe that instilling active citizenry in our pupils is important as part of CCE. With increasing globalization, challenges are inevitable. As we face the next lap in nation building, active citizenry plays a part in maintaining our pride and love for the country. How can your child/ward be an active citizen here in Chongzheng Primary School?&nbsp;</p>
 <p>a) Being an active participant in our National Education events such as Racial Harmony Day, National Day and our cultural celebrations.</p>
 <p>b) Being reflective of what they have learnt.</p>
