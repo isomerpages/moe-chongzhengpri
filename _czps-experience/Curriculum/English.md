@@ -24,8 +24,8 @@ ICT is used pervasively to help support the teaching and learning of the English
 <img style="width:75%; height:325px;" src="/images/EL Website 02.jpg"><p>
 <img style="width:75%; height:325px"  src="/images/EL Website 03.jpg">
 <h5><strong>Other EL Programmes </strong></h5><Strong><li>
-	LEAP Star</strong></p>
-The EL department plans and implements level focused programmes in Term 3. Through the course of a few weeks, creative and engaging English activities aligned with the SOW will also be set up to develop oracy skills through different platforms at each level.  .
+	LEAP Star
+<p>The EL department plans and implements level focused programmes in Term 3. Through the course of a few weeks, creative and engaging English activities aligned with the SOW will also be set up to develop oracy skills through different platforms at each level.  .
 
 <h5><strong>USEFUL INFORMATION</strong></h5>
 <a rel="noopener" target="_blank" href="https://www.roalddahl.com/">Roald Dahl Web</a><br><a rel="noopener" target="_blank" href="https://www.merriam-webster.com/">Online Dictionary</a><br><a rel="noopener" target="_blank" href="https://www.bbc.co.uk/learningenglish/">BBC Learning English</a><p></p>
