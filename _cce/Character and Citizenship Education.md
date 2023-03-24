@@ -24,19 +24,19 @@ description: ""
 <thead>
   <tr>
     <th style="border:none;border-collapse:collapse;border-spacing:0;"></th>
-    <th style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/czps-experience/curriculum/character-and-citizenship-education/cce-ftgp/"><img src="/images/CCE%20(FTGP).jpeg" style="width:50%"></a></th>
+    <th style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/czps-experience/curriculum/character-and-citizenship-education/cce-ftgp/"><img src="/images/CCE%20(FTGP).jpeg" style="width:33%"></a></th>
     <th style="border:none;border-collapse:collapse;border-spacing:0;"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/czps-experience/curriculum/character-and-citizenship-education/cce-mtl/"><img src="/images/CCE%20(MTL).jpeg" style="width:50%"></a></td>
+    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/czps-experience/curriculum/character-and-citizenship-education/cce-mtl/"><img src="/images/CCE%20(MTL).jpeg" style="width:33%"></a></td>
     <td style="border:none;border-collapse:collapse;border-spacing:0;"></td>
-    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/czps-experience/curriculum/character-and-citizenship-education/programme-for-active-learning-pal/"><img src="/images/Programme%20for%20Active%20Learning%20(PAL).jpeg" style="width:50%"></a></td>
+    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/czps-experience/curriculum/character-and-citizenship-education/programme-for-active-learning-pal/"><img src="/images/Programme%20for%20Active%20Learning%20(PAL).jpeg" style="width:33%"></a></td>
   </tr>
   <tr>
     <td style="border:none;border-collapse:collapse;border-spacing:0;"></td>
-    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/StudentDevelopmentExperience/StudentDevelopmentExperiences/"><img src="/images/Student%20Development%20Experiences%20(SDE).jpeg" style="width:50%"></a></td>
+    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/StudentDevelopmentExperience/StudentDevelopmentExperiences/"><img src="/images/Student%20Development%20Experiences%20(SDE).jpeg" style="width:33%"></a></td>
     <td style="border:none;border-collapse:collapse;border-spacing:0;"></td>
   </tr>
 </tbody>
