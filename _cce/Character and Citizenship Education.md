@@ -32,7 +32,7 @@ description: ""
   <tr>
     <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href=""><img src="/images/CCE%20(MTL).jpeg" style="width:50%"></a></td>
     <td style="border:none;border-collapse:collapse;border-spacing:0;"></td>
-    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href=""><img src="/images/Programme%20for%20Active%20Learning%20(PAL).jpeg" style="width:50%"></a></td>
+    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/czps-experience/curriculum/character-and-citizenship-education/programme-for-active-learning-pal/"><img src="/images/Programme%20for%20Active%20Learning%20(PAL).jpeg" style="width:50%"></a></td>
   </tr>
   <tr>
     <td style="border:none;border-collapse:collapse;border-spacing:0;"></td>
