@@ -36,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td style="border:none;border-collapse:collapse;border-spacing:0;"></td>
-    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href=""><img src="/images/Student%20Development%20Experiences%20(SDE).jpeg" style="width:50%"></a></td>
+    <td style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/StudentDevelopmentExperience/StudentDevelopmentExperiences/"><img src="/images/Student%20Development%20Experiences%20(SDE).jpeg" style="width:50%"></a></td>
     <td style="border:none;border-collapse:collapse;border-spacing:0;"></td>
   </tr>
 </tbody>
