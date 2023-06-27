@@ -15,17 +15,6 @@ links:
         url: /about-us/school-organisation/school-management
       - title: School Rules
         url: /about-us/school-rules
-  - title: For Parents
-    url: /information-for-parents/general-information
-    sublinks:
-      - title: General Information
-        url: /information-for-parents/general-information
-      - title: Home-School Partnership
-        url: /information-for-parents/home-school-partnership
-      - title: Prospective Parents
-        url: /information-for-parents/prospective-parents/p1-registration
-      - title: Useful Information
-        url: /information-for-parents/useful-information/meet-the-parents-session
   - title: CZPS Experience
     url: /czps-experience/curriculum/english
     sublinks:
@@ -50,3 +39,16 @@ links:
         url: /czps-news/czps-in-the-media
       - title: Useful Information
         url: /czps-news/useful-information/students
+  - title: For Parents
+    url: /information-for-parents/general-information
+    sublinks:
+      - title: General Information
+        url: /information-for-parents/general-information
+      - title: Home-School Partnership
+        url: /information-for-parents/home-school-partnership
+      - title: Prospective Parents
+        url: /information-for-parents/prospective-parents/p1-registration
+      - title: Useful Information
+        url: /information-for-parents/useful-information/meet-the-parents-session
+  - title: For Students
+    url: /for-students
