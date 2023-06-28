@@ -30,6 +30,4 @@ description: ""
 <li>For account issues, contact your form teachers via ClassDojo</li>
 <li>If you encounter errors trying to access the e-learning portals or the assignments, be patient. Try again later.</li>
 	
-![](/images/hbl.png)
-	
-</ul>
+<img src="/images/hbl.png"></ul>
