@@ -73,7 +73,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;Mr Daniel Chua</td>
-<td style="text-align: center;">HOD / Student Management&nbsp;</td>
+<td style="text-align: center;">HOD / Student Management &amp; covering HOD Mathematics&nbsp;</td>
 <td style="text-align: center;">&nbsp;chua_boon_hwee_daniel@moe.edu.sg</td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;">Mr Kevin Joseph Francis</td>
-<td style="text-align: center;">Year Head (Middle Primary)</td>
+<td style="text-align: center;">Year Head (Middle Primary) &amp; covering HOD CCE</td>
 <td style="text-align: center;">kevin_joseph_francis@moe.edu.sg</td>
 </tr>
 <tr>
@@ -95,11 +95,6 @@ third_nav_title: School Organisation
 <td style="text-align: center;" width="214">Mdm Suckjit Kaur d/o Bang Singh</td>
 <td style="text-align: center;" width="214">Subject Head / English</td>
 <td style="text-align: center;" width="267">kaur_suckjit_singh_bang@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Mrs Sharon Ee</td>
-<td style="text-align: center;">Level Head / Mathematics</td>
-<td style="text-align: center;">sharon_cheng_shi_min@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Ameer Khan</td>
