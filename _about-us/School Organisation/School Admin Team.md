@@ -71,10 +71,7 @@ third_nav_title: School Organisation
 <td><strong>Desktop Engineer</strong></td>
 </tr>
 <tr>
-	<td>Mr Mohammad Shahril</td>
-<td><strong>Desktop Engineer</strong></td>
-</tr>
-<tr>
+
 <td>Ms Khairani Bte Sulaiman</td>
 <td><strong>Librarian</strong></td>
 </tr>
