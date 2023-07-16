@@ -346,8 +346,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h5></center>
   </tr>
   <tr>
     <td rowspan="2">6 Benevolence</td>
-    <td>Mrs Sharon Ee<br>Mr Ameer Ahamed Khan</td>
-    <td>sharon_cheng_shi_min@moe.edu.sg<br>ameer_ahamed_khan_amanullah@moe.edu.sg</td>
+    <td>Mr Ameer Ahamed Khan</td>
+    <td>ameer_ahamed_khan_amanullah@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Norisah Bte Md Ismail</td>
