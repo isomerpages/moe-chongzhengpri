@@ -170,8 +170,8 @@ Assistant Year Head (Acting): Ms Joey Lim</h5></center>
     <td>kwan_shiow_yan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Miss Ng Bao Lin</td>
-    <td>ng_bao_lin@moe.edu.sg</td>
+    <td>Mdm Koh Chor Kiang, Jaslyn</td>
+    <td>gao_chujuan@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">3 Confidence</td>
