@@ -42,7 +42,7 @@ third_nav_title: School Organisation
 
 </tr>
 <tr>
-<td>Mr Mohammad Farhan Bin Ramli</td>
+<td>Mr Mohammed Farhan Bin Ramli</td>
 <td><strong>Operations Manager</strong></td>
 </tr>
 <tr>
