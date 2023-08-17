@@ -15,7 +15,7 @@ description: ""
 <p>Bedok Transport Pte Ltd<br>Tel: 6242 0201 / 6284 3032 (Mr Lim Cheng Wai)<br>HP: 9457 2373 (Mrs Lim)</p>
 <img style="width: 75%;" src="/images/gi3.jpeg">
 <p>Tel:&nbsp;8940 1137<br>Opening Hours:<br>Monday &amp; Wednesday, 8am - 5.30pm<br>Friday, 8am - 5pm</p> 
-<a href="https://classroom.google.com/u/0/" target="_blank" rel="noopener">Click here </a> for the clinic's opening schedule.<p></p> 
+<a href="https://go.gov.sg/dental-clinic-opening-schedule" target="_blank" rel="noopener">Click here </a> for the clinic's opening schedule.<p></p> 
 <img style="width: 75%;" src="/images/gi4.jpeg">
 <p>The Continental Book Center<br>Mr James Low<br>Tel: 6788 5269<br>Opening Hours:<br>Monday - Friday, 9am - 3pm</p>
 <p><strong>Student's Protection Plan<br></strong>NTUC Income Insurance Co-operative Limited Income Centre<br>75 Bras Basah Road<br>Singapore 189557<br>Tel: 6788 1777</p></td></tr></tbody></table>
