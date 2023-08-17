@@ -14,7 +14,7 @@ description: ""
 <img style="width: 75%;" src="/images/gi2.jpeg">
 <p>Bedok Transport Pte Ltd<br>Tel: 6242 0201 / 6284 3032 (Mr Lim Cheng Wai)<br>HP: 9457 2373 (Mrs Lim)</p>
 <img style="width: 75%;" src="/images/gi3.jpeg">
-<p>Tel:&nbsp;8940 1137<br>Opening Hours:<br>Monday &amp; Wednesday, 8am - 5.30pm<br>Friday, 8am - 5pm</p> 
+<p>Tel:&nbsp;8940 1137<br>Opening Hours:<br>Monday to Thursday, 8am - 5.30pm<br>Friday, 8am - 5pm</p> 
 <a href="https://go.gov.sg/dental-clinic-opening-schedule" target="_blank" rel="noopener">Click here </a> for the clinic's opening schedule.<p></p> 
 <img style="width: 75%;" src="/images/gi4.jpeg">
 <p>The Continental Book Center<br>Mr James Low<br>Tel: 6788 5269<br>Opening Hours:<br>Monday - Friday, 9am - 3pm</p>
