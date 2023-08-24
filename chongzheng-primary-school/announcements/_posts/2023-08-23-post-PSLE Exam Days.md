@@ -35,4 +35,3 @@ During this period, Primary 1 to Primary 5 are to report to school as usual, exc
 | P3     | 29 September 2023     | 28 September, 2-4 October    |
 | P4     | 3 October 2023     | 28-29 September, 2 & 4 October     |
 | P5     | 29 September 2023     | 28 September, 2-4 October     |
-
