@@ -1,6 +1,6 @@
 ---
 title: PSLE Exam Days
-permalink: /chongzheng-primary-school/announcements/permalink/
+permalink: /czps/announcements/psle-exam-days/
 date: 2023-08-23
 layout: post
 description: ""

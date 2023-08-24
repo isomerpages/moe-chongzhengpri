@@ -1,6 +1,6 @@
 ---
 title: Share your appreciation for CZ staff
-permalink: /chongzheng-primary-school/announcements/permalink/
+permalink: /czps/announcements/share-your-appreciation-for-cz-staff/
 date: 2023-08-23
 layout: post
 description: ""

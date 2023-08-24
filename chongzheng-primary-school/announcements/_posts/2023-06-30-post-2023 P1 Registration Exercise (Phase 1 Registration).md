@@ -1,6 +1,6 @@
 ---
 title: 2023 P1 Registration Exercise (Phase 1 Registration)
-permalink: /chongzheng-primary-school/announcements/permalink/
+permalink: /czps/announcements/2023-p1-registration-exercise-phase-1-registration/
 date: 2023-06-30
 layout: post
 description: ""
