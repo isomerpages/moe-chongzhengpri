@@ -6,11 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
-The PSLE will be conducted from 28 September to 4 October 2023.
+The PSLE will be conducted on 15 September 2023 and from 28 September to 4 October 2023.
 
 ##### **For Primary 6 students**
 
+Primary 6 students are to report to the school hall by 8am on 15 September 2023 for the PSLE Listening Comprehension.
+
 Primary 6 students will have a study break from 25 - 27 September 2023 and need not report to school.
+
+Primary 6 students are to report to school as usual by 7.30am from 28 September 2023 to 4 October 2023.
 
 28 September 2023 : EL and FEL
 
@@ -24,7 +28,9 @@ Primary 6 students will have a study break from 25 - 27 September 2023 and need 
 
 ##### **For Primary 1 to Primary 5**
 
-During this period, Primary 1 to Primary 5 are to report to school as usual, except for the the day they have HBL as scheduled below.
+Primary 1 to Primary 5 students do not report to school on 15 September 2023. Respective teachers will assign learning activities to be done at home.
+
+During the period from 28 September 2023 to 4 October 2023, Primary 1 to Primary 5 are to report to school as usual, except for the the day they have HBL as scheduled below.
 
 
 
