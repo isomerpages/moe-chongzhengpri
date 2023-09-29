@@ -6,7 +6,7 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge:</strong></p>
 <ol>
-<li>Mrs Rachel Lam (Main-in-charge)</li>
+<li>Mrs Tu (Main-in-charge)</li>
 <li>Mr Chu Hin Wa Jay</li>
 <li>Ms Lee Mong Lan</li>
 <li>Mrs Candice Tu</li>
