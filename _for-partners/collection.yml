@@ -1,4 +1,5 @@
 collections:
   for-partners:
     output: true
-    order: []
+    order:
+      - Canteen Vendor.md
