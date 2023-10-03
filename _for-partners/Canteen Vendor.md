@@ -27,14 +27,14 @@ description: ""
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
-* Address: 1 Tampines Street 21 Singapore 529392
-* Contact No: 6781 9002
-* Email: czps@moe.edu.sg
-* Contact Person: Mdm Rapinah / Ms Jenny Tan  
+	</p><li>Address: 1 Tampines Street 21 Singapore 529392</li>
+	<li>Contact No: 6781 9002</li>
+	<li> Email: czps@moe.edu.sg</li>
+	<li>Contact Person: Mdm Rapinah / Ms Jenny Tan</li>
 
 **How to get there?**
-* Nearest MRT: Tampines East (DT 33) – 13 minutes walk
-* Bus number: 3, 3A, 8, 17, 18, 20, 28 (Along Tampines Ave 3)
+<li>Nearest MRT: Tampines East (DT 33) – 13 minutes walk</li>
+<li>Bus number: 3, 3A, 8, 17, 18, 20, 28 (Along Tampines Ave 3)</li>
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
@@ -48,4 +48,4 @@ description: ""
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
 
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*</p>
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*<p></p>
