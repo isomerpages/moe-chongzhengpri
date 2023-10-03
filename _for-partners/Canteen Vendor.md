@@ -23,9 +23,9 @@ description: ""
 <ol start="2">
 <li>Attached the following documents together with the application form:</li>        
 </ol>
-<p></p><p></p><li>Photocopy of the NRIC (front and back)</li>
-	<li>List of proposed menu and pricing for all items</li>
-	<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.</li>
+<li>Photocopy of the NRIC (front and back)</li>
+<li>List of proposed menu and pricing for all items</li>
+<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.</li>
 
 
 <ol start="3">
