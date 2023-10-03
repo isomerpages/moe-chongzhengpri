@@ -12,7 +12,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Thai Food Stall (Halal)</td>
-<td style="text-align: center;">10 October 2023</td>
+<td style="text-align: center;">15 October 2023</td>
 <td style="text-align: center;">Healthy Thai Food</td></tr></tbody></table>
 
 
