@@ -18,10 +18,10 @@ description: ""
 
 **Application Procedure**
 
-Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<ul>
 <p><a href="https://go.gov.sg/czps-canteen-application-form" target="_blank" rel="noopener">[Application Form]</a></p><p>
 
- Attached the following documents together with the application form:
+Attached the following documents together with the application form:
 </p><p></p><li>Photocopy of the NRIC (front and back)</li>
 	<li>List of proposed menu and pricing for all items</li>
 	<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.</li>
@@ -52,4 +52,4 @@ Submit the completed application form and documents by closing date via email OR
 <li>Possess catering experience or experience operating in a school environment.</li>
 <li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li>
 
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*<p></p>
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*<p></p></ul>
