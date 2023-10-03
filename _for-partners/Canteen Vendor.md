@@ -19,8 +19,7 @@ description: ""
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-
-*[Application Form] 
+<p><a href="https://go.gov.sg/czps-canteen-application-form" target="_blank" rel="noopener">[Application Form]</a></p><p>
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -31,7 +30,7 @@ description: ""
 * Address: 1 Tampines Street 21 Singapore 529392
 * Contact No: 6781 9002
 * Email: czps@moe.edu.sg
-* Contact Person: Mr Farhan / Ms Jenny Tan  
+* Contact Person: Mdm Rapinah / Ms Jenny Tan  
 
 **How to get there?**
 * Nearest MRT: Tampines East (DT 33) – 13 minutes walk
@@ -49,6 +48,4 @@ description: ""
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
 
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
-
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*</p>
