@@ -14,7 +14,7 @@ third_nav_title: Useful Information
 <tr>
 <td style="text-align: center;">Asia Cuisine (Halal/Non-Halal)</td>
 <td style="text-align: center;">15 October 2023</td>
-<td style="text-align: center;">Healthy Food (Thai/Korean/Asia)</td></tr></tbody></table>
+<td style="text-align: center;">Healthy Thai/Korean/Asia Food</td></tr></tbody></table>
 
 <h4><strong>Application Procedure</strong></h4>
 <ol>
