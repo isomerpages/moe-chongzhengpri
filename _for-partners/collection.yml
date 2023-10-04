@@ -1,5 +1,0 @@
-collections:
-  for-partners:
-    output: true
-    order:
-      - Canteen Vendor.md
