@@ -7,8 +7,8 @@ third_nav_title: CCA
 <p><strong>Teachers in-charge:&nbsp;</strong></p>
 <ol>
 <li>Mdm Razidah Amat (Main-in-charge)</li>
-<li>Mr Gavin</li>
-<li>Mrs Sharleen On</li>
+<li>Mr Gavin </li>
+<li>Mrs Sharleen </li>
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
