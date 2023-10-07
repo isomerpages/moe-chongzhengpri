@@ -12,19 +12,19 @@ third_nav_title: CCA
 </ol>
 <p><strong>CCA Leaders :</strong></p>
 <ul>
-<li>Leader - Ong Yu Lin (5E)</li>
-<li>Assistant Leader - Yew Yu Rou Renee (5F)</li>
-<li>Assistant Leader - Shannon Ma Shu Yam (4C)</li>
+<li>Leader - Tan Pei En Geraldine (5A) and Puan Jie En Felicia(5D)</li>
+<li>Assistant Leader - Liao Siyu Sophia (4B)</li>
+<li>Assistant Leader - Skylar Ma Shu Shu (4C)</li>
 </ul>
-<p><strong>Description:</strong></p>
+<p><strong>Mission:</strong></p>
 <ul>
-<li>To train members in the skills to perform traditional ethnic, in particular, Chinese dances.</li>
-</ul>
+<p>Through the learning of Chinese Dance, we hope to develop our students into;
+
+</p></ul>
 <ul>
 <ul>
-<li>Through the process of training, to develop:</li>
-<li>Team spirit among the members</li>
-<li>Self –Confidence</li>
+	<li><strong>passionate learners</strong> who understand the chinese culture better;</li>
+	<li><strong>responsible team player</strong> who are committed to the team and are good support to the team;</li>
 <li>Resilience</li>
 <li>An eye for detail in the intricate movements and gestures in dance</li>
 <li>Care for one another</li>
