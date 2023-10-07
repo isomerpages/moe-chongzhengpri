@@ -28,6 +28,8 @@ third_nav_title: CCA
 <li><strong>respectful leaders</strong>who are polite to everyone and show consideration for others; </li>
 <li><strong>confident individuals</strong>who are able to showcase their best during public performances;</li>
 <li><strong>steadfast achievers</strong>who persevere and not give up easily when faced with challenges</li>
+<li><strong>empathetic persons</strong>who understand and care for others
+</li>
 </ul>
 </ul>
 <p><strong>Achievements for the past 3 years:</strong></p>
