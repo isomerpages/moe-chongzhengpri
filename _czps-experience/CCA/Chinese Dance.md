@@ -25,9 +25,9 @@ third_nav_title: CCA
 <ul>
 	<li><strong>passionate learners</strong> who understand the chinese culture better;</li>
 	<li><strong>responsible team player</strong> who are committed to the team and are good support to the team;</li>
-<li>Resilience</li>
-<li>An eye for detail in the intricate movements and gestures in dance</li>
-<li>Care for one another</li>
+<li><strong>respectful leaders</strong>who are polite to everyone and show consideration for others; </li>
+<li><strong>confident individuals</strong>who are able to showcase their best during public performances;</li>
+<li><strong>steadfast achievers</strong>who persevere and not give up easily when faced with challenges</li>
 </ul>
 </ul>
 <p><strong>Achievements for the past 3 years:</strong></p>
