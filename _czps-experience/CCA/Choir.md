@@ -6,10 +6,10 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge:</strong></p>
 <ol>
-<li>Mrs Tu (Main-in-charge)</li>
-<li>Mr Chu Hin Wa Jay</li>
+<li>Mrs Candice Tu (Main-in-charge)</li>
 <li>Ms Lee Mong Lan</li>
-<li>Mrs Candice Tu</li>
+<li>Miss Indra D/O Balakrishnan</li>
+<li>Mdm Nurhiza Bte Mohamed</li>
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
