@@ -13,12 +13,12 @@ third_nav_title: CCA
 <p><strong>CCA Leaders:</strong></p>
 <ul>
 <li>Leader - Sridhar Venbha(5E)</li>
-<li>Assistant Leader - Janani Ramesh (5F)</li>
-<li>Assistant Leader - Palanikumar Pooja (5F)</li>
+<li>Assistant Leader - Chattopadhay Roopsha (5D)</li>
+<li>Assistant Leader - Arumugam Partheeban Sakhashra (4E)</li>
 </ul>
 <p><strong>Description :</strong></p>
 <p>The Indian dance CCA in Chongzheng Primary School aspires to develop the passion and bring out the potential of each student in the area of performing arts. It is made up of a small but enthusiastic group of students with a passion for Indian dance.</p>
-<p>Our students are exposed to different genres of Indian dance like Thillana, Baratha Natyam, Bollywood and Contemporary dance. Our Indian Dance CCA is led by our Indian Dance Instructor, Mdm Kavita Subramaniam.</p>
+<p>Our students are exposed to different genres of Indian dance like Thillana, Baratha Natyam, Bollywood and Contemporary dance. Our Indian Dance CCA is led by our Indian Dance Instructor, Ms Meenalochani.</p>
 <p>A strong set of values is instilled in each and every student as they embark on their journey and this enables them to discover their potential beyond dance.</p>
 <p>Our students usually get the opportunity to showcase their talents and skills during school events like the annual Deepavali Concert and Evening with the Arts. Not only do the dancers get to perform at school events, they also get the exposure to perform at external events during festivals and celebrations.</p>
 <img src="/images/id1.gif">
