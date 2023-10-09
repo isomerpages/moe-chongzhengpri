@@ -6,8 +6,9 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge:</strong></p>
 <ol>
-<li>1. Mdm Razana Abdul Rahman (Main-in-charge)</li>
-<li>2. Mdm Norisha Ismail</li>
+<li> Mdm Razana Abdul Rahman (Main-in-charge)</li>
+<li> Mdm Norisha Ismail</li>
+<li> Mdm Hajar Bibi Bte Abdul Rashid</li>	
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
