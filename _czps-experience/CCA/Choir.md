@@ -6,19 +6,19 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge:</strong></p>
 <ol>
-<li>Mrs Tu (Main-in-charge)</li>
-<li>Mr Chu Hin Wa Jay</li>
+<li>Mrs Candice Tu (Main-in-charge)</li>
 <li>Ms Lee Mong Lan</li>
-<li>Mrs Candice Tu</li>
+<li>Miss Indra D/O Balakrishnan</li>
+<li>Mdm Nurhiza Bte Mohamed</li>
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
-<li>Leader - Krishnamurthy Keerthana (5D)</li>
-<li>Assistant Leader - Law Zhi Yi (5E)</li>
-<li>Assistant Leader - Sabrina Elisha Seah (4D)</li>
+<li>Leader - Sabrina Elisha Seah (5 Confidence) and Tan Yu Xuan, Cherie (5 Confidence) </li>
+<li>Assistant Leader - Arissa Binte Badrulhisham (4 Confidence)</li>
+<li>Assistant Leader - Russell Teh Pei Hao (4 Aspiration)</li>
 </ul>
 <p><strong>Description :</strong></p>
-<p>The Chongzheng choir is made up of members from Primary 3 to Primary 6 pupils. Choir practices are conducted on Tuesdays during curriculum time from 7.30 am to 9.00 am. During these practices, members are taught proper vocal techniques as well as performing skills. They are introduced to sight-reading and exposed to singing songs in 2 or more parts. The choir participates in the Singapore Youth Festival arts presentation (Primary) once every two years.</p>
+<p>The Chongzheng choir is made up of members from Primary 3 to Primary 6 pupils. Choir practices are conducted on Tuesdays during curriculum time from 7.30 a.m. to 9.00 a.m. During these practices, members are taught proper vocal techniques as well as performing skills. They are introduced to sight-reading and exposed to singing songs in 2 or more parts. The choir participates in the Singapore Youth Festival arts presentation(SYF AP) (Primary) once every two years.</p>
 <p><strong>Achievements for the past 3 years :</strong></p>
 <p>2022: Performed at SYF 2022 Choir Arts Presentation (non-benchmarked)</p>
 <p>2019: Awarded Distinction in the ABRSM (Choral) examination</p>
