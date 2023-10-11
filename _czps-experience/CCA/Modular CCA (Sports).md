@@ -6,7 +6,7 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge:</strong></p>
 <ol>
-<li>Mr Lim Wei Yong (Main-in-charge)</li>
+<li>Mr Ling Wei Yong (Main-in-charge)</li>
 <li>Mrs Sharon Tan</li>
 <li>Mdm Quek Lew Cheng</li>
 </ol>
