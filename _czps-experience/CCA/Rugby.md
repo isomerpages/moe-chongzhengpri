@@ -9,12 +9,14 @@ third_nav_title: CCA
 <li>Mdm Razidah Amat (Main-in-charge)</li>
 <li>Mr Gavin </li>
 <li>Mrs Sharleen </li>
+	<li>Ms Ng Choon Tee</li>
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
-<li>Captain - Liu Zeyan (5F)</li>
-<li>Vice Captain - Michael Vincent Sunil (4DE)</li>
-<li>Vice Captain - Ashraff Shah (4C)</li>
+<li>Captain – Jacob Peter Delaure (5E)</li>
+<li>Captain – Max Ejaz Buckley (5C)</li>
+<li>Vice Captain – Danial Anaqhi bin Muhamad Zuhri (4B)</li>
+	<li>Vice Captain – Ong Jin Feng  (4D)</li>
 </ul>
 <p><strong>Description:</strong></p>
 <p>Rugby is a team sport that delivers significant social and health benefits. It can also be a physically demanding sport and players should be physically and mentally prepared, and understand how to play safely. It is the responsibility of all - players, coaches and parents - to ensure that a positive, safe, enjoyable environment is created where ALL players will be able to reach their fullest potential, and that – whatever form of the game you play - the training and education materials and equipment are there to support everyone in creating that environment.</p>
