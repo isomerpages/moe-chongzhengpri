@@ -35,8 +35,13 @@ third_nav_title: CCA
 <p><strong><u>2017</u></strong></p>
 <p><strong>Nil</strong></p>
 <img src="/images/ruby%201.JPG">
-<img src="/images/ruby%202023_2.JPG">
-
+<p><img src="/images/ruby%202023_2.JPG"></p>
+<p><img src="/images/rugby%202023_3.JPG"></p>
+<p><img src="/images/rugby%202023_4.JPG"></p>
+<p><img src="/images/rugby%202023_5.JPG"></p>
+<p><img src="/images/rugby%202023_6.JPG"></p>
+<p><img src="/images/rugby%202023_7.JPG"></p>
+<p><img src="/images/rugby%202023_8.JPG"></p>
 <img src="/images/rugby.gif">
 <img src="/images/rug1.jpg">
 <img src="/images/rug2.jpg">
