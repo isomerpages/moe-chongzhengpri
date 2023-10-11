@@ -28,6 +28,8 @@ The theatre thrives on teamwork. We emphasise collaboration, teaching trust and 
 
 <p><strong>Exposure to Theatre</strong></p>
 We broaden horizons with yearly live play experiences and professional coaching through workshops. Join Speech and Drama CCA to nurture talent, instill values, and embrace the enchanting world of theatre. Spotlight or behind-the-scenes, all are welcome to this exciting theatrical journey. Unleash the power of storytelling with us!
-<p><img src="/images/speech%20&amp;%20drama_1.jpg"></p>
+
+<p style="padding-left: 40px;">
+</p><p><img src="/images/speech%20&amp;%20drama_1.jpg"></p>
 <p><img src="/images/speech%20&amp;%20drama_2.jpg"></p>
 <p><img src="/images/speech%20&amp;%20drama_3.jpg"></p>
