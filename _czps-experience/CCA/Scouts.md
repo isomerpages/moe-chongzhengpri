@@ -6,8 +6,7 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge:&nbsp;</strong></p>
 <ol>
-<li>Ms Candice Loke (Main-in-charge)</li>
-<li>Mr Ryan Pek</li>
+<li>Mr Ryan Pek (Main-in-charge)</li>
 <li>Mdm Siti Khairunnisa</li>
 </ol>
 <p><strong>CCA Leaders:</strong></p>
