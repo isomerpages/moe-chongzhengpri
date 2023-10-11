@@ -6,19 +6,29 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge: </strong></p>
 <ol>
-<li>Mdm Noor Haida Mohd Jakaria (Main-in-charge)</li>
+<li>Mdm Zaishereen Binte Aman (Main-in-charge)</li>
+<li>Ms Noor Haida Mohd Jakaria</li>
 <li>Mdm Suckjit Kaur</li>
-<li>Mdm Law KE</li>
-<li>Mrs Karen Yeo</li>
 </ol>
 <p><strong>CCA Leaders:&nbsp;</strong></p>
 <ul>
-<li>Leader - Shrikha Srinivasan (5F)</li>
-<li>Assistant Leader - R Krithik Raj (5C)</li>
-<li>Assistant Leader - Afif Naufal Bin Noor Aidil (3A)</li>
+<li>Leader - Ma Ruo Xin (5D) and Afif Naufal Bin Noor Aidil (5E) </li>
+<li>Assistant Leader - Alya Alesha Binte Muhammad Sofian (4B)</li>
+<li>Assistant Leader - Amber Tan Zhi Yu (4B)</li>
 </ul>
 <p><strong>Description:</strong></p>
-<p>The Language Club is all about bringing stories to life through the medium of shadow puppetry and theatre. Our members&rsquo; voices and skills have entertained children of ages ranging from 3 to 12 years as we imparted morals through fairy tales and NE values through the re-telling of the Singapore story. We aim to let all our members showcase their skills both behind the screen and before it. Everyone plays a part.</p>
+<p><strong>Discover the Magic of Theatre with our Speech and Drama CCA</strong></p>
+At our Speech and Drama CCA, we bring stories to life, instill values, and nurture talent through the captivating medium of drama. We're passionate about storytelling, from classic tales to Singapore's history, conveying morals and NE values. Everyone plays a vital role, both on and offstage, fostering teamwork and life skills.
+
+<p><strong>Mastering Theatre Skills</strong></p>
+Our CCA hones acting techniques, expressions, body language, oratory skills, voice projection, and stagecraft, deepening members' storytelling appreciation.
+
+<p><strong>Building Teamwork and Confidence</strong></p>
+The theatre thrives on teamwork. We emphasise collaboration, teaching trust and reliance. Students gain confidence through regular performances, sparking creativity.
+
+<p><strong>Exposure to Theatre</strong></p>
+We broaden horizons with yearly live play experiences and professional coaching through workshops. Join Speech and Drama CCA to nurture talent, instill values, and embrace the enchanting world of theatre. Spotlight or behind-the-scenes, all are welcome to this exciting theatrical journey. Unleash the power of storytelling with us!
+
 <img src="/images/sd1.gif">
 <img src="/images/sd2.jpg">
 <img src="/images/sd3.jpg">
