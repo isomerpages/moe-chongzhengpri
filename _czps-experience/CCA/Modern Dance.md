@@ -27,6 +27,6 @@ third_nav_title: CCA
 
 </ol>
 <p style="padding-left: 40px;">
-</p><p><img style="width: 80%;" src="/images/modern%20dance%202023_1.jpg">
-	SYF 2022 Modern Dance</p><p></p>
-<p><img style="width: 80%;" src="/images/modern%20dance%202023_2.png"></p>
+</p><p><img src="/images/modern%20dance%202023_1.jpg">
+	SYF 2022 Modern Dance&nbsp;</p><p></p>
+<p><img src="/images/modern%20dance%202023_2.png"></p>
