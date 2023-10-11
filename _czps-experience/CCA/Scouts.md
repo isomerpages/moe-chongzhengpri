@@ -6,8 +6,7 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-charge:&nbsp;</strong></p>
 <ol>
-<li>Ms Candice Loke (Main-in-charge)</li>
-<li>Mr Ryan Pek</li>
+<li>Mr Ryan Pek (Main-in-charge)</li>
 <li>Mdm Siti Khairunnisa</li>
 </ol>
 <p><strong>CCA Leaders:</strong></p>
@@ -21,7 +20,4 @@ third_nav_title: CCA
 <p><strong>Recent Achievements :</strong></p>
 <p>2022- Frank Cooper Sands Award (Silver)</p>
 
-<img src="/images/sco1.gif">
-<img src="/images/sco2.jpg">
-<img src="/images/sco3.jpg">
-<img style="width: 90%;" src="/images/sco4.jpg">
+<p><img src="/images/scouts%20photos%20-%20school%20website%202023.gif"></p>
