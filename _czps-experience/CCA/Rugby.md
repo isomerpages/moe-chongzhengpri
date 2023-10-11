@@ -42,8 +42,3 @@ third_nav_title: CCA
 <p><img src="/images/rugby%202023_6.JPG"></p>
 <p><img src="/images/rugby%202023_7.JPG"></p>
 <p><img src="/images/rugby%202023_8.JPG"></p>
-<img src="/images/rugby.gif">
-<img src="/images/rug1.jpg">
-<img src="/images/rug2.jpg">
-<img src="/images/rug3.jpg">
-<img src="/images/rug4.jpg">
