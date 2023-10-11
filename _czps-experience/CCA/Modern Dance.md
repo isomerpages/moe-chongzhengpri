@@ -26,7 +26,7 @@ third_nav_title: CCA
 <li>2019 – Guest Performers for National Day Observance Ceremony&nbsp;</li>
 
 </ol>
-<p><img src="/images/modern%20dance%202023_1.jpg">
-	SYF 2022 Modern Dance</p><p></p>
-	<p><img src="/images/modern%20dance%202023_2.png">
-</p>
+<p style="padding-left: 40px;">
+</p><p><img src="/images/modern%20dance%202023_1.jpg">
+	SYF 2022 Modern Dance&nbsp;</p><p></p>
+<p><img src="/images/modern%20dance%202023_2.png"></p>
