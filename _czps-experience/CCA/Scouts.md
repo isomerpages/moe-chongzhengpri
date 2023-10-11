@@ -21,5 +21,3 @@ third_nav_title: CCA
 <p>2022- Frank Cooper Sands Award (Silver)</p>
 
 <p><img src="/images/scouts%20photos%20-%20school%20website%202023.gif"></p>
-
-
