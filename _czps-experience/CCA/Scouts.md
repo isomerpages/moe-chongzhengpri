@@ -20,7 +20,6 @@ third_nav_title: CCA
 <p><strong>Recent Achievements :</strong></p>
 <p>2022- Frank Cooper Sands Award (Silver)</p>
 
-<img src="/images/sco1.gif">
-<img src="/images/sco2.jpg">
-<img src="/images/sco3.jpg">
-<img style="width: 90%;" src="/images/sco4.jpg">
+<p><img src="/images/scouts%20photos%20-%20school%20website%202023.gif"></p>
+
+
