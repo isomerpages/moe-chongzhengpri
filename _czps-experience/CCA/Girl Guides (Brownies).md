@@ -46,6 +46,8 @@ third_nav_title: CCA
 <p><strong>2023 – Seven of our Brownies were awarded the Chief Commissioner Badge</strong></p>
 <p><img src="/images/2023_girl%20guides%20photo%204.jpg"></p>
 <p><img src="/images/2023_girl%20guides%20photo%205.jpg"></p>
+<strong>Our Brownies Cohort</strong>
 <p><img src="/images/2023_girl%20guides%20photo%206.jpg"></p>
+<strong>Brownies doing service for school events.</strong>
 <p><img src="/images/2023_girl%20guides%20photo%207.jpg"></p>
 <strong>Brownies doing service for community.</strong>
