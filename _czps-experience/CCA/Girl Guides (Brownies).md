@@ -38,15 +38,15 @@ third_nav_title: CCA
 <p>Congratulations to our Brownies for their excellent teamwork</p>
 
 <p style="padding-centre: 40px;">
-<img src="/images/2023_combine%20photo.JPG">
+<img src="/images/2023_combine%20photo.JPG"></p>
 
 
-</p><p><strong>Achievements for 2023:&nbsp;</strong></p>
+<p></p><p><strong>Achievements for 2023:&nbsp;</strong></p>
 <p><strong>2022 - Puan Noor Aishah Award (Silver) &nbsp;</strong></p>
 <p><strong>2023 – Seven of our Brownies were awarded the Chief Commissioner Badge</strong></p>
 <p><img src="/images/2023_girl%20guides%20photo%204.jpg"></p>
 <p><img src="/images/2023_girl%20guides%20photo%205.jpg"></p>
-<strong>Our Brownies Cohort</strong>
+<strong>Our Brownies Cohort </strong>
 <p><img src="/images/2023_girl%20guides%20photo%206.jpg"></p>
 <strong>Brownies doing service for school events.</strong>
 <p><img src="/images/2023_girl%20guides%20photo%207.jpg"></p>
