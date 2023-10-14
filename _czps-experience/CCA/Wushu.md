@@ -7,8 +7,8 @@ third_nav_title: CCA
 <p><strong>Teachers-in-charge:</strong></p>
 <ol>
 <li>Miss Sim Yuxian (Main-in-charge)</li>
-<li>Mdm Sharifah Zaleha S M</li>
 <li>Mrs Ivory Ho</li>
+<li>Mdm Sharifah Zaleha S M</li>
 <li>Mdm Gong Xian Li</li>
 </ol>
 <p><strong>CCA School Leaders:</strong></p>
@@ -18,17 +18,19 @@ third_nav_title: CCA
 </ul>
 <p><strong>CCA Team Leaders:</strong></p>
 <ul>
-<li><strong>Leader&nbsp;</strong>-Liew Zi Chee (5D) andHo Fu Jun Dylan (5A)</li>
+<li><strong>Leader&nbsp;</strong>-Liew Zi Chee (5D) and Ho Fu Jun Dylan (5A)</li>
 <li><strong>Assistant Leader&nbsp;</strong>- Ding Yu Tong Kyla (4D)</li>
 </ul>
 <p><strong>Description :</strong></p>
 <p>
 The purpose of our CCA is to engage and train students in the sport of Wushu to build their core strength, agility and mastery of the skill. To achieve this, weekly training is conducted for our members. For those who show more interest and flair in the sport, further training is provided during school team practices. These students also perform for the school on special occasions and represent us in competitions.</p>
 <p><strong>Goals:&nbsp;</strong></p>
-<p>To build up pupils’ health, confidence and self-discipline through the sport of Wushu.&nbsp;</p>
+<p>To build up students’ health, confidence and self-discipline through the sport of Wushu.&nbsp;</p>
 <p><strong>Achievements for the past 5 years :</strong></p>
 <p><strong>2023:</strong></p>
 <p>Our school participated in the Wushu National School Games this year and we are proud to share the good news from Lim Jing Xin Asher (5-Diligence) and Vong Yan Rui Zander (5-Diligence).</p>
+
+
 <p><strong>Results of the National School Games 2023:</strong></p>
 
 
