@@ -19,4 +19,5 @@ third_nav_title: CCA
 <p><strong>Description :&nbsp;</strong></p>
 <p>The uniqueness of angklung lies in its requirement of multiple angklung players to create a symphony as one angklung instrument only produce one musical note. Therefore, the ensemble must collaborate seamlessly to play a melody. The Angklung CCA trains the students to be focused and dedicated towards the ensemble as each member has an important role to make the music come alive </p>
 <p>Through careful tutelage and guidance, playing the angklung and kulintang offers opportunities for the Angklung members to learn values such as respect, teamwork, confidence, and inclusiveness.</p>
-<img src="/images/2023_angklung%20photo.jpg">
+<p><img src="/images/2023_angklung%20photo.jpg"></p>
+<p><img src="/images/website%20update_angklung_2023.gif"></p>
