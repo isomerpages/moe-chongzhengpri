@@ -8,19 +8,19 @@ third_nav_title: CCA
 <ol>
 <li>Mdm Nur Farhana (Main-in-charge)</li>
 <li>Mdm Jasmina</li>
-<li>Mdm Winnie Lim</li>
 <li>Mdm Azidah</li>
+<li>Mdm Winnie Lim</li>
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
-<li>Sixer - Shane Lee (5B) and Alysha Sofea binte Rozailey (5B)</li>
-<li>Assistant Sixer -Leora Lam Qing Yun (4B)</li>
-<li>Assistant Sixer - Harshini D/O Youvanesvaran (4C)</li>
+<li>Sixer - Shane Lee (5B)</li> 	<li>Sixer – Alysha Sofea binte Rozailey (5B)</li>
+<li>Assistant Sixer – Leora Lam Qing Yun (4B)</li>
+<li>•	Assistant Sixer – Harshini D/O Youvanesvaran (4C)</li>
 </ul>
 <p><strong>DESCRIPTION:</strong></p>
 <p>Girl Guides (Brownies) are 9 to 12 year old girls who enjoy learning and having amazing adventures together!</p>
-<p>Girl Guides (Brownies) are encouraged to explore and discover the world around them and to become more independent. They are constantly learning new skills and challenged to try new and adventurous activities that will inspire them to think about what they want to be and do in the future.</p>
-<p>Girl Guides (Brownies) learn to work and play independently and also in teams. On special occasions, Girl Guides (Brownies) do fun things together with other Girl Guides (Brownies) units for joint learning adventures! Activities may include Division Days and outdoor cooking. Along the way, they learn to care for one another and other people around them and make lasting friendships.</p>
+<p>Girl Guides (Brownies) are encouraged to explore and discover the world around them and to become more independent. They are constantly learning new skills and are challenged to try new and adventurous activities that will inspire them to think about what they want to be and do in the future.</p>
+<p>Girl Guides (Brownies) learn to work and play independently and in teams. On special occasions, Girl Guides (Brownies) do fun things together with other Girl Guides (Brownies) units for joint learning adventures! Activities may include Division Days and outdoor cooking. Along the way, they learn to care for one another and other people around them and make lasting friendships.</p>
 <p>Girl Guides (Brownies) are guided by a comprehensive 5-Point Programme, which develops them in 5 areas:</p>
 <ul>
 <li>Personal &amp; Social Development – Healthy Me, Courteous Me, Cultured Me</li>
@@ -32,10 +32,12 @@ third_nav_title: CCA
 <p>Girl Guides (Brownies) enjoy working for interest badges and awards that will help them develop new skills.</p>
 <p><strong>2023:</strong></p>
 <p>This year, the girls participated actively in the competitions during the East Division Day 2023. The theme for the event was ‘Our World, Our Peaceful Future’ and some of the competitions were held at Cedar Girls Secondary School.
-The girls worked well together, and they put a lot of effort in planning and creating their submissions. We are happy to share that we won:
-</p><li>First place in the mixed media art competition.</li><li>Second place in the cheerleading competition.</li>
+</p><p>The girls worked well together, and they put a lot of effort in planning and creating their submissions. We are happy to share that we won:</p>
+<li>First place in the mixed media art competition.</li><li>Second place in the cheerleading competition.</li>
 <li>Third place in the snack making competition.</li><li>Merit in both the dance and poster design competition.</li>
-Congratulations to our Brownies for their excellent teamwork<p></p>
+<p>Congratulations to our Brownies for their excellent teamwork</p>
+<img src="/images/2023%20girl%20guides%20combine%20photo.JPG">
+
 <p><strong>2021:</strong></p>
 <p>This year, the girls participated actively in the competitions during the East Division Day 2021. The theme for the event was ‘Girls making a difference’ and due to COVID-19, the competitions were decentralised.</p>
 <p>The girls worked well together and they put a lot of effort in planning and creating their submissions. We are happy to share that we won:</p>
