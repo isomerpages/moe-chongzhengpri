@@ -48,5 +48,4 @@ third_nav_title: CCA
 <p><img src="/images/2023_girl%20guides%20photo%205.jpg"></p>
 <p><img src="/images/2023_girl%20guides%20photo%206.jpg"></p>
 <p><img src="/images/2023_girl%20guides%20photo%207.jpg"></p>
-
-<p>Brownies doing service for community.</p>
+<strong>Brownies doing service for community.</strong>
