@@ -33,4 +33,6 @@ third_nav_title: CCA
 <img style="width: 85%;" src="/images/2023_environmental%20science%20club%20photo%205.jpg">
 </div>
 <p>Watch the video below to see what other activities we have done in the club!</p>
-</ol>
+	
+<p><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BZrYnQTKK-E?si=dUcLrn-QTGjpqvDE" height="315" width="560"></iframe>
+</p></ol>

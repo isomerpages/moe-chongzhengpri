@@ -42,8 +42,11 @@ The purpose of our CCA is to engage and train students in the sport of Wushu to 
 | VONG YAN RUI ZANDER     | 4-Duan Cudgel - Junior Boys  | 6		|
 <p style="padding-centre: 40px;">
 <img src="/images/2023%20achievement%20photo.JPG">
-</p>
-<p><strong>Results of the National School Games 2022:</strong></p>
+</p><p><strong>Results of the National School Games 2022:</strong></p><table width="568">
+<tbody>
+<tr>
+
+</tr></tbody></table>
 
 
 | Name | Event | Event Rank Order |
