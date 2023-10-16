@@ -14,8 +14,8 @@ third_nav_title: CCA
 <p><strong>CCA Leaders:</strong></p>
 <ul>
 <li>SABRINA ELISHA SEAH (5 Confidence) </li>
-<li>TAN YU XUAN, CHERIE (5 Confidence</li>
-<li>ARISSA BINTE BADRULHISHAM (4 Confidence))</li>
+<li>TAN YU XUAN, CHERIE (5 Confidence)</li>
+<li>ARISSA BINTE BADRULHISHAM (4 Confidence)</li>
 	<li>RUSSELL TEH PEI HAO (4 Aspiration)</li>
 </ul>
 <p><strong>Description :</strong></p>
