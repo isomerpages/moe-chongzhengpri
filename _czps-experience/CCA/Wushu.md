@@ -34,12 +34,14 @@ The purpose of our CCA is to engage and train students in the sport of Wushu to 
 <p><strong>Results of the National School Games 2023:</strong></p>
 
 
+
 | Name | Event | Event Rank Order |
 | -------- | -------- | -------- |
 | LIM JING XIN ASHER     | 1st International Changquan - Senior Boys    | 9 |
 | LIM JING XIN ASHER     | 5-Duan Sword - Senior Boys    | 6|	
 | LIM JING XIN ASHER     | 4-Duan Spear - Senior Boys   | 1|		
 | VONG YAN RUI ZANDER     | 4-Duan Cudgel - Junior Boys  | 6		|
+
 <table width="568">
 <tbody>
 <tr>
