@@ -33,6 +33,12 @@ The purpose of our CCA is to engage and train students in the sport of Wushu to 
 
 <p><strong>Results of the National School Games 2023:</strong></p>
 
+<table width="568">
+<tbody>
+<tr>
+
+</tr></tbody></table>
+
 
 | Name | Event | Event Rank Order |
 | -------- | -------- | -------- |
