@@ -11,10 +11,14 @@ third_nav_title: CCA
 <li>Mdm Suckjit Kaur</li>
 </ol>
 <p><strong>CCA Leaders:&nbsp;</strong></p>
+<strong>Leaders: </strong>
 <ul>
-<li>Leader - Ma Ruo Xin (5D) and Afif Naufal Bin Noor Aidil (5E) </li>
-<li>Assistant Leader - Alya Alesha Binte Muhammad Sofian (4B)</li>
-<li>Assistant Leader - Amber Tan Zhi Yu (4B)</li>
+	<li>Ma Ruo Xin (5D)</li>
+	<li>Afif Naufal Bin Noor Aidil (5E) </li></ul>
+	<p><strong>Assistant Leaders:</strong></p>
+	<ul>
+<li>Alya Alesha Binte Muhammad Sofian (4B)</li>
+<li>Amber Tan Zhi Yu (4B)</li>
 </ul>
 <p><strong>Description:</strong></p>
 <p><strong>Discover the Magic of Theatre with our Speech and Drama CCA</strong></p>

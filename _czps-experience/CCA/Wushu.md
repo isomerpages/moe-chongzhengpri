@@ -7,8 +7,8 @@ third_nav_title: CCA
 <p><strong>Teachers-in-charge:</strong></p>
 <ol>
 <li>Miss Sim Yuxian (Main-in-charge)</li>
-<li>Mdm Sharifah Zaleha S M</li>
 <li>Mrs Ivory Ho</li>
+<li>Mdm Sharifah Zaleha S M</li>
 <li>Mdm Gong Xian Li</li>
 </ol>
 <p><strong>CCA School Leaders:</strong></p>
@@ -18,17 +18,19 @@ third_nav_title: CCA
 </ul>
 <p><strong>CCA Team Leaders:</strong></p>
 <ul>
-<li><strong>Leader&nbsp;</strong>-Liew Zi Chee (5D) andHo Fu Jun Dylan (5A)</li>
+<li><strong>Leader&nbsp;</strong>-Liew Zi Chee (5D) and Ho Fu Jun Dylan (5A)</li>
 <li><strong>Assistant Leader&nbsp;</strong>- Ding Yu Tong Kyla (4D)</li>
 </ul>
 <p><strong>Description :</strong></p>
 <p>
 The purpose of our CCA is to engage and train students in the sport of Wushu to build their core strength, agility and mastery of the skill. To achieve this, weekly training is conducted for our members. For those who show more interest and flair in the sport, further training is provided during school team practices. These students also perform for the school on special occasions and represent us in competitions.</p>
 <p><strong>Goals:&nbsp;</strong></p>
-<p>To build up pupils’ health, confidence and self-discipline through the sport of Wushu.&nbsp;</p>
+<p>To build up students’ health, confidence and self-discipline through the sport of Wushu.&nbsp;</p>
 <p><strong>Achievements for the past 5 years :</strong></p>
 <p><strong>2023:</strong></p>
 <p>Our school participated in the Wushu National School Games this year and we are proud to share the good news from Lim Jing Xin Asher (5-Diligence) and Vong Yan Rui Zander (5-Diligence).</p>
+
+
 <p><strong>Results of the National School Games 2023:</strong></p>
 
 
@@ -38,33 +40,25 @@ The purpose of our CCA is to engage and train students in the sport of Wushu to 
 | LIM JING XIN ASHER     | 5-Duan Sword - Senior Boys    | 6|	
 | LIM JING XIN ASHER     | 4-Duan Spear - Senior Boys   | 1|		
 | VONG YAN RUI ZANDER     | 4-Duan Cudgel - Junior Boys  | 6		|
+<p style="padding-centre: 40px;">
+<img src="/images/2023%20achievement%20photo.JPG">
+</p>
+<p><strong>Results of the National School Games 2022:</strong></p>
 
 
-<p><strong>Results of the National School Games 2022:</strong></p><table width="568">
+| Name | Event | Event Rank Order |
+| -------- | -------- | -------- |
+|LIM JING XIN ASHER     | Junior Boys 3-Duan Changquan    | 11 |
+|LIM JING XIN ASHER     | Junior Boys 4-Duan Spear   | 11|	
+|LIM JING XIN ASHER     | 4-Duan Spear - Senior Boys| 1|
+
+<table width="568">
 <tbody>
 <tr>
 </tr></tbody></table><p><strong>2021:</strong></p><p>In 2021, 7 of our Wushu members took part in the Wushu National School Games (NSG) senior division competition this year. Despite the COVID-19 situation which affected their training plans, our students overcome the challenges bravely, prepared themselves well and put in their best efforts in the competition. We are honoured to announce that all of them have done Chongzheng proud and fly the Chongzheng flag high. 4 of our members, Winnie, Vernice, Pei En and Lucas have also successfully applied to the secondary school of their choice through Direct Schools Admission (DSA). Congratulations to our Wushu members!</p><p><strong>Results of the National School Games 2021:</strong></p><table width="568">
 <tbody>
 <tr>
-
-
-</tr></tbody></table>
-
-
-| Name | Event | Event Rank Order |
-| -------- | -------- | -------- |
-| LIM JING XIN ASHER     | Junior Boys 3-Duan Changquan     | 11    |
-| LIM JING XIN ASHER     | Junior Boys 4-Duan Spear    | 11    |
-| LIM JING XIN ASHER     | J4-Duan Spear - Senior Boys   | 1    |
-
-
-
-
-
-
-
-	
-<table width="568">
+</tr></tbody></table><table width="568">
 <tbody>
 <tr>
 <td style="text-align: center;" width="202"><strong>Name</strong></td>
@@ -222,47 +216,3 @@ The purpose of our CCA is to engage and train students in the sport of Wushu to 
 </tbody>
 </table>
 <img src="/images/wu5.jpg">
-<p><strong>2017</strong></p>
-<table>
-<tbody>
-<tr>
-<td width="312">
-<div>1) Yo Yu Ying 5-Confidence</div>
-<div>Changquan (8th place)</div>
-</td>
-<td width="312">
-<p>2) Joshua Jeremiah Tan Zhu En 5-Aspiration</p>
-<div>Nanquan (Southern Fist) (7th place)</div>
-<div>Nan Dao (Southern Broadsword) (9th place)</div>
-<div>Nan Gun (Southern Cudgel) (8th place)</div>
-</td>
-</tr>
-<tr>
-<td>
-<div>3) Alan Tan, 6-Aspiration Sword (5th place)</div>
-<div>5-Duan Nanquan(Southern Fist) (3<sup>rd</sup>&nbsp;place)</div>
-<div>5-Duan Spear (2nd place)</div>
-</td>
-<td>
-<div>4) Joash Tan, 6-Aspiration</div>
-<div>Nanquan (Southern Fist) (9th place), Broadsword (7th place)</div>
-</td>
-</tr>
-<tr>
-<td>
-<div>5) Alan Tan, 6-Diligence</div>
-<div>Nanquan (Southern Fist) (8th place)</div>
-</td>
-<td>
-<div>6) Jayden Choo, 6-Excellence</div>
-<div>5-Duan Changquan (6th place)&nbsp;</div>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>7) Sng Zi Yan, 6-Aspiration 4-Duan Sword (8th place)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<img style="width: 80%;" src="/images/wu6.jpg">

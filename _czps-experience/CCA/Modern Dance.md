@@ -12,9 +12,10 @@ third_nav_title: CCA
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
-<li>Captain - Cheung Pui Ki Vianna (6E)</li>
-<li>Vice Captain – Stuti Menon (5D)</li>
-<li>Vice Captain – Chua Yu Xuan, Keisha (5C)</li>
+<li>Captain – Stuti Menon (5D)</li>
+<li>Captain – Chua Yu Xuan, Keisha (5C)</li>
+<li>Vice Captain – Lyra Leong Zi Xuan (4B)</li>
+<li>Vice Captain – Tan Ruo Ran (4B)</li>
 </ul>
 <p><strong>Description:</strong></p>
 <p>Chongzheng Modern Dance CCA develops well-rounded dancers and maximise the potential of each dancer. With the use of different genres such as contemporary, hip-hop and street dance, the exposure helps to broaden their horizon and master a range of dance techniques and styles emphasizing strength, balance and endurance.</p>

@@ -11,7 +11,8 @@ third_nav_title: CCA
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
-<li>Senior Sixer - Low Yen Kit (5C) and Aqeel Hudzaifah Bin Muhammad Hanafiah (5C) </li>
+	<li>Senior Sixer - Low Yen Kit (5C)</li>
+<li>Senior Sixer – Aqeel Hudzaifah Bin Muhammad Hanafiah (5C) </li>
 <li>Assistant Sixer - Aidan Mateen Cheok S/O Basril Nizam (4A)</li>
 <li>Assistant Sixer - Koh Jie Le Jerel (4A)</li>
 </ul>
