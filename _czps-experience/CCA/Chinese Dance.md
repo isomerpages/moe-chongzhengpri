@@ -6,13 +6,13 @@ third_nav_title: CCA
 ---
 <p><strong>Teachers-in-Charge :&nbsp;</strong></p>
 <ol>
-	<li>Ms Eunice Bor(Main in-charge)</li>	
+	<li>Ms Eunice Bor (Main in-charge)</li>	
 <li>Mdm Leong Lai Lan</li>
 <li>Ms Aileen Kwek</li>
 </ol>
 <p><strong>CCA Leaders :</strong></p>
 <ul>
-<li>Leader - Tan Pei En Geraldine (5A) and Puan Jie En Felicia(5D)</li>
+<li>Leader - Tan Pei En Geraldine (5A) and Puan Jie En Felicia (5D)</li>
 <li>Assistant Leader - Liao Siyu Sophia (4B) and Skylar Ma Shu Shu (4C)</li>
 </ul>
 <p><strong>Mission:</strong></p>
@@ -22,7 +22,7 @@ third_nav_title: CCA
 </p></ul>
 <ul>
 <ul>
-	<li><strong>passionate learners</strong> who understand the chinese culture better;</li>
+	<li><strong>passionate learners</strong> who understand and appreciate the Chinese culture better;</li>
 	<li><strong>responsible team player</strong> who are committed to the team and are good support to the team;</li>
 <li><strong>respectful leaders</strong> who are polite to everyone and show consideration for others; </li>
 <li><strong>confident individuals</strong> who are able to showcase their best during public performances;</li>
