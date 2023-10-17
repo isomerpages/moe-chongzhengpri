@@ -15,11 +15,11 @@ third_nav_title: CCA
 <p><strong>CCA Leaders:</strong></p>
 <ul>
 	<li>Captain – Wafi Hadi Bin Mohammad Farhan (5D)</li> <li>Captain - Gururamasamy Daanvir (5D)</li>
-	<li>Vice Captain –  MUHAMMAD ADAM HAQIM BIN MOHAMED FADIL (4D)</li>   
-<li>Vice Captain –   NUH HADIF BIN MOHAMED RAMDHAN (4B)</li>
-<p></p><li>Captain – HANIYYAH BINTE MOHAMMAD RAIHAN (5C)</li> <li>Captain - Qaila Binte Rosli (5A)</li>
-<li>Vice Captain –  AYESHA BINTE SAIFULLAZAN (4A) </li>
-	<li>Vice Captain – MUNEERAH BINTE SALAHUDEEN (4C)</li><p></p>
+	<li>Vice Captain –  Muhammad Adam Haqim Bin Mohamed Fadil (4D)</li>   
+<li>Vice Captain –   Nuh Hadif Bin Mohamed Ramdhan (4B)</li>
+<p></p><li>Captain – Haniyyah Binte Mohammad Raihan (5C)</li> <li>Captain - Qaila Binte Rosli (5A)</li>
+<li>Vice Captain –  Ayesha Binte Saifullaan (4A) </li>
+	<li>Vice Captain – Muneerah Binte Salahudeen (4C)</li><p></p>
 </ul>
 <p><strong>Description:</strong></p>
 <p>The hockey team members learn the basics of hockey skills and play in team games of 3v3 (Pri. 4 pupils) and 5v5 for the junior teams (Pri. 5 pupils) and 6v6 for the senior teams (Pri. 6 pupils). Besides training on Tuesday mornings during CCA periods, pupils attend extra training on Tuesday and Friday afternoons for two and a half hours each time. Hockey members also take part in friendly and competitive matches organised by our own school, other schools, external hockey clubs and inter-school competitions including the National School Games.</p>
