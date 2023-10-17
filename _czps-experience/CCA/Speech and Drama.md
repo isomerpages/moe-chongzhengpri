@@ -13,13 +13,14 @@ third_nav_title: CCA
 <p><strong>CCA Leaders:&nbsp;</strong></p>
 <strong>Leaders: </strong>
 <ul>
-	<li>Ma Ruo Xin (5D)</li>
-	<li>Afif Naufal Bin Noor Aidil (5E) </li></ul>
-	<p><strong>Assistant Leaders:&nbsp;</strong></p>
+<li>Ma Ruo Xin (5D)</li>
+<li>Afif Naufal Bin Noor Aidil (5E) </li></ul>
+
+<p><strong>Assistant Leaders:&nbsp;</strong></p>
 <ul>
 <li>Alya Alesha Binte Muhammad Sofian (4B)</li>
-<li>Amber Tan Zhi Yu (4B)</li>
-</ul>
+<li>Amber Tan Zhi Yu (4B)</li></ul>
+
 <p><strong>Description:</strong></p>
 <p><strong>Discover the Magic of Theatre with our Speech and Drama CCA</strong></p>
 At our Speech and Drama CCA, we bring stories to life, instill values, and nurture talent through the captivating medium of drama. We're passionate about storytelling, from classic tales to Singapore's history, conveying morals and NE values. Everyone plays a vital role, both on and offstage, fostering teamwork and life skills.
