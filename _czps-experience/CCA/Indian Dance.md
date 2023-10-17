@@ -29,4 +29,5 @@ third_nav_title: CCA
 <p><strong>Achievements for the past 3 years :</strong></p>
 <p>2018 SYF: Certificate of Distinction</p>
 <p>2016 SYF: Certificate of Accomplishment</p>
-<img style="width: 85%;" src="/images/id5.jpg">
+<p>2021 SYF: SYF Experience<img style="width: 85%;" src="/images/2023_indian%20dance%20photo%201.jpg"></p>
+<p><img style="width: 85%;" src="/images/2023_indian%20dance%20photo%202.jpg"></p>

@@ -15,8 +15,8 @@ third_nav_title: CCA
 <ul>
 	<li>Ma Ruo Xin (5D)</li>
 	<li>Afif Naufal Bin Noor Aidil (5E) </li></ul>
-	<p><strong>Assistant Leaders:</strong></p>
-	<ul>
+	<p><strong>Assistant Leaders:&nbsp;</strong></p>
+<ul>
 <li>Alya Alesha Binte Muhammad Sofian (4B)</li>
 <li>Amber Tan Zhi Yu (4B)</li>
 </ul>
