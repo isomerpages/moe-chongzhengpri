@@ -12,9 +12,9 @@ third_nav_title: Useful Information
 <th style="text-align: center;">Requirements</th>
 </tr>
 <tr>
-<td style="text-align: center;">Asia Cuisine (Halal/Non-Halal)</td>
-<td style="text-align: center;">15 October 2023</td>
-<td style="text-align: center;">Healthy Thai/Korean/Asia Food</td></tr></tbody></table>
+<td style="text-align: center;">Halal Rice Stall</td>
+<td style="text-align: center;">17 November 2023</td>
+<td style="text-align: center;">Healthy Food</td></tr></tbody></table>
 
 <h4><strong>Application Procedure</strong></h4>
 <ol>
