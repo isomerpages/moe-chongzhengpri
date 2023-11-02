@@ -25,7 +25,7 @@ To book school bus, please submit your application by <a href="www.bedoktranspor
 <a href="https://thecontinental.sg/" target="_blank" rel="noopener">Click here </a> to access the school book shop website.<p></p>
 	
 <p><strong>Student's Protection Plan<br></strong>NTUC Income Insurance Co-operative Limited Income Centre<br>75 Bras Basah Road<br>Singapore 189557<br>Tel: 6788 1777<br> <a href="https://www.income.com.sg/studentgpa" target="_blank" rel="noopener">Click here </a> to aaccess the website. </p><p></p>
-To claim, please <a href="https://studentgpa.incomegroupins.com.sg/" target="_blank" rel="noopener">click here </a> 
+Submission of claim, please <a href="https://studentgpa.incomegroupins.com.sg/" target="_blank" rel="noopener">click here </a> 
 <p></p>
 	
 </td></tr></tbody></table>
