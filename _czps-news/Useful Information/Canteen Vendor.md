@@ -14,7 +14,13 @@ third_nav_title: Useful Information
 <tr>
 <td style="text-align: center;">Halal Rice Stall</td>
 <td style="text-align: center;">17 November 2023</td>
-<td style="text-align: center;">Healthy Food</td></tr></tbody></table>
+<td style="text-align: center;">Healthy Food</td></tr>
+
+<tr>
+<td style="text-align: center;">Western Stall (Halal/non-Halal)</td>
+<td style="text-align: center;">17 November 2023</td>
+<td style="text-align: center;">Healthy Food</td></tr>
+</tbody></table>
 
 <h4><strong>Application Procedure</strong></h4>
 <ol>
