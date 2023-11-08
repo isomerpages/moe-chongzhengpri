@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/banner.gif
       key_highlights:
-        - title: 2023 P1 Parents' Talk
+        - title: 2024 P1 Parents' Talk
           description: Read More
-          url: /information-for-parents/useful-information/p1-parents-talk
+          url: https://www.chongzhengpri.moe.edu.sg/information-for-parents/useful-information/2024-p1-orientation/
         - title: CZ E.P.I.C Day!
           description: Read More
           url: /czps-news/special-events/e-p-i-c-day
