@@ -8,4 +8,5 @@ variant: markdown
 <h4><strong>Materials from the P1 Orientation</strong></h4>
 
 <p><a href="https://go.gov.sg/czps-guide-for-2024-p1-parents" target="_blank" rel="noopener"> Guide for P1 Parents </a></p>	
+<p><a href="https://go.gov.sg/admin-guide-p1-orientation" target="_blank" rel="noopener"> Administrative Guide for P1 Parents </a></p>	
 <p><a href="https://form.gov.sg/653a27749c349a00128e9f45" target="_blank" rel="noopener"> Click here </a> to submit queries/clarifications on P1 matters</p>
