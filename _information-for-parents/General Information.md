@@ -2,6 +2,7 @@
 title: General Information
 permalink: /information-for-parents/general-information/
 description: ""
+variant: markdown
 ---
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -15,7 +16,7 @@ description: ""
 	
 <img style="width: 75%;" src="/images/gi2.jpeg">
 <p>Bedok Transport Pte Ltd<br>Tel: 6242 0201 / 6284 3032 (Mr Lim Cheng Wai)<br>HP: 9457 2373 (Mrs Lim)</p>
-To book school bus, please submit your application by <a href="www.bedoktransport.com/bedok_transport/register" target="_blank" rel="noopener">clicking here </a> <p></p>	
+To book school bus, please submit your application by <a href="https://www.bedoktransport.com/bedok_transport/register" target="_blank" rel="noopener">clicking here </a> <p></p>	
 
 <img style="width: 75%;" src="/images/gi3.jpeg">
 <p>Tel:&nbsp;8940 1137<br>Opening Hours:<br>Monday to Thursday, 8am - 5.30pm<br>Friday, 8am - 5pm</p> 
