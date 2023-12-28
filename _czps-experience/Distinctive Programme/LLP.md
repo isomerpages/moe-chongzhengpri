@@ -30,13 +30,17 @@ In Chongzheng Primary, we believe that every student has the potential to lead a
 <p><strong>	Tier 3 Leadership: Talent Development</strong></p>
 <p>Students with good conduct and outstanding leadership potential are offered opportunity to take up the role of a prefect or CCA leader, where they serve the school community in greater depth.</p>
 <p><strong>Leadership Pathway &amp; Opportunities</strong></p>
-<img src="/images/Slide5_LLP_Write_up_28_Dec2023.png" style="width: 100%;"><p></p>
+<img src="/images/Slide5_LLP_Write_up_28_Dec2023.png" style="width: 100%;">
 <img src="/images/Slide12_LLP_Write_Up_Picture_28_Dec_2023.png" style="width: 250%;">
 <img src="/images/Slide11_LLP_Write_Up_Picture_28_Dec_2023.png" style="width: 250%;">
 <p><strong>Chongzheng Primary School Prefectorial Board</strong></p>
 <strong>VISION</strong>: Every CZ Prefect a Confident Service Leader &amp; Steadfast Decision Maker
 <strong>MISSION</strong>: To develop every Chongzheng Prefect to be an Exemplary Leader &amp; Role Model for Self, Others and School
+<p><strong>Chongzheng Primary School Prefect Identity</strong></p>
+<img src="/images/Slide13_LLP_Write_Up_Picture_28_Dec_2023.png" style="width: 100%;">
+<p>To find out the opportunities and programmes for the prefects, do visit the website: 
 
 
 
 
+</p>
