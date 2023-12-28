@@ -3,6 +3,7 @@ title: School Admin Team
 permalink: /about-us/school-organisation/school-admin-team/
 description: ""
 third_nav_title: School Organisation
+variant: markdown
 ---
 <table>
 <tbody>
@@ -56,6 +57,9 @@ third_nav_title: School Organisation
 	<tr><td>Mdm Taksiah Binte Ahmad</td>
 <td><strong>Operations Support Officer</strong></td>
 </tr>
+<tr><td>Mdm Chan Lai Sing</td>
+<td><strong>Operations Support Officer</strong></td>
+</tr>
 </tbody>
 </table>
 <table>
@@ -68,6 +72,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td>Mr Seng Kok Heng</td>
+<td><strong>Desktop Engineer</strong></td>
+</tr>
+<tr>
+<td>Miss Nurul Amiera Azura Binte Eadi </td>
 <td><strong>Desktop Engineer</strong></td>
 </tr>
 <tr>
