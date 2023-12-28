@@ -11,67 +11,67 @@ variant: markdown
 
 <table>
 <thead>
-  <tr>
-    <th>Class</th>
-    <th>Form Teachers</th>
-    <th>Email</th>
-  </tr>
+ <tr>
+ <th>Class</th>
+ <th>Form Teachers</th>
+ <th>Email</th>
+ </tr>
 </thead>
 <tbody>
-  <tr>
-    <td rowspan="2">1 Aspiration</td>
-    <td>Mdm Nur Saqinah Bte Adnan</td>
-    <td>nur_saqinah_adnan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Goh Swee Eem<br>Mdm Jaslyn Koh</td>
-    <td>goh_swee_eem@moe.edu.sg<br>gao_chujuan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">1 Benevolence</td>
-    <td>Mdm Azidah Aman</td>
-    <td>azidah_aman@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Sim Bee Kim</td>
-    <td>sim_bee_kim@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">1 Confidence</td>
-    <td>Mrs Ang Li Hoon</td>
-    <td>neo_li_hoon@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Miss Krishna Veni</td>
-    <td>krishna_veni_rajendran@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">1 Diligence</td>
-    <td>Mdm Hasnita Binte Surani</td>
-    <td>hasnita_surani@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Jay Chu</td>
-    <td>chu_hin_wa@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">1 Excellence</td>
-    <td>Mrs Karen Yeo</td>
-    <td>karen_yeo_han_leng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Norisha Bte Ismail</td>
-    <td>norisha_ismail@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">1 Faith</td>
-    <td>Mrs Brenda Tan</td>
-    <td>lim_yen_theng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Nurhiza Bte Mohamed</td>
-    <td>nurhiza_mohamed@moe.edu.sg</td>
-  </tr>
+<tr>
+<td rowspan="2">1 Respect</td>
+<td>Mrs Ivory Ho</td>
+<td>koh_hui_tian@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Norisha Bte Ismail</td>
+<td>norisha_ismail@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">1 Responsibility</td>
+<td>Mdm Hasnita Binte Surani</td>
+<td>hasnita_surani@moe.edu.sg</td>
+</tr>
+<tr>
+  <td>Ms Li Xin Xin</td>
+  <td></td>
+</tr>
+<tr>
+<td rowspan="2">1 Intergrity</td>
+<td>Mdm Mastura Bte Mohamed</td>
+<td>mastura_mohamed@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Jasmina Parvin</td>
+<td>jasmina_parvin_mohd_ali@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">1 Steadfastness</td>
+<td>Mdm Nor Aisah Bte Ahmat</td>
+<td>nor_aisah_ahmat@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Ms Joey Lim </td>
+<td>lim_pei_na_joey@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">1 Empathy</td>
+<td>Mdm Siti Zubaidah Bte Sarip</td>
+<td>siti_zubaidah_sarip@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mrs Rachel Lam</td>
+<td>tan_lay_ming_a@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">1 Confidence</td>
+<td>Ms Kwan Shiow Yan</td>
+<td>kwan_shiow_yan@moe.edu.sg</td>
+</tr> 
+<tr>
+<td>Mdm Vera Tan</td>
+<td>tan_hiang_lang_vera@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 
