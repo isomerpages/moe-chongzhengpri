@@ -120,7 +120,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;">Ms Emelyne Quek</td>
 <td style="text-align: center;">Assistant Year Head (Middle Primary)</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">emelyne_quek_jiang_li@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
