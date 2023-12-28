@@ -39,8 +39,8 @@ In Chongzheng Primary, we believe that every student has the potential to lead a
 <p><strong>Chongzheng Primary School Prefect Identity</strong></p>
 <img src="/images/Slide13_LLP_Write_Up_Picture_28_Dec_2023.png" style="width: 100%;">
 <p>To find out the opportunities and programmes for the prefects, do visit the website: 
+</p><p>For prefects, please refer to the website for duty roster, schedule as well as photos for our activities!</p>
 
 
 
 
-</p>
