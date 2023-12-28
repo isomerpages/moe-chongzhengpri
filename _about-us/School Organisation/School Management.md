@@ -3,6 +3,7 @@ title: School Management
 permalink: /about-us/school-organisation/school-management/
 description: ""
 third_nav_title: School Organisation
+variant: markdown
 ---
 <p style="text-align: center;"><strong>Key Personnel - EXCO Team</strong></p>
 <table>
@@ -50,14 +51,14 @@ third_nav_title: School Organisation
 <td style="text-align: center;" width="267">annur_shanaz_abdul_haque@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="214">Mdm Tan Mei San</td>
-<td style="text-align: center;" width="214">HOD / Science</td>
-<td style="text-align: center;" width="267">tan_mei_san@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="text-align: center;">Ms Rachel Poh</td>
 <td style="text-align: center;">HOD / Mother Tongue Languages</td>
 <td style="text-align: center;">poh_wee_flang@moe.edu.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;" width="214">Mdm Linda Teo</td>
+<td style="text-align: center;" width="214">HOD / Mathematics</td>
+<td style="text-align: center;" width="267"></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Mahathir Mohamed Saman</td>
@@ -117,9 +118,9 @@ third_nav_title: School Organisation
 <td style="text-align: center;">ahmad_shalehin_ahmad@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Ms Joey Lim</td>
-<td style="text-align: center;">Assistant Year Head (Acting)</td>
-<td style="text-align: center;">lim_pei_na_joey@moe.edu.sg</td>
+<td style="text-align: center;">Ms Emelyne Quek</td>
+<td style="text-align: center;">Assistant Year Head (Middle Primary)</td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
