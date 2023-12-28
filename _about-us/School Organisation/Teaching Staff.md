@@ -3,10 +3,11 @@ title: Teaching Staff
 permalink: /about-us/school-organisation/teaching-staff/
 description: ""
 third_nav_title: School Organisation
+variant: markdown
 ---
 <center><h4>Primary 1</h4>
 <h5>Year Head: Ms Farah<br>
-Assistant Year Head (Acting): Ms Joey Lim</h5></center>
+</h5></center>
 
 <table>
 <thead>
