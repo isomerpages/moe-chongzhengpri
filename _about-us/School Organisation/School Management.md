@@ -58,7 +58,7 @@ variant: markdown
 	<tr>
 <td style="text-align: center;" width="214">Mdm Linda Teo</td>
 <td style="text-align: center;" width="214">HOD / Mathematics</td>
-<td style="text-align: center;" width="267"></td>
+<td style="text-align: center;" width="267">teo_lian_eng_linda@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Mahathir Mohamed Saman</td>
