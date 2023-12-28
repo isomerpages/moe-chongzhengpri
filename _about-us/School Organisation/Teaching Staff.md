@@ -88,54 +88,54 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">2 Aspiration</td>
-    <td>Mdm Elaine Goh</td>
-    <td>goh_yi_ling_elaine@moe.edu.sg </td>
+    <td rowspan="2">2 Respect</td>
+    <td>Mdm Nur Saqinah Bte Adnan</td>
+<td>nur_saqinah_adnan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Siti Zubaidah Bte Sarip</td>
-    <td>siti_zubaidah_sarip@moe.edu.sg</td>
+   <td>Mdm Jaslyn Koh</td>
+    <td>gao_chujuan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">2 Benevolence</td>
-    <td>Mrs Ivory Ho</td>
-    <td>koh_hui_tian@moe.edu.sg</td>
+ <td rowspan="2">2 Responsibility</td>
+<td>Mdm Azidah Aman</td>
+<td>azidah_aman@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Ms Indra D/O Balakrishnan</td>
+<td></td>
   </tr>
   <tr>
-    <td>Ms Su Rui</td>
-    <td>su_rui_b@moe.edu.sg</td>
+    <td rowspan="2">2 Intergrity</td>
+   <td>Mrs Ang Li Hoon</td>
+    <td>neo_li_hoon@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">2 Confidence</td>
-    <td>Mrs Candice Tu</td>
+     <td>Mdm Sim Bee Kim</td>
+    <td>sim_bee_kim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Steadfastness</td>
+     <td>Mrs Candice Tu</td>
     <td>tan_shuwen_candice@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Siti Khairunnisa Bte Ariffin</td>
-    <td>siti_khairunnisa_ariffin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">2 Diligence</td>
-    <td>Mdm Mastura Bte Mohamed</td>
-    <td>mastura_mohamed@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mdm Siew Huay Ming</td>
     <td>siew_huay_ming@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">2 Excellence</td>
-    <td>Mdm Nor Aisah Bte Ahmat</td>
-    <td>nor_aisah_ahmat@moe.edu.sg</td>
+    <td rowspan="2">2 Empathy</td>
+   <td>Mrs Karen Yeo</td>
+    <td>karen_yeo_han_leng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Ms Joey Lim </td>
-    <td>lim_pei_na_joey@moe.edu.sg</td>
+  <td>Ms Su Rui<br>Mdm Nurhiza Bte Mohamed</td>
+  <td>su_rui_b@moe.edu.sg<br>nurhiza_mohamed@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">2 Faith</td>
-    <td>Mrs Rachel Lam</td>
-    <td>tan_lay_ming_a@moe.edu.sg</td>
+    <td rowspan="2">2 Confidence</td>
+    <td>Mrs Brenda Tan</td>
+    <td>lim_yen_theng@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mdm Vera Tan<br>Mdm Law Koon Eng</td>
