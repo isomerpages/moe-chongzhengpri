@@ -129,8 +129,8 @@ variant: markdown
     <td>karen_yeo_han_leng@moe.edu.sg</td>
   </tr>
   <tr>
-  <td>Ms Su Rui<br>Mdm Nurhiza Bte Mohamed</td>
-  <td>su_rui_b@moe.edu.sg<br>nurhiza_mohamed@moe.edu.sg</td>
+  <td>Ms Su Rui</td>
+  <td>su_rui_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">2 Confidence</td>
@@ -138,8 +138,8 @@ variant: markdown
     <td>lim_yen_theng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Vera Tan<br>Mdm Law Koon Eng</td>
-    <td>tan_hiang_lang_vera@moe.edu.sg<br>law_koon_eng@moe.edu.sg</td>
+    <td>Ms Jahiza Jamaludin</td>
+    <td>jahiza_jamaludin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -157,36 +157,37 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">3 Aspiration</td>
-    <td>Mdm Hajar Bibi Bte Abdul Rashid</td>
-    <td>hajar_bibi_abdul_rashid@moe.edu.sg</td>
+    <td rowspan="2">3 Respect</td>
+     <td>Mr Ryan Pek</td>
+    <td>ryan_pek@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Ling Wei Yong</td>
+     <td>Miss Krishna Veni Rajendran<br>Mdm Haryani Binte Mohamad Jaafar</td>
+    <td>krishna_veni_rajendran@moe.edu.sg<br></td>
+
+  </tr>
+  <tr>
+    <td rowspan="2">3 Responsibility</td>
+    <td>Mdm Siti Masyita Bte Mohammad Ali</td>
+    <td></td>
+  </tr>
+  <tr>
+   <td>Mr Mohamad Rafey Bin Abdul Jalil</td>
+  <td>mohamad_rafey@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Intergrity</td>
+  <td>Mr Ling Wei Yong</td>
     <td>ling_wei_yong@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">3 Benevolence</td>
-    <td>Ms Kwan Shiow Yan</td>
-    <td>kwan_shiow_yan@moe.edu.sg</td>
+    <td>Miss Kwek Meei Huey, Aileen</td>
+    <td>kwek_meei_huey_aileen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Koh Chor Kiang, Jaslyn</td>
-    <td>gao_chujuan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">3 Confidence</td>
-    <td>Ms Nur Farhana Bte Hamzah</td>
-    <td>nur_farhana_hamzah@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Mohamad Rafey Bin Abdul Jalil</td>
-    <td>mohamad_rafey@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">3 Diligence</td>
-    <td>Mrs Sharleen Ong</td>
-    <td>chong_siew_lee_sharleen@moe.edu.sg</td>
+    <td rowspan="2">3 Steadfastness</td>
+    <td>Ms Emerlyne Quek</td>
+    <td></td>
   </tr>
   <tr>
     <td>Mr Mohamed Izzat</td>
