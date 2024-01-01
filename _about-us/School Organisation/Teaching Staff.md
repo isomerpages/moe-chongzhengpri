@@ -218,49 +218,50 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">4 Aspiration</td>
-    <td>Mr Ryan Pek</td>
-    <td>ryan_pek@moe.edu.sg</td>
+    <td rowspan="2">4 Respect</td>
+    <td>Mdm Sharifah Zaleha Bte S Mansor</td>
+    <td>sharifah_zaleha_s_mansor@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Jasmina Parvin</td>
-    <td>jasmina_parvin_mohd_ali@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">4 Benevolence</td>
-    <td>Mdm Leong Lai Lan</td>
-    <td>leong_lai_lan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Ahmad Shalehin</td>
+   <td>Mr Ahmad Shalehin</td>
     <td>ahmad_shalehin_ahmad@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">4 Confidence</td>
-    <td>Mr Ng Fu Tian, Benny</td>
-    <td>ng_fu_tian_benny@moe.edu.sg</td>
+    <td rowspan="2">4 Responsibility</td>
+     <td>Mdm Amutha Lechmee</td>
+    <td>amutha_lechmee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Miss Noor Haida Bte Mohd Jakaria</td>
-    <td>noor_haida_mohd_jakaria@moe.edu.sg</td>
+   <td>Mdm Eunice Bor</td>
+   <td>bor_bee_cheoh_eunice@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">4 Diligence</td>
-    <td>Ms Emi Tan Huilin<br>Mdm Sharifah Zaleha Bte S Mansor</td>
-    <td>emi_ng_huilin@moe.edu.sg<br>sharifah_zaleha_s_mansor@moe.edu.sg</td>
+   <td rowspan="2">4 Intergrity</td>
+   <td>Ms Nur Farhana Bte Hamzah</td>
+  <td>nur_farhana_hamzah@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Miss Chia Chen Wei</td>
-    <td>chia_chen_wei@moe.edu.sg</td>
+    <td>Ms Gong Xianli</td>
+    <td>gong_xianli@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">4 Excellence</td>
-    <td>Ms Ng Choon Tee</td>
-    <td>ng_choon_tee@moe.edu.sg</td>
+  <td rowspan="2">4 Steadfastness</td>
+  <td>Mrs Sharleen Ong</td>
+  <td>chong_siew_lee_sharleen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Miss Kwek Meei Huey, Aileen</td>
-    <td>kwek_meei_huey_aileen@moe.edu.sg</td>
+ <td>Mr Mohamed Izzat</td>
+ <td>mohamed_izzat_mohamed_sarip@moe.edu.sg</td>
+ </tr>
+ <tr>
+ <td rowspan="2">4 Empathy</td>
+ <td>Mr Ng Fu Tian, Benny</td>
+ <td>ng_fu_tian_benny@moe.edu.sg</td>
+ </tr>
+ <tr>
+ <td>Mdm Leong Lai Lan</td>
+ <td>leong_lai_lan@moe.edu.sg</td>
+
   </tr>
 </tbody>
 </table>
@@ -270,58 +271,58 @@ variant: markdown
 
 <table>
 <thead>
-  <tr>
-    <th>Class</th>
-    <th>Form Teachers</th>
-    <th>Email</th>
-  </tr>
+ <tr>
+ <th>Class</th>
+ <th>Form Teachers</th>
+ <th>Email</th>
+ </tr>
 </thead>
 <tbody>
-  <tr>
-    <td rowspan="2">5 Aspiration</td>
-    <td>Mrs Sharon Tan</td>
-    <td>sharon_goh_choo_lin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Maznah Bte Yusak<br></td>
-    <td>maznah_yusak@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">5 Benevolence</td>
-    <td>Ms Zaishereen Bte Aman</td>
-    <td>zaishereen_aman@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Miss Sim Yu Xian</td>
-    <td>sim_yu_xian@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">5 Confidence</td>
-    <td>Miss Candice Loke May Xyn</td>
-    <td>candice_loke_may_xyn@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Azizah Bte Shaik Abdul Kadir</td>
-    <td>azizah_shaik_abdul_kadir@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">5 Diligence</td>
-    <td>Mdm Amutha Lechmee</td>
-    <td>amutha_lechmee@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Teo Beng Hwee</td>
-    <td>teo_beng_hwee@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">5 Excellence</td>
-    <td>Mr Gavin Ong</td>
-    <td>ong_wei_lee@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Rekha Rajendran</td>
-    <td>rekha_rajendran@moe.edu.sg</td>
-  </tr>
+<tr>
+<td rowspan="2">5 Respect</td>
+<td>Mdm Quek Lew Cheng</td>
+<td>quek_lew_cheng@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Miss Noor Haida Bte Mohd Jakaria</td>
+<td>noor_haida_mohd_jakaria@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">5 Responsibility</td>
+<td>Mdm Kamaliah Abdul Jalil</td>
+<td>kamaliah_abdul_jalil@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Foo Li Ying, Pauline</td>
+<td>foo_li_ying_pauline@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">5 Intergrity</td>
+<td>Mdm Lim Winnie</td>
+<td>lim_winnie@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Ms Norisah Bte Md Ismail</td>
+<td>norisah_md_ismail@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">5 Steadfastness</td>
+<td>Mdm Sheela Devi D/O Tet Baahadur</td>
+<td></td>
+</tr>
+<tr>
+<td>Miss Chia Chen Wei</td>
+<td>chia_chen_wei@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">5 Empathy</td>
+<td>Mdm Suckjit Kaur</td>
+<td>kaur_suckjit_singh_bang@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Miss Wu Ya-Ting</td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -330,57 +331,57 @@ variant: markdown
 
 <table>
 <thead>
-  <tr>
-    <th>Class</th>
-    <th>Form Teachers</th>
-    <th>Email</th>
-  </tr>
+<tr>
+<th>Class</th>
+<th>Form Teachers</th>
+<th>Email</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td rowspan="2">6 Aspiration</td>
-    <td>Mdm Quek Lew Cheng</td>
-    <td>quek_lew_cheng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Kamaliah Abdul Jalil</td>
-    <td>kamaliah_abdul_jalil@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">6 Benevolence</td>
-    <td>Mr Ameer Ahamed Khan</td>
-    <td>ameer_ahamed_khan_amanullah@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Ms Norisah Bte Md Ismail</td>
-    <td>norisah_md_ismail@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">6 Confidence</td>
-    <td>Mdm Lim Winnie</td>
-    <td>lim_winnie@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Eunice Bor</td>
-    <td>bor_bee_cheoh_eunice@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">6 Diligence</td>
-    <td>Miss Lee Mong Lan</td>
-    <td>lee_mong_lan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mr Paul Chan</td>
-    <td>chan_ng_poh_huat@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">6 Excellence</td>
-    <td>Mdm Suckjit Kaur</td>
-    <td>kaur_suckjit_singh_bang@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Mdm Foo Li Ying, Pauline</td>
-    <td>foo_li_ying_pauline@moe.edu.sg</td>
-  </tr>
+<tr>
+<td rowspan="2">6 Respect</td>
+<td>Mrs Sharon Tan</td>
+<td>sharon_goh_choo_lin@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Maznah Bte Yusak<br></td>
+<td>maznah_yusak@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">6 Responsibility</td>
+<td>Ms Emi Tan Huilin</td>
+<td>emi_ng_huilin@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Miss Sim Yu Xian</td>
+<td>sim_yu_xian@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">6 Intergrity</td>
+<td>Miss Lee Mong Lan</td>
+<td>lee_mong_lan@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Azizah Bte Shaik Abdul Kadir</td>
+<td>azizah_shaik_abdul_kadir@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">6 Steadfastness</td>
+<td>Ms Zaishereen Bte Aman</td>
+<td>zaishereen_aman@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mr Teo Beng Hwee</td>
+<td>teo_beng_hwee@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">6 Empathy</td>
+<td>Mr Gavin Ong</td>
+<td>ong_wei_lee@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Rekha Rajendran</td>
+<td>rekha_rajendran@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
