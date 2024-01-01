@@ -267,7 +267,7 @@ variant: markdown
 </table>
 
 <center><h4>Primary 5</h4>
-<h5>Year Head: Mr Peter Seah<br>Assistant Year Head: </h5></center>
+<h5>Year Head: Mr Peter Seah<br>Assistant Year Head: Mdm Suckjit Kaur D/O Bang Singh </h5></center>
 
 <table>
 <thead>
@@ -327,7 +327,7 @@ variant: markdown
 </table>
 
 <center><h4>Primary 6</h4>
-<h5>Year Head: Mr Peter Seah</h5></center>
+<h5>Year Head: Mr Peter Seah<br>Assistant Year Head: Mdm Suckjit Kaur D/O Bang Singh </h5></center>
 
 <table>
 <thead>
