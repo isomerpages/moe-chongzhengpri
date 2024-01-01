@@ -46,6 +46,31 @@ variant: markdown
 <td style="text-align: center;" width="267">nor_aishah_ramli@moe.edu.sg</td>
 </tr>
 <tr>
+<td style="text-align: center;">Mdm Farah Bte Syed Haider Alsagoff</td>
+<td style="text-align: center;">Year Head (Lower Primary)</td>
+<td style="text-align: center;">farah_syed_haider_alsagoff@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Mr Kevin Joseph Francis</td>
+<td style="text-align: center;">Year Head (Middle Primary) &amp; covering HOD CCE</td>
+<td style="text-align: center;">kevin_joseph_francis@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Mr Peter Seah</td>
+<td style="text-align: center;">Year Head (Upper Primary)</td>
+<td style="text-align: center;">seah_chu_hian@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Emelyne Quek</td>
+<td style="text-align: center;">Assistant Year Head (Middle Primary)</td>
+<td style="text-align: center;">emelyne_quek_jiang_li@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="214">Mdm Suckjit Kaur d/o Bang Singh</td>
+<td style="text-align: center;" width="214">Assistant Year Head(Upper Primary)</td>
+<td style="text-align: center;" width="267">kaur_suckjit_singh_bang@moe.edu.sg</td>
+</tr>
+	<tr>
 <td style="text-align: center;" width="214">Mdm Annur Shanaz Abdul Haque</td>
 <td style="text-align: center;" width="214">HOD / EnglishLanguage</td>
 <td style="text-align: center;" width="267">annur_shanaz_abdul_haque@moe.edu.sg</td>
@@ -78,26 +103,6 @@ variant: markdown
 <td style="text-align: center;">&nbsp;chua_boon_hwee_daniel@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Peter Seah</td>
-<td style="text-align: center;">Year Head (Upper Primary)</td>
-<td style="text-align: center;">seah_chu_hian@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Mr Kevin Joseph Francis</td>
-<td style="text-align: center;">Year Head (Middle Primary) &amp; covering HOD CCE</td>
-<td style="text-align: center;">kevin_joseph_francis@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Mdm Farah Bte Syed Haider Alsagoff</td>
-<td style="text-align: center;">Year Head (Lower Primary)</td>
-<td style="text-align: center;">farah_syed_haider_alsagoff@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="214">Mdm Suckjit Kaur d/o Bang Singh</td>
-<td style="text-align: center;" width="214">Subject Head / English</td>
-<td style="text-align: center;" width="267">kaur_suckjit_singh_bang@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="text-align: center;">Mr Ameer Khan</td>
 <td style="text-align: center;">Level Head / Science</td>
 <td style="text-align: center;">ameer_ahamed_khan_amanullah@moe.edu.sg</td>
@@ -116,11 +121,6 @@ variant: markdown
 <td style="text-align: center;">Mr Ahmad Shalehin Bin Ahmad</td>
 <td style="text-align: center;">Subject Head / ICT</td>
 <td style="text-align: center;">ahmad_shalehin_ahmad@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Emelyne Quek</td>
-<td style="text-align: center;">Assistant Year Head (Middle Primary)</td>
-<td style="text-align: center;">emelyne_quek_jiang_li@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
