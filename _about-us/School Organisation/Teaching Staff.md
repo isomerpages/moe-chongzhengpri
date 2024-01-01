@@ -185,18 +185,18 @@ variant: markdown
     <td>kwek_meei_huey_aileen@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">3 Steadfastness</td>
-    <td>Ms Emerlyne Quek</td>
-    <td></td>
+ <td rowspan="2">3 Steadfastness</td>
+ <td>Ms Emerlyne Quek</td>
+  <td>emelyne_quek_jiang_li@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Mohamed Izzat</td>
-    <td>mohamed_izzat_mohamed_sarip@moe.edu.sg</td>
+ <td>Mdm Siti Khairunnisa Bte Ariffin</td>
+  <td>siti_khairunnisa_ariffin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">3 Excellence</td>
-    <td>Mdm Razidah Bte Amat</td>
-    <td>razidah_amat@moe.edu.sg </td>
+    <td rowspan="2">3 Empathy</td>
+     <td>Mdm Elaine Goh</td>
+    <td>goh_yi_ling_elaine@moe.edu.sg </td>
   </tr>
   <tr>
     <td>Mdm Razana bte Abdul Rahman</td>
