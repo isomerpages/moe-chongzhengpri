@@ -145,7 +145,7 @@ variant: markdown
 </table>
 
 <center><h4>Primary 3</h4>
-<h5>Year Head: Mr Kevin Joseph Francis<br>Ms Emelyne Quek</h5></center>
+<h5>Year Head: Mr Kevin Joseph Francis<br>Assistant Year Head: Ms Emelyne Quek</h5></center>
 
 <table>
 <thead>
@@ -206,7 +206,7 @@ variant: markdown
 </table>
 
 <center><h4>Primary 4</h4>
-<h5>Year Head: Mr Kevin Joseph Francis</h5></center>
+<h5>Year Head: Mr Kevin Joseph Francis<br>Assistant Year Head: Ms Emelyne Quek</h5></center>
 
 <table>
 <thead>
