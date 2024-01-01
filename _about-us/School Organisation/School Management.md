@@ -66,7 +66,7 @@ variant: markdown
 <td style="text-align: center;">emelyne_quek_jiang_li@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="214">Mdm Suckjit Kaur d/o Bang Singh</td>
+<td style="text-align: center;" width="214">Mdm Suckjit Kaur D/O Bang Singh</td>
 <td style="text-align: center;" width="214">Assistant Year Head(Upper Primary)</td>
 <td style="text-align: center;" width="267">kaur_suckjit_singh_bang@moe.edu.sg</td>
 </tr>
