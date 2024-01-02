@@ -3,6 +3,7 @@ title: School Advisory Committee
 permalink: /about-us/school-organisation/school-advisory-committee/
 description: ""
 third_nav_title: School Organisation
+variant: markdown
 ---
 <table>
 <tbody>
@@ -15,11 +16,15 @@ third_nav_title: School Organisation
 <td>Member</td>
 </tr>
 <tr>
-<td>Mdm Elsie Liong</td>
+<td>Mrs Elsie Liong</td>
 <td>Member</td>
 </tr>
 <tr>
-<td>Mdm Madeleine Loo</td>
+<td>Dr Norman Lee</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>Dr Donny Lai</td>
 <td>Member</td>
 </tr>
 </tbody>
