@@ -60,19 +60,9 @@ variant: markdown
 <td style="text-align: center;">Year Head (Upper Primary)</td>
 <td style="text-align: center;">seah_chu_hian@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Ms Emelyne Quek</td>
-<td style="text-align: center;">Assistant Year Head (Middle Primary)</td>
-<td style="text-align: center;">emelyne_quek_jiang_li@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="214">Mdm Suckjit Kaur D/O Bang Singh</td>
-<td style="text-align: center;" width="214">Assistant Year Head(Upper Primary)</td>
-<td style="text-align: center;" width="267">kaur_suckjit_singh_bang@moe.edu.sg</td>
-</tr>
 	<tr>
 <td style="text-align: center;" width="214">Mdm Annur Shanaz Abdul Haque</td>
-<td style="text-align: center;" width="214">HOD / EnglishLanguage</td>
+<td style="text-align: center;" width="214">HOD / English Language</td>
 <td style="text-align: center;" width="267">annur_shanaz_abdul_haque@moe.edu.sg</td>
 </tr>
 <tr>
@@ -94,12 +84,12 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Mr Gerardo Seow</td>
-<td style="text-align: center;">HOD / ICT &amp; MRL</td>
+<td style="text-align: center;">HOD / ICT</td>
 <td style="text-align: center;">gerardo_seow@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;Mr Daniel Chua</td>
-<td style="text-align: center;">HOD / Student Management &amp; covering HOD Mathematics&nbsp;</td>
+<td style="text-align: center;">HOD / Student Management</td>
 <td style="text-align: center;">&nbsp;chua_boon_hwee_daniel@moe.edu.sg</td>
 </tr>
 <tr>
@@ -121,6 +111,16 @@ variant: markdown
 <td style="text-align: center;">Mr Ahmad Shalehin Bin Ahmad</td>
 <td style="text-align: center;">Subject Head / ICT</td>
 <td style="text-align: center;">ahmad_shalehin_ahmad@moe.edu.sg</td>
+</tr>
+	<tr>
+<td style="text-align: center;">Ms Emelyne Quek</td>
+<td style="text-align: center;">Assistant Year Head (Middle Primary)</td>
+<td style="text-align: center;">emelyne_quek_jiang_li@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="214">Mdm Suckjit Kaur D/O Bang Singh</td>
+<td style="text-align: center;" width="214">Assistant Year Head(Upper Primary)</td>
+<td style="text-align: center;" width="267">kaur_suckjit_singh_bang@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
