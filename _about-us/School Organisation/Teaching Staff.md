@@ -69,7 +69,7 @@ variant: markdown
 <td>kwan_shiow_yan@moe.edu.sg</td>
 </tr> 
 <tr>
-<td>Mdm Vera Tan</td>
+<td>Mrs Vera Tan</td>
 <td>tan_hiang_lang_vera@moe.edu.sg</td>
 </tr>
 </tbody>
