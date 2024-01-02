@@ -16,7 +16,7 @@ variant: markdown
 <td>Member</td>
 </tr>
 <tr>
-<td>Mdm Elsie Liong</td>
+<td>Mrs Elsie Liong</td>
 <td>Member</td>
 </tr>
 <tr>
