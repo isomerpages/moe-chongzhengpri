@@ -37,7 +37,7 @@ variant: markdown
   <td></td>
 </tr>
 <tr>
-<td rowspan="2">1 Intergrity</td>
+<td rowspan="2">1 Integrity</td>
 <td>Mdm Mastura Bte Mohamed</td>
 <td>mastura_mohamed@moe.edu.sg</td>
 </tr>
@@ -106,7 +106,7 @@ variant: markdown
 <td></td>
   </tr>
   <tr>
-    <td rowspan="2">2 Intergrity</td>
+    <td rowspan="2">2 Integrity</td>
    <td>Mrs Ang Li Hoon</td>
     <td>neo_li_hoon@moe.edu.sg</td>
   </tr>
@@ -176,7 +176,7 @@ variant: markdown
   <td>mohamad_rafey@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">3 Intergrity</td>
+    <td rowspan="2">3 Integrity</td>
   <td>Mr Ling Wei Yong</td>
     <td>ling_wei_yong@moe.edu.sg</td>
   </tr>
@@ -236,7 +236,7 @@ variant: markdown
    <td>bor_bee_cheoh_eunice@moe.edu.sg</td>
   </tr>
   <tr>
-   <td rowspan="2">4 Intergrity</td>
+   <td rowspan="2">4 Integrity</td>
    <td>Ms Nur Farhana Bte Hamzah</td>
   <td>nur_farhana_hamzah@moe.edu.sg</td>
   </tr>
@@ -297,7 +297,7 @@ variant: markdown
 <td>foo_li_ying_pauline@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2">5 Intergrity</td>
+<td rowspan="2">5 Integrity</td>
 <td>Mdm Lim Winnie</td>
 <td>lim_winnie@moe.edu.sg</td>
 </tr>
@@ -357,7 +357,7 @@ variant: markdown
 <td>sim_yu_xian@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2">6 Intergrity</td>
+<td rowspan="2">6 Integrity</td>
 <td>Miss Lee Mong Lan</td>
 <td>lee_mong_lan@moe.edu.sg</td>
 </tr>
