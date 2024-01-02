@@ -344,7 +344,7 @@ variant: markdown
 <td>sharon_goh_choo_lin@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Mdm Maznah Bte Yusak<br></td>
+<td>Mdm Maznah Bte Yusak</td>
 <td>maznah_yusak@moe.edu.sg</td>
 </tr>
 <tr>
@@ -385,3 +385,18 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<center><h4>Other Teaching Staff</h4>
+<table>
+<thead>
+<tr>
+<th>Class</th>
+<th>Teachers</th>
+<th>Email</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">-<br>-<br>-<br>-<br>-<br></td>
+<td>Mdm Norhafiza Bte Jamil Piperdy<br>Mdm Tan Teck Ngee<br>Ms Audrey Ortega<br>Ms Malathy D/O Panier Selvem<br>Mr Shawn Peh Yi Ching</td>
+<td>czps@moe.edu.sg<br></td>
+</tr></tbody></table></center>
