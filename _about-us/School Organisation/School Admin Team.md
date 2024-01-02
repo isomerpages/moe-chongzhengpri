@@ -60,6 +60,9 @@ variant: markdown
 <tr><td>Mdm Chan Lai Sing</td>
 <td><strong>Operations Support Officer</strong></td>
 </tr>
+<tr><td>Mr Andy Toh Bok Siong</td>
+<td><strong>Operations Support Officer</strong></td>
+</tr>
 </tbody>
 </table>
 <table>
