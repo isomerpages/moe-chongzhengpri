@@ -232,7 +232,7 @@ variant: markdown
     <td>amutha_lechmee@moe.edu.sg</td>
   </tr>
   <tr>
-   <td>Mdm Eunice Bor</td>
+   <td>Ms Eunice Bor</td>
    <td>bor_bee_cheoh_eunice@moe.edu.sg</td>
   </tr>
   <tr>
