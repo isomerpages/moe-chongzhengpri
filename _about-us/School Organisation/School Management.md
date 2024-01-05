@@ -73,7 +73,7 @@ variant: markdown
 	<tr>
 <td style="text-align: center;" width="214">Mdm Linda Teo</td>
 <td style="text-align: center;" width="214">HOD / Mathematics</td>
-<td style="text-align: center;" width="267">teo_lian_eng_linda@moe.edu.sg</td>
+<td style="text-align: center;" width="267">linda_teo@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Mr Mahathir Mohamed Saman</td>
@@ -115,7 +115,7 @@ variant: markdown
 	<tr>
 <td style="text-align: center;">Ms Emelyne Quek</td>
 <td style="text-align: center;">Assistant Year Head (Middle Primary)</td>
-<td style="text-align: center;">emelyne_quek_jiang_li@moe.edu.sg</td>
+<td style="text-align: center;">emelyne_quek@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="214">Mdm Suckjit Kaur D/O Bang Singh</td>
