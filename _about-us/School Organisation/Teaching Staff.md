@@ -34,7 +34,7 @@ variant: markdown
 </tr>
 <tr>
   <td>Ms Li Xin Xin</td>
-  <td></td>
+  <td>li_xin_xin@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2">1 Integrity</td>
