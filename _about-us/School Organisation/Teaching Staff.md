@@ -103,7 +103,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Ms Indra D/O Balakrishnan</td>
-<td></td>
+<td>indra_balakrishnan@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">2 Integrity</td>
@@ -163,13 +163,13 @@ variant: markdown
   </tr>
   <tr>
      <td>Miss Krishna Veni Rajendran<br>Mdm Haryani Binte Mohamad Jaafar</td>
-    <td>krishna_veni_rajendran@moe.edu.sg<br></td>
+    <td>krishna_veni_rajendran@moe.edu.sg<br>haryani_mohamad_jaafar@moe.edu.sg</td>
 
   </tr>
   <tr>
     <td rowspan="2">3 Responsibility</td>
     <td>Mdm Siti Masyita Bte Mohammad Ali</td>
-    <td></td>
+    <td>siti_masyita_mohammad_ali@moe.edu.sg</td>
   </tr>
   <tr>
    <td>Mr Mohamad Rafey Bin Abdul Jalil</td>
@@ -308,7 +308,7 @@ variant: markdown
 <tr>
 <td rowspan="2">5 Steadfastness</td>
 <td>Mdm Sheela Devi D/O Tet Baahadur</td>
-<td></td>
+<td>sheela_devi_tet_baahadur@moe.edu.sg</td>
 </tr>
 <tr>
 <td>Miss Chia Chen Wei</td>
@@ -321,7 +321,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Miss Wu Ya-Ting</td>
-<td></td>
+<td>wu_ya-ting@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
