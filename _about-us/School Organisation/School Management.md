@@ -103,7 +103,7 @@ variant: markdown
 <td style="text-align: center;">sim_yu_xian@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Eunice Bor</td>
+<td style="text-align: center;">Ms Eunice Bor</td>
 <td style="text-align: center;">Subject Head / Character &amp; Citizenship Education</td>
 <td style="text-align: center;">bor_bee_cheoh_eunice@moe.edu.sg</td>
 </tr>
