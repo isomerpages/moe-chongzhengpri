@@ -187,7 +187,7 @@ variant: markdown
   <tr>
  <td rowspan="2">3 Steadfastness</td>
  <td>Ms Emerlyne Quek</td>
-  <td>emelyne_quek_jiang_li@moe.edu.sg</td>
+  <td>emelyne_quek@moe.edu.sg</td>
   </tr>
   <tr>
  <td>Mdm Siti Khairunnisa Bte Ariffin</td>
