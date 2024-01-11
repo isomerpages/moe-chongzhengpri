@@ -34,7 +34,7 @@ variant: markdown
 </tr>
 <tr>
   <td>Ms Li Xin Xin</td>
-  <td></td>
+  <td>li_xin_xin@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2">1 Integrity</td>
@@ -69,7 +69,7 @@ variant: markdown
 <td>kwan_shiow_yan@moe.edu.sg</td>
 </tr> 
 <tr>
-<td>Mdm Vera Tan</td>
+<td>Mrs Vera Tan</td>
 <td>tan_hiang_lang_vera@moe.edu.sg</td>
 </tr>
 </tbody>
@@ -103,7 +103,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Ms Indra D/O Balakrishnan</td>
-<td></td>
+<td>indra_balakrishnan@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">2 Integrity</td>
@@ -163,13 +163,13 @@ variant: markdown
   </tr>
   <tr>
      <td>Miss Krishna Veni Rajendran<br>Mdm Haryani Binte Mohamad Jaafar</td>
-    <td>krishna_veni_rajendran@moe.edu.sg<br></td>
+    <td>krishna_veni_rajendran@moe.edu.sg<br>haryani_mohamad_jaafar@moe.edu.sg</td>
 
   </tr>
   <tr>
     <td rowspan="2">3 Responsibility</td>
     <td>Mdm Siti Masyita Bte Mohammad Ali</td>
-    <td></td>
+    <td>siti_masyita_mohammad_ali@moe.edu.sg</td>
   </tr>
   <tr>
    <td>Mr Mohamad Rafey Bin Abdul Jalil</td>
@@ -187,7 +187,7 @@ variant: markdown
   <tr>
  <td rowspan="2">3 Steadfastness</td>
  <td>Ms Emerlyne Quek</td>
-  <td>emelyne_quek_jiang_li@moe.edu.sg</td>
+  <td>emelyne_quek@moe.edu.sg</td>
   </tr>
   <tr>
  <td>Mdm Siti Khairunnisa Bte Ariffin</td>
@@ -232,7 +232,7 @@ variant: markdown
     <td>amutha_lechmee@moe.edu.sg</td>
   </tr>
   <tr>
-   <td>Mdm Eunice Bor</td>
+   <td>Ms Eunice Bor</td>
    <td>bor_bee_cheoh_eunice@moe.edu.sg</td>
   </tr>
   <tr>
@@ -308,7 +308,7 @@ variant: markdown
 <tr>
 <td rowspan="2">5 Steadfastness</td>
 <td>Mdm Sheela Devi D/O Tet Baahadur</td>
-<td></td>
+<td>sheela_devi_tet_baahadur@moe.edu.sg</td>
 </tr>
 <tr>
 <td>Miss Chia Chen Wei</td>
@@ -321,7 +321,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Miss Wu Ya-Ting</td>
-<td></td>
+<td>wu_ya-ting@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -344,7 +344,7 @@ variant: markdown
 <td>sharon_goh_choo_lin@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Mdm Maznah Bte Yusak<br></td>
+<td>Mdm Maznah Bte Yusak</td>
 <td>maznah_yusak@moe.edu.sg</td>
 </tr>
 <tr>
@@ -385,3 +385,18 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<center><h4>Other Teaching Staff</h4>
+<table>
+<thead>
+<tr>
+<th>Class</th>
+<th>Teachers</th>
+<th>Email</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">-<br>-<br>-<br>-<br>-<br></td>
+<td>Mdm Norhafiza Bte Jamil Piperdy<br>Mdm Tan Teck Ngee<br>Ms Audrey Ortega<br>Ms Malathy D/O Panier Selvem<br>Mr Shawn Peh Yi Ching</td>
+<td>czps@moe.edu.sg<br>czps@moe.edu.sg<br>czps@moe.edu.sg<br>czps@moe.edu.sg<br>czps@moe.edu.sg</td>
+</tr></tbody></table></center>

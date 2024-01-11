@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Distinctive Programme
 variant: markdown
 ---
-<p><strong>LEARNING FOR LIFE PROGAMME AT CHONGZHENG PRIMARY SCHOOL:</strong></p><strong>
-</strong><p><strong>STUDENT LEADERSHIP DEVELOPMENT</strong></p>
-In Chongzheng Primary, we believe that every student has the potential to lead and be a leader. Through LEADvolution, students are provided with opportunities daily to experience leadership.<p></p>
+<p><strong>LEARNING FOR LIFE PROGAMME AT CHONGZHENG PRIMARY SCHOOL:</strong></p>
+<p><strong>STUDENT LEADERSHIP DEVELOPMENT</strong></p>
+<p>In Chongzheng Primary, we believe that every student has the potential to lead and be a leader. Through LEADvolution, students are provided with opportunities daily to experience leadership.</p>
 <p><strong>Philosophy of LEADvolution</strong></p>
 <p>LEADvolution is about discovery oneself through reflection in one’s leadership journey. As Kouzes &amp; Posner (2017) shared, “Leadership development is not an event – it’s an ongoing process.” In Chongzheng, LEADvolution allows students to:</p>
 <img src="/images/LLP_Diagram_20231228.jpeg" style="width: 120%;">

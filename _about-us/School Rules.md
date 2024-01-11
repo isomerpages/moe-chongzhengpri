@@ -2,6 +2,7 @@
 title: School Rules
 permalink: /about-us/school-rules/
 description: ""
+variant: markdown
 ---
 <p><strong>I Must</strong></p>
 <ul>
