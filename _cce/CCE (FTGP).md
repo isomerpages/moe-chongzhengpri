@@ -13,7 +13,7 @@ variant: markdown
 <li>Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
 <li>Guide students to make wise, informed and responsible decisions on sexuality matters. </li>
 <li>Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. </li></ul>
-</li><li> The Key Messages of Sexuality Education are:</li>
+	</li><li> The <strong>Key Messages</strong> of Sexuality Education are:</li>
 <ul>
 <li>Love and respect yourself as you love and respect others;</li>
 <li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
