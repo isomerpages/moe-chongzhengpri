@@ -2,10 +2,12 @@
 title: CCE (FTGP)
 permalink: /czps-experience/curriculum/character-and-citizenship-education/cce-ftgp/
 description: ""
+variant: markdown
 ---
+<h4><strong>Sexuality Education</strong></h4>
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature. SEd also aims at helping students develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues. &nbsp;</p>
 
-<h4><strong>CCE (FTGP) (FORM TEACHER GUIDANCE PERIOD)</strong></h4>
-<p>Through the FTGP sessions, the form teachers engage the class in quality teacher student relationship (TSR) and peer student relationship (PSR) interactions to help strengthen the students&rsquo; social and emotional competencies.&nbsp;</p>
-<p>CCE Content Areas that delivered through FTGP include Mental Health, Cyber Wellness, Family Education, Sexuality Education &ndash; Growing Years (P5 &amp; P6) and Educational Career Guidance (ECG), as illustrated below:</p>
-<p><a href="/czps-experience/curriculum/character-and-citizenship-education/sexuality-education" target="">Sexuality Education &ndash; Growing Years (P5 &amp; P6)</a></p>
+<p>2.	The <strong>Goals</strong> of Sexuality Education are::</p>
+
+<p><a href="/czps-experience/curriculum/character-and-citizenship-education/sexuality-education" target="">Sexuality Education – Growing Years (P5 &amp; P6)</a></p>
 <img src="/images/cce7.png">
