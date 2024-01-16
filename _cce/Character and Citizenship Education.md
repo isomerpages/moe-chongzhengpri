@@ -25,7 +25,7 @@ variant: markdown
 </colgroup><thead>
   <tr>
     <th style="border:none;border-collapse:collapse;border-spacing:0;"></th>
-    <th style="border:none;border-collapse:collapse;border-spacing:0;"><a href="/czps-experience/curriculum/character-and-citizenship-education/cce-ftgp/"><img src="/images/CCE%20(FTGP).jpeg" style="width:33%"></a></th>
+    <th style="border:none;border-collapse:collapse;border-spacing:0;"><a href="czps-experience/curriculum/character-and-citizenship-education/cce-ftgp"><img src="/images/CCE%20(FTGP).jpeg" style="width:33%"></a></th>
     <th style="border:none;border-collapse:collapse;border-spacing:0;"></th>
   </tr>
 </thead>
