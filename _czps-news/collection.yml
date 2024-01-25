@@ -1,0 +1,31 @@
+collections:
+  czps-news:
+    output: true
+    order:
+      - Achievements/CCAs.md
+      - Achievements/Students.md
+      - Achievements/.keep
+      - Announcements.md
+      - Special Events/.keep
+      - Special Events/Cyberwellness Fest.md
+      - Special Events/Mother Tongue Fortnight.md
+      - Special Events/EAS Day.md
+      - Special Events/Chinese New Year.md
+      - Special Events/Prefects E Investiture.md
+      - Special Events/CCA Leaders E Investiture.md
+      - Special Events/International Biodiversity week in CZPS.md
+      - Special Events/National Day Celebrations.md
+      - Special Events/Racial Harmony Day.md
+      - Special Events/English Week.md
+      - Special Events/PAM Fest.md
+      - Special Events/Mid Autumn Festival.md
+      - Special Events/Children's Day Celebration.md
+      - Special Events/P5 Camp.md
+      - Special Events/CCA Fiesta.md
+      - Special Events/Teachers Day.md
+      - Special Events/EPIC Day!.md
+      - CZPS In the Media.md
+      - Useful Information/Canteen Vendor.md
+      - Useful Information/Students.md
+      - Useful Information/Staff.md
+      - Useful Information/.keep

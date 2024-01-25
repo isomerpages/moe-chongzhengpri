@@ -1,0 +1,7 @@
+collections:
+  pe-art-music:
+    output: true
+    order:
+      - PE, Art and Music.md
+      - Art.md
+      - Music.md

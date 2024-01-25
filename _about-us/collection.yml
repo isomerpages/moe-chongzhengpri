@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission & Values.md
+      - School Crest.md
+      - School Organisation/School Management.md
+      - School Organisation/School Advisory Committee.md
+      - School Organisation/Teacher Leaders.md
+      - School Organisation/Teaching Staff.md
+      - School Organisation/School Admin Team.md
+      - School Organisation/.keep
+      - School Rules.md

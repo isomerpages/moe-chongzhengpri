@@ -1,0 +1,8 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Character and Citizenship Education.md
+      - CCE (FTGP).md
+      - CCE (MTL).md
+      - Programme for Active Learning (PAL).md

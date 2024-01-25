@@ -1,0 +1,8 @@
+collections:
+  mother-tongue:
+    output: true
+    order:
+      - Mother Tongue.md
+      - Chinese.md
+      - Malay.md
+      - Tamil.md
