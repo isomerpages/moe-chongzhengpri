@@ -186,7 +186,7 @@ variant: markdown
   </tr>
   <tr>
  <td rowspan="2">3 Steadfastness</td>
- <td>Ms Emerlyne Quek</td>
+ <td>Ms Emelyne Quek</td>
   <td>emelyne_quek@moe.edu.sg</td>
   </tr>
   <tr>
