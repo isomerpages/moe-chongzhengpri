@@ -3,6 +3,7 @@ title: Canteen Vendor
 permalink: /czps-news/useful-information/vendors/
 description: ""
 third_nav_title: Useful Information
+variant: markdown
 ---
 #### School Canteen Advertisement
 <table>
