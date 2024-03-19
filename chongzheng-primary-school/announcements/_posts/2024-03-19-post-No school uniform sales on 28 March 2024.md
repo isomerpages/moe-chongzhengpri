@@ -7,11 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Parent,</p>
+<p>Dear Parents/Guardians,</p>
 <p>We would like to inform you that there will be no sale of school uniforms
 on 28 March 2024 (Thursday) at the school premises. We apologize for any
 inconvenience this may cause.</p>
 <p>Thank you for your understanding.</p>
 <p>Yours sincerely,</p>
-<p><strong>Mr James Lim<br>Principal</strong>
-</p>
+<p>Miss Sherry Oh</p>
+<p>Vice-Principal (Administration)</p>
+<p></p>
+<p></p>
