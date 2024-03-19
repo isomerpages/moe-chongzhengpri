@@ -12,3 +12,6 @@ variant: tiptap
 on 28 March 2024 (Thursday) at the school premises. We apologize for any
 inconvenience this may cause.</p>
 <p>Thank you for your understanding.</p>
+<p>Yours sincerely,</p>
+<p><strong>Mr James Lim<br>Principal</strong>
+</p>
