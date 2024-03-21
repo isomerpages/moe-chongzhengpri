@@ -13,5 +13,8 @@ on 28 March 2024 (Thursday) at the school premises. We apologize for any
 inconvenience this may cause.</p>
 <p>Thank you for your understanding.</p>
 <p></p>
+<p>Your sincerely,</p>
+<p>School Admin Team</p>
+<p></p>
 <p></p>
 <p></p>
