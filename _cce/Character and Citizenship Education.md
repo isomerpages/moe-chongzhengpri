@@ -19,9 +19,9 @@ variant: markdown
 <img src="/images/cce5.png">
 
 <table width="100%">
-	<colgroup><col width="33%">
-	<col width="33%">
-	<col width="33%">
+	<colgroup><col width="50%">
+	<col width="50%">
+	<col width="50%">
 </colgroup><thead>
   <tr>
     <th style="border:none;border-collapse:collapse;border-spacing:0;"></th>

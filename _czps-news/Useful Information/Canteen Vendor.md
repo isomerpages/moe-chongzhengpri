@@ -3,6 +3,7 @@ title: Canteen Vendor
 permalink: /czps-news/useful-information/vendors/
 description: ""
 third_nav_title: Useful Information
+variant: markdown
 ---
 #### School Canteen Advertisement
 <table>
@@ -12,14 +13,14 @@ third_nav_title: Useful Information
 <th style="text-align: center;">Requirements</th>
 </tr>
 <tr>
-<td style="text-align: center;">Halal Rice Stall</td>
-<td style="text-align: center;">17 November 2023</td>
-<td style="text-align: center;">Healthy Food</td></tr>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">Application Closed</td>
+<td style="text-align: center;">-</td></tr>
 
 <tr>
-<td style="text-align: center;">Western Stall (Halal/non-Halal)</td>
-<td style="text-align: center;">17 November 2023</td>
-<td style="text-align: center;">Healthy Food</td></tr>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">Application Closed</td>
+<td style="text-align: center;">-</td></tr>
 </tbody></table>
 
 <h4><strong>Application Procedure</strong></h4>
