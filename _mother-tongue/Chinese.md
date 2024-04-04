@@ -72,7 +72,6 @@ their group discussion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_MTL_Term_1_Update_Picture14.png">
 </div>
-<p></p>
 <p>We are delighted to share the latest updates of our Reading Programme
 from Chinese Language Department! This term has been filled with a variety
 of activities aimed at enhancing students' reading journeys.</p>
