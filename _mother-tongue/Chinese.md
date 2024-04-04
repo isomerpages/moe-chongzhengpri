@@ -67,7 +67,7 @@ our pupils, we infused Thinking Protocols into our daily teaching as well
 as Formative Assessment. Brainstorming, Sticker-dot Matrix, PMI, Scamper
 &amp; Six-thinking Hats are tools chosen for our pupils to carry out during
 their group discussion.</p>
-<p><strong>Chongzheng Chinese Reading Programme – Term 1 Update   </strong>
+<p><strong>Chongzheng Chinese Reading Programme – Term 1 Update</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_MTL_Term_1_Update_Picture14.png">
