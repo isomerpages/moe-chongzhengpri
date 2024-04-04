@@ -40,9 +40,8 @@ community.</p>
 <p>The vibrant atmosphere and the rich cultural experiences made the Chinese
 New Year celebration a memorable and cherished tradition.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_CZ_CNY_Ms_Lee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_CZ_CNY_Ms_Lee_1.png">
 </div>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
