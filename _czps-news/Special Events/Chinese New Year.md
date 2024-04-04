@@ -3,9 +3,45 @@ title: Chinese New Year
 permalink: /czps-news/special-events/chinese-new-year/
 description: ""
 third_nav_title: Special Events
+variant: tiptap
 ---
-<h4><strong>Roaring Tiger Year Celebrations at Chongzheng Primary School<br /></strong><strong>虎虎生威庆虎年</strong></h4>
-<p>With the Covid restrictions still in place, our students and form teachers remained in their form classes and were engaged in the celebrations through the blended approach of Zoom and in class activities.</p>
-<p>A total of 9 activities and programmes were planned by the Chinese Language Department. Programmes included ten terrific facts about tigers and the relevance of tiger in the Chinese culture, to allow everyone to know more about the symbolic meanings to the Chinese.</p>
-<p>Students were also taught how to say the greetings, and engaged in craft work to decorate their classrooms. As part of the celebration, our judges visited all the classrooms and selected the best decorated class for each level based on the 3 criteria of the Chinese New Year theme, colour and sustainability.&nbsp;</p>
-<p>Well done to all the classes for their efforts in creating a fun and lively atmosphere to usher in the new year and congratulations to all the winning classes for the awesome decorations! We wish everyone a happy and healthy New Year of the Tiger!</p>
+<h4><strong>CZ Chinese New Year Celebration 2024</strong></h4>
+<p>Chinese New Year, also known as the Spring Festival, is a vibrant and
+culturally rich celebration that marks the beginning of the lunar new year.</p>
+<p>Days leading up to Chinese New Year, the foyer and canteen were decorated
+with booths in red. Red is the predominant color, symbolizing good luck
+and prosperity. The Chinese New Year Fair came alive with the hustle and
+bustle of students participating in the activities.</p>
+<p>Students showcased their singing talent with festive songs to usher in
+the new year. Students learnt about the auspicious meanings of these food
+through a Chinese traditional tossing game. Families often indulge in these
+festive foods to usher in good fortune and happiness. Students also enjoyed
+craft works such as mini dragon dance making, paper cutting and fortune
+cookie making which they got to gift their friends or bring back for home
+decorations.</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_CZ_CNY_Combine_Photo.png">
+</div>
+<p>On the eve of Chinese New Year, students were engaged with cultural activities
+in class before heading to the Hall to enjoy a skit named as CZ Annual
+Chinese New Year Television show curated by Miss Chia Chen Wei and Ms Joey
+Lim, who were also the hosts for the ‘television show’.</p>
+<p>Cultural performances are another highlight of the celebration. Traditional
+lion dance captivated the audience with their energetic and rhythmic movements,
+accompanied by the sounds of drums and cymbals. The performance is believed
+to bring good luck and ward off evil spirits. Martial arts demonstrations,
+traditional Chinese dance and Chinese New Year songs sing along added to
+the festive ambiance, showcasing the rich cultural heritage of the Chinese
+community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_CNY_Combine_Photo_2.png">
+</div>
+<p>The vibrant atmosphere and the rich cultural experiences made the Chinese
+New Year celebration a memorable and cherished tradition.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_CZ_CNY_Ms_Lee_1.png">
+</div>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
