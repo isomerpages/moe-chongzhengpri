@@ -33,7 +33,8 @@ to the highest standard.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Modern Dance" src="/images/SYF_2024_Modern_Dance.jpg">
 </div>
-<p></p>
+<p><sup>SYF 2024 Modern Dance</sup>
+</p>
 <p>Our dancers have honed their skills through various platforms, including
 the 2024 Singapore Youth Festival (SYF) Arts Presentation. These opportunities
 allow them to cultivate self-confidence and resilience while enhancing
