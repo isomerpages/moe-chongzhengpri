@@ -49,7 +49,7 @@ and want to create a positive impact to the environment.</p>
 <p>Visit to Sustainability@Tampines Park to learn more about reducing food
 waste by using black soldier fly larvae.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" src="/images/2023_environmental%20science%20club%20photo%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Visit_to_Sustainability_Tampines_Park.jpg">
 </div>
 </li>
 <li>
