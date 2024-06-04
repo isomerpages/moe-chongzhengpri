@@ -51,6 +51,7 @@ waste by using black soldier fly larvae.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Visit_to_Sustainability_Tampines_Park.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p>Visit to Carpark Rooftop Urban Farm in Tampines to learn about vertical
@@ -59,6 +60,7 @@ and urban farming, and how we can achieve Singapore’s 30 by 30 initiative
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Visit_to_Carpark_Rooftop_Urban_Farm.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p>STEM activity – Students learn to use recycled materials to make a paddleboat
@@ -66,18 +68,21 @@ from plastic bottles, satay sticks and rubber band.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Stem_Activity.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p>Vermicomposting Workshop conducted by Werms Inc.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Vermicomposting_Workshop.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p>Growing vegetables, pack and distribute to the teachers in the school</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Growing__packing_and_distributing_vegetables.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p>Engaging in upcycling activities – Students explore how old materials
@@ -85,6 +90,7 @@ can be transformed into something new and better than what they were before.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Engaging_in_upcycling_activities.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p>Advocating for the conservation of natural resources – Students engage
@@ -93,6 +99,7 @@ a culture of sustainability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Advocating_for_the_conservation_of_natural_resources.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p>Watch the video below to see what other activities we have done in the
