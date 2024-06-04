@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Joey Lim</p>
+<p>Ms Joey Lim (Main-in-charge)</p>
 </li>
 <li>
 <p>Mdm Azizah Shaik</p>
