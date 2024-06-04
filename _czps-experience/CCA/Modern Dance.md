@@ -33,7 +33,6 @@ to the highest standard.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Modern Dance" src="/images/SYF_2024_Modern_Dance.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2024_Modern_Dance_Title.png">
 </div>
