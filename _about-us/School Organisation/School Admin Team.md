@@ -20,6 +20,9 @@ variant: markdown
 <tr>
 <td>Miss Guay Wan Yee Chermine</td>
 <td><strong>Administrative Executive</strong></td>
+	</tr>
+	<tr><td>Mdm Charmaine Sim Yi Jing</td>
+<td><strong>Administrative Executive</strong></td>
 </tr>
 <tr>
 <td>Mdm Norwati Bte Azman</td>
@@ -28,9 +31,7 @@ variant: markdown
 <tr>
 <td>Mdm Rapinah Binte Alias</td>
 <td><strong>Corporate Support Officer</strong></td>
-</tr>
-	<tr><td>Mdm Muthmainnah Binte Dailami</td>
-<td><strong>Corporate Support Officer</strong></td>
+
 
 </tr></tbody>
 </table>
