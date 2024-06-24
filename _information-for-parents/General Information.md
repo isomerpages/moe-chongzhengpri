@@ -7,7 +7,7 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 67%;"><p><strong>School Hours</strong><br>Monday - Friday: 7.30am - 1.30pm<br>P1 Recess : 9.00am - 9.30am<br>P2 Recess : 9.30am - 10.00am<br>P3 Recess : 10.00am - 10.30am<br>P4 Recess: 10.30am - 11.00am&nbsp;<br>P5 Recess: 11.00am - 11.30am&nbsp;<br>P6 Recess: 11.30am - 12.00nn&nbsp;<br>All pupils have to report to their classroom by 7.30am.</p>
+<td style="width: 67%;"><p><strong>School Hours</strong><br>Monday - Friday: 7.30am - 1.30pm<br>P1 &amp; P2 Recess : 9.00am - 9.30am<br>P3 &amp; P4 Recess : 9.30am - 10.00am<br>P5 Recess : 10.00am - 10.30am<br>P6 Recess: 10.30am - 11.00am&nbsp;<br>All pupils have to report to their classroom by 7.30am.</p>
 <p><strong>School Backgate opening hours<br></strong>Monday - Friday: 6.45am - 7.30am, 1.30pm - 2.00pm</p>
 <p><strong>CCA Day and Time<br></strong>Tuesday (P3 - P6): 7.30am - 9am</p></td>
 <td style="width: 33%;"><img style="width: 70%;" src="/images/gi1.jpeg">
