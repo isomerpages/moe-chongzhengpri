@@ -51,6 +51,12 @@ Procedure below.</p>
 <p></p>
 <p><strong>How to get there?</strong>
 </p>
-<p>• Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
-<p>• Bus number: 900 – 3 minutes walking distance</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Tampines East (DT 33) – 13 minutes walk</p>
+</li>
+<li>
+<p>Bus number: 3, 3A, 8, 17, 18, 20, 28 (Along Tampines Ave 3)</p>
+</li>
+</ul>
 <p></p>
