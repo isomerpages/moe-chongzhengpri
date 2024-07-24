@@ -48,4 +48,7 @@ our pupils, we infused Thinking Protocols into our daily teaching as well
 as Formative Assessment. Brainstorming, Sticker-dot Matrix, PMI, Scamper
 &amp; Six-thinking Hats are tools chosen for our pupils to carry out during
 their group discussion.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PpbLpqh5ZDc?si=dhZjPSMzf0nHnGR4"></iframe>
+</div>
 <p></p>
