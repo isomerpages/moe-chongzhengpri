@@ -3,38 +3,93 @@ title: Speech and Drama
 permalink: /czps-experience/cca/speech-and-drama/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-<p><strong>Teachers-in-charge: </strong></p>
-<ol>
-<li>Mdm Zaishereen Binte Aman (Main-in-charge)</li>
-<li>Ms Noor Haida Mohd Jakaria</li>
-<li>Mdm Suckjit Kaur</li>
+<p><strong>Teachers-in-charge:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mdm Zaishereen Aman (Main-in-charge)</p>
+</li>
+<li>
+<p>Mdm Suckjit Kaur</p>
+</li>
+<li>
+<p>Ms Sheela Devi</p>
+</li>
 </ol>
-<p><strong>CCA Leaders:&nbsp;</strong></p>
-<strong>Leaders: </strong>
-<ul>
-<li>Ma Ruo Xin (5D)</li>
-<li>Afif Naufal Bin Noor Aidil (5E) </li></ul>
-
-<p><strong>Assistant Leaders:&nbsp;</strong></p>
-<ul>
-<li>Alya Alesha Binte Muhammad Sofian (4B)</li>
-<li>Amber Tan Zhi Yu (4B)</li></ul>
-
-<p><strong>Description:</strong></p>
-<p><strong>Discover the Magic of Theatre with our Speech and Drama CCA</strong></p>
-At our Speech and Drama CCA, we bring stories to life, instill values, and nurture talent through the captivating medium of drama. We're passionate about storytelling, from classic tales to Singapore's history, conveying morals and NE values. Everyone plays a vital role, both on and offstage, fostering teamwork and life skills.
-
-<p><strong>Mastering Theatre Skills</strong></p>
-Our CCA hones acting techniques, expressions, body language, oratory skills, voice projection, and stagecraft, deepening members' storytelling appreciation.
-
-<p><strong>Building Teamwork and Confidence</strong></p>
-The theatre thrives on teamwork. We emphasise collaboration, teaching trust and reliance. Students gain confidence through regular performances, sparking creativity.
-
-<p><strong>Exposure to Theatre</strong></p>
-We broaden horizons with yearly live play experiences and professional coaching through workshops. Join Speech and Drama CCA to nurture talent, instill values, and embrace the enchanting world of theatre. Spotlight or behind-the-scenes, all are welcome to this exciting theatrical journey. Unleash the power of storytelling with us!
-
-<p style="padding-left: 40px;">
-</p><p><img style="width: 80%;" src="/images/speech%20&amp;%20drama_1.jpg"></p>
-<p><img style="width: 80%;" src="/images/speech%20&amp;%20drama_2.jpg"></p>
-<p><img style="width: 80%;" src="/images/speech%20&amp;%20drama_3.jpg"></p>
+<p><strong>CCA Leaders:&nbsp;</strong>
+</p>
+<p><strong>Leaders:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Atharv Srivastava (5EM)</p>
+</li>
+<li>
+<p>Amber Tan Zhi Yu (5EM)</p>
+</li>
+</ul>
+<p><strong>Assistant Leaders:&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Esther O (4RY)</p>
+</li>
+<li>
+<p>Wu Chongyi (4ST)</p>
+</li>
+</ul>
+<p><strong>Description:</strong>
+</p>
+<p>Our Speech and Drama CCA is a recreational club dedicated to nurturing
+students' confidence and performance skills. Every student who joins our
+CCA gets the exciting opportunity to perform, ensuring that all members
+experience the thrill of being on stage.</p>
+<p>Each year, our students get to enjoy the exciting experience of attending
+a musical. Earlier this year, we had the pleasure of watching "Matilda
+the Musical" at Marina Bay Sands, a memorable outing that inspired our
+budding performers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_3.jpg">
+</div>
+<p><strong><em>Our Speech and Drama students enjoying a memorable outing to watch "Matilda the Musical" at Marina Bay Sands</em></strong>
+</p>
+<p>To further enhance their skills, our students receive guidance from a
+professional acting coach during our CCA sessions. This expert instruction
+helps them refine their techniques and develop their abilities in a supportive
+environment.</p>
+<p>This semester, we are thrilled to collaborate with East Spring Secondary.
+As part of this partnership, eight of our students were invited to perform
+in their school's musical at Victoria Theatre. This experience provided
+them with invaluable exposure to a larger audience and a professional performance
+setting.</p>
+<p>Additionally, our CCA encourages students to share their love for literature
+through book sharing on stage. These sessions offer a platform for students
+to present their favourite books, fostering a love for reading and public
+speaking.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_5.jpg">
+</div>
+<p><strong><em>Speech &amp; Drama students captivating the audience with their book sharing during the pre-morning assembly.</em></strong>
+</p>
+<p>Join our Speech and Drama CCA to embark on a journey of creativity, expression,
+and personal growth!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_6.jpg">
+</div>
+<p></p>
