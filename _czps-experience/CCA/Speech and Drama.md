@@ -62,4 +62,5 @@ budding performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_3.jpg">
 </div>
-<p></p>
+<p><em>Our Speech and Drama students enjoying a memorable outing to watch "Matilda the Musical" at Marina Bay Sands</em>
+</p>
