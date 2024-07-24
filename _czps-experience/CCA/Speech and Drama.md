@@ -9,13 +9,13 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Zaishereen Binte Aman (Main-in-charge)</p>
-</li>
-<li>
-<p>Ms Noor Haida Mohd Jakaria</p>
+<p>Mdm Zaishereen Aman (Main-in-charge)</p>
 </li>
 <li>
 <p>Mdm Suckjit Kaur</p>
+</li>
+<li>
+<p>Ms Sheela Devi</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:&nbsp;</strong>
@@ -24,55 +24,42 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ma Ruo Xin (5D)</p>
+<p>Atharv Srivastava (5EM)</p>
 </li>
 <li>
-<p>Afif Naufal Bin Noor Aidil (5E)</p>
+<p>Amber Tan Zhi Yu (5EM)</p>
 </li>
 </ul>
 <p><strong>Assistant Leaders:&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Alya Alesha Binte Muhammad Sofian (4B)</p>
+<p>Esther O (4RY)</p>
 </li>
 <li>
-<p>Amber Tan Zhi Yu (4B)</p>
+<p>Wu Chongyi (4ST)</p>
 </li>
 </ul>
 <p><strong>Description:</strong>
 </p>
-<p><strong>Discover the Magic of Theatre with our Speech and Drama CCA</strong>
-</p>
-<p>At our Speech and Drama CCA, we bring stories to life, instill values,
-and nurture talent through the captivating medium of drama. We're passionate
-about storytelling, from classic tales to Singapore's history, conveying
-morals and NE values. Everyone plays a vital role, both on and offstage,
-fostering teamwork and life skills.</p>
-<p><strong>Mastering Theatre Skills</strong>
-</p>
-<p>Our CCA hones acting techniques, expressions, body language, oratory skills,
-voice projection, and stagecraft, deepening members' storytelling appreciation.</p>
-<p><strong>Building Teamwork and Confidence</strong>
-</p>
-<p>The theatre thrives on teamwork. We emphasise collaboration, teaching
-trust and reliance. Students gain confidence through regular performances,
-sparking creativity.</p>
-<p><strong>Exposure to Theatre</strong>
-</p>
-<p>We broaden horizons with yearly live play experiences and professional
-coaching through workshops. Join Speech and Drama CCA to nurture talent,
-instill values, and embrace the enchanting world of theatre. Spotlight
-or behind-the-scenes, all are welcome to this exciting theatrical journey.
-Unleash the power of storytelling with us!</p>
+<p>Our Speech and Drama CCA is a recreational club dedicated to nurturing
+students' confidence and performance skills. Every student who joins our
+CCA gets the exciting opportunity to perform, ensuring that all members
+experience the thrill of being on stage.</p>
+<p>Each year, our students get to enjoy the exciting experience of attending
+a musical. Earlier this year, we had the pleasure of watching "Matilda
+the Musical" at Marina Bay Sands, a memorable outing that inspired our
+budding performers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/speech%20&amp;%20drama_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/speech%20&amp;%20drama_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/speech%20&amp;%20drama_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama_3.jpg">
 </div>
 <p></p>
