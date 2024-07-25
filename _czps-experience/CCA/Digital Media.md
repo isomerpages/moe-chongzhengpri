@@ -3,13 +3,14 @@ title: Digital Media
 permalink: /czps-experience/cca/digital-media/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 <p><strong>Teachers In Charge:</strong></p>
 <ol>
 <li>Mr Ahmad (Main-in-charge)</li>
-<li>Mdm Mastura</li>
+<li>Mdm Nurhiza</li>
 <li>Mr Izzat</li>
-<li>Mdm Amutha Lechmee</li>
+<li>Ms Emlyn</li>
 </ol>
 <p><strong>CCA Leaders:</strong></p>
 <ul>
