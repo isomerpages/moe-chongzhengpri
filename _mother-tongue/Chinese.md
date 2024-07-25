@@ -101,4 +101,9 @@ throughout this exciting journey!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Term_1_MTL_Combine_Photo_1.png">
 </div>
+<p><strong>Chongzheng Chinese Reading Programme – Term 2 Update</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PpbLpqh5ZDc?si=dhZjPSMzf0nHnGR4"></iframe>
+</div>
 <p></p>
