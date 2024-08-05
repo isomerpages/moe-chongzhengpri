@@ -57,5 +57,4 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_writeup_2024_R1_received_on_1_Aug_2024.jpg">
 </div>
-<p><strong>y.</strong>
-</p>
+<p></p>
