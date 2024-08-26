@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Dear Parents/Guardians,</p>
 <p>We would like to inform you that there will be no sale of school uniforms
-on Thursday, 8 August 2024, at the school premises. We apologize for any
+on Thursday, 29 August 2024, at the school premises. We apologize for any
 inconvenience this may cause.</p>
 <p>Thank you for your understanding.</p>
 <p>Yours sincerely,</p>
