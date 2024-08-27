@@ -1,7 +1,7 @@
 ---
-title: No school uniform sales on 8 August 2024
-permalink: /chongzheng-primary-school/announcements/no-school-uniform-sales-on-8-august-2024/
-date: 2024-08-05
+title: No school uniform sales on 29 August 2024
+permalink: /chongzheng-primary-school/announcements/no-school-uniform-sales-on-29-august-2024/
+date: 2024-08-26
 layout: post
 description: ""
 image: ""
@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Dear Parents/Guardians,</p>
 <p>We would like to inform you that there will be no sale of school uniforms
-on Thursday, 8 August 2024, at the school premises. We apologize for any
+on Thursday, 29 August 2024, at the school premises. We apologize for any
 inconvenience this may cause.</p>
 <p>Thank you for your understanding.</p>
 <p>Yours sincerely,</p>
