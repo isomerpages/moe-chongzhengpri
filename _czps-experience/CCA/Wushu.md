@@ -174,7 +174,6 @@ we are proud to share the good news from the following students.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_1.jpg">
 </div>
