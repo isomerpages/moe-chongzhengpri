@@ -63,11 +63,10 @@ Awards (SDMA), National Schools Photography Competition and many more.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>RoboRoarZ International 2024 Competition@SUTD</p>
-<p>(1st Placing)</p>
+<p>RoboRoarZ International 2024 Competition@SUTD (1st Placing)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="RoboRoarZ International 2024 Competition" src="/images/RoboRoarz_2024.png">
 </div>
-<p>2018 – 2 Silver award for 4th National Coding Competition 2018</p>
+<p>2018 – 2 Silver award for 4th National Coding2018</p>
