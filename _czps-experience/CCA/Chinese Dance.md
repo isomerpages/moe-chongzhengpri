@@ -57,6 +57,24 @@ dance and be cultivated into individuals who can shine in their own special
 ways.</p>
 <p><u>Participation in the Chinese Dance Camp:</u>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_4.jpg">
+</div>
+<p>Participation in concerts and SYF presentations:</p>
+<p></p>
 <p><strong>Achievements for past 3 years:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: Singapore Youth Festival (SYF)
