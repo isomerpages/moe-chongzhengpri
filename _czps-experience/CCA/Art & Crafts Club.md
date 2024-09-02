@@ -161,18 +161,13 @@ Arts Presentation 2017, 2019, 2021 and 2023. Our Cat A was selected in
 </tbody>
 </table>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/art1.gif">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/art2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2023_art%20and%20craft%20photo%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_club_website.jpg">
 </div>
 </li>
 </ol>
+<div class="iframe-wrapper">
+<iframe height="479" width="876" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IIMd4ATsSQg"></iframe>
+</div>
 <p></p>
