@@ -70,7 +70,8 @@ bonds with one another.</p>
 <p>2018 SYF: Certificate of Distinction</p>
 <p>2016 SYF: Certificate of Accomplishment</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_Photo_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_Photo_.jpg">
 </div>
 <p></p>
