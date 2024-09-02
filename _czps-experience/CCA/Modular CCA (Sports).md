@@ -45,9 +45,8 @@ kin-ball, archery, tchoukball, badminton, basketball, soccer, fencing and
 many more. Our CCA members can look forward to a different sport each year.</p>
 <p>Modular CCA (Sports) is an excellent platform for students to discover
 their interest in sports and keep fit. Through sports and games, we also
-inculcate values so that students may grow and develop good character traits.</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%;" height="auto" width="100%" src="/images/modular%20cca%20(sports)_for%20sch%20website_2023.gif">
+inculcate values so that students may grow and develop good character traits.&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="480" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IB7YnktAupM"></iframe>
 </div>
 <p></p>
