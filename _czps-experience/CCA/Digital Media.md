@@ -25,16 +25,16 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairman - Shen Enning, Tammy (5D)</p>
+<p>Chairman - Imran Bin Muhammad Firdaus (5ST)</p>
 </li>
 <li>
-<p>Chairman - Zhang Kairui (5D)</p>
+<p>Chairman - Lowe Tang Yu Lok(Deng Yule) (5ST)</p>
 </li>
 <li>
-<p>Vice Chairman - Lowe Tang Yu Lok(Deng Yule) (4E)</p>
+<p>Vice Chairman - Derrick Loo(4EM)</p>
 </li>
 <li>
-<p>Vice Chairman - Imran Bin Muhammad Firdaus (4E)</p>
+<p>Vice Chairman - Khong San Koil (4EM)</p>
 </li>
 </ul>
 <p><strong>Description:&nbsp;</strong>
