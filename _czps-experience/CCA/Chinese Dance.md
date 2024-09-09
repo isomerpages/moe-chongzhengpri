@@ -3,40 +3,97 @@ title: Chinese Dance
 permalink: /czps-experience/cca/chinese-dance/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-<p><strong>Teachers-in-Charge :&nbsp;</strong></p>
-<ol>
-	<li>Ms Eunice Bor (Main in-charge)</li>	
-<li>Mdm Leong Lai Lan</li>
-<li>Ms Aileen Kwek</li>
+<p><strong>Teachers-in-Charge:&nbsp;</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ms Eunice Bor (Main in-charge)</p>
+</li>
+<li>
+<p>Mdm Leong Lai Lan</p>
+</li>
 </ol>
-<p><strong>CCA Leaders :</strong></p>
-<ul>
-<li>Leader - Tan Pei En Geraldine (5A) and Puan Jie En Felicia (5D)</li>
-<li>Assistant Leader - Liao Siyu Sophia (4B) and Skylar Ma Shu Shu (4C)</li>
-</ul>
-<p><strong>Mission:</strong></p>
-<ul>
-<p>Through the learning of Chinese Dance, we hope to develop our students into;
-
-</p></ul>
-<ul>
-<ul>
-	<li><strong>passionate learners</strong> who understand and appreciate the Chinese culture better;</li>
-	<li><strong>responsible team player</strong> who are committed to the team and are good support to the team;</li>
-<li><strong>respectful leaders</strong> who are polite to everyone and show consideration for others; </li>
-<li><strong>confident individuals</strong> who are able to showcase their best during public performances;</li>
-<li><strong>steadfast achievers</strong> who persevere and not give up easily when faced with challenges</li>
-<li><strong>empathetic persons</strong> who understand and care for others
+<p><strong>CCA Leaders:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leaders - Liao Siyu Sophia (5 Steadfastness), Skylar Ma Shu Shu (5 Empathy)</p>
+</li>
+<li>
+<p>Assistant Leaders - Eilles Chan Yee Jing (4 Integrity), Claire Goh Yue
+Lei (4 Steadfastness)</p>
 </li>
 </ul>
+<p>The Chinese Dance group aims to develop our students into:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>passionate learners</strong> who understand and appreciate the
+Chinese dance better;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p><strong>responsible team players</strong> who are committed to the team
+and are good support to the team;</p>
+</li>
+<li>
+<p><strong>respectful leaders</strong> who are polite and considerate;</p>
+</li>
+<li>
+<p><strong>confident individuals</strong> who are able to showcase their best
+during performances;</p>
+</li>
+<li>
+<p><strong>steadfast achievers</strong> who persevere and not give up easily
+when faced with challenges</p>
+</li>
+<li>
+<p><strong>empathetic persons</strong> who understand and care for others</p>
+</li>
 </ul>
-<p><strong>Achievements for the past 3 years:</strong></p>
-<ul>
-<li>2022: SYF Presentation</li>
-<li>2021 – 2020: No public performances due to Covid safety measures</li>
-<li>2019: National Day Celebrations of Tampines East CC </li>
-</ul>
-<img src="/images/2023_chinese%20dance%20photo%201.JPG">
-<img src="/images/2023_chinese%20dance%20photo%202.JPG">
-<img src="/images/2023_chinese%20dance%20photo%203.JPG">
+<p>Besides the usual dance practices during CCA periods, we provide different
+learning opportunities for our students to hone their skills in the Chinese
+dance and be cultivated into individuals who can shine in their own special
+ways.</p>
+<p><u>Participation in the Chinese Dance Camp:</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_4.jpg">
+</div>
+<p>Participation in concerts and SYF presentations:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_8.jpg">
+</div>
+<p><strong>Achievements for past 3 years:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024: Singapore Youth Festival (SYF)
+Arts Presentation – Certificate of Accomplishment</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022: Singapore Youth Festival (SYF)
+Arts Presentation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019: National Day Celebrations
+of Tampines East CC</p>
+<p></p>
