@@ -69,4 +69,7 @@ Awards (SDMA), National Schools Photography Competition and many more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="RoboRoarZ International 2024 Competition" src="/images/RoboRoarz_2024.png">
 </div>
-<p>2018 – 2 Silver award for 4th National Coding2018</p>
+<p></p>
+<p>2023</p>
+<p>North Zone Hackathon @Montfort Primary School ( Won 3 out of 5 categories)</p>
+<p></p>
