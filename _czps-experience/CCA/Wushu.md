@@ -175,28 +175,8 @@ we are proud to share the good news from the following students.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_screenshot_3.png">
 </div>
-<p><strong>Lim Jing Xin Asher</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_2.jpg">
-</div>
-<p><strong>Vong Yan Rui Zander</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_3.jpg">
-</div>
-<p><strong>Teo Shiqin Caeleen</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu_4.jpg">
-</div>
-<p><strong>Sim Kylie</strong>
-</p>
 <p><strong><u>External Competitions 2024</u></strong>
 </p>
 <div class="isomer-image-wrapper">
