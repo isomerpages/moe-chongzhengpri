@@ -47,7 +47,4 @@ proficiency badges. &nbsp;&nbsp;</p>
 <p><strong>Recent Achievements:</strong>
 </p>
 <p>2022- Frank Cooper Sands Award (Silver)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.gif">
-</div>
 <p></p>
