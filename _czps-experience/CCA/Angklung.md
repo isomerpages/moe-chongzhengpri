@@ -46,4 +46,19 @@ for our members.</p>
 as a Co-Curricular Activity (CCA) from 2025 onwards. We extend our heartfelt
 gratitude to Ms Faridah for her unwavering dedication and to our parents
 for their continuous support over the years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_08_31_12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_08_31_13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_08_31_14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_10_at_11_13_06.jpg">
+</div>
 <p></p>
