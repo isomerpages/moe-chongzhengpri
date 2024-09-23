@@ -74,19 +74,7 @@ ways.</p>
 </div>
 <p>Participation in concerts and SYF presentations:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD_screenshot_1.png">
 </div>
 <p><strong>Achievements for past 3 years:</strong>
 </p>
