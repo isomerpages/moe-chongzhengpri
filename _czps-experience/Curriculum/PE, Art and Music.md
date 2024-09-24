@@ -84,9 +84,8 @@ and responsibly.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_4_2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_5_2.png">
 </div>
