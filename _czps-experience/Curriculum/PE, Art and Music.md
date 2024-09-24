@@ -76,21 +76,26 @@ and responsibly.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pe1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pe2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_3_2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pe3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pe4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_5_2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pe5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_6.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pe6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_7_2.png">
 </div>
 <p></p>
