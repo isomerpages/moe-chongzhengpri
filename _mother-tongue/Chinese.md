@@ -106,4 +106,9 @@ throughout this exciting journey!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PpbLpqh5ZDc?si=dhZjPSMzf0nHnGR4"></iframe>
 </div>
+<p><strong>Chongzheng Chinese Reading Programme - Term 3 Update</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yqKiAxL9NqQ"></iframe>
+</div>
 <p></p>
