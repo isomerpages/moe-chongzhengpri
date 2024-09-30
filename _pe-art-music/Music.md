@@ -2,23 +2,56 @@
 title: Music
 permalink: /czps-experience/curriculum/pe-art-and-music/music/
 description: ""
+variant: tiptap
 ---
 <h4><strong>MUSIC DEPARTMENT</strong></h4>
-<p><strong>Music Teachers:&nbsp;</strong></p>
-<p>Ms Rachel Tan Lay Ming&nbsp;(Music Coordinator)<br />Mr Chu Hin Wa<br />Mrs Candice Tu</p>
-<p>The aim of Music Education is to provide every child a basic music education, giving them opportunities to develop a connection to music. This contributes to the future development and preservation of Singapore&rsquo;s cultural heritage. Music, being an integral part of many cultures, also provides a means to raise global awareness amongst students. The processes involved in music performing and creating develop skills such as listening skills, fine motor skills, creative thinking skills and social skills.</p>
-<h4><strong>Music department events/programme:</strong></h4>
-<ul>
-<li>P1 Roller Keyboard programme</li>
-<li>P3 and P4 recorder playing</li>
-<li>P5 and P6 Ukulele programme</li>
-<li>PAMFest!</li>
-<li>Recess Concerts</li>
-<li>P1 and P2 Dance Mania competition</li>
-<li>P3 Tambourine Dance Mania competition</li>
-<li>CZ Superstar singing competition</li>
-<li>Assemble programmes</li>
-<li>Mass performances during commemorative days e.g. Chinese New Year celebration, National Day celebration,Racial Harmony Day celebration, Total Defence Day celebration, International Friendship Day celebration</li>
-<li>Honours Day Concert</li>
-</ul>
-<img src="/images/music.png">
+<p><strong>Music Teachers:&nbsp;</strong>
+</p>
+<p>Mrs Rachel Lam (Music Coordinator)&nbsp;</p>
+<p>Ms Emlyn Ee Wen Wei&nbsp;</p>
+<p>Mr Eugene Lee Bang Hui</p>
+<p>The Singapore Primary Music syllabus is developed on the premise that
+every child possesses innate musical qualities that could be harnessed
+and developed. In CZPS, our music curriculum aims to provide students with
+opportunities to learn and experience music in engaging and meaningful
+ways. Students will be able to listen, sing, play, create and express themselves
+musically through a range of genres and styles to put them in touch with
+their heritage and deepen their understanding of the cultural diversity
+of music locally and globally.</p>
+<p><strong>Music Department Programmes/Events</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 &amp; P2 Orff Instruments</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 &amp; P4 Keyboard</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P5 Ukulele and Cajon&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P6 Pop Band Ensemble</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PAMFest!: CZ Talent
+Share Open Mic Performances @Recess</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Music Assembly Programmes</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teacher’s Day Performances</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SYF Youth Station Songwriting
+Project&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_6.png">
+</div>
+<p></p>

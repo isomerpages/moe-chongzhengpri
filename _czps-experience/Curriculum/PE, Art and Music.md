@@ -3,31 +3,99 @@ title: PE, Art and Music
 permalink: /czps-experience/curriculum/pe-art-and-music/
 description: ""
 third_nav_title: Curriculum
+variant: tiptap
 ---
 <h4><strong>PE, ART &amp; MUSIC (PAM) DEPARTMENT</strong></h4>
-<p><strong>MR MAHATHIR B MOHAMED SAMAN - HOD PE, CCA &amp; AESTHETICS</strong></p>
+<p><strong>MR MAHATHIR B MOHAMED SAMAN - HOD PE, CCA &amp; AESTHETICS</strong>
+</p>
 <h4><strong>PHYSICAL EDUCATION</strong></h4>
-<p><strong>PE Teachers:<br /></strong>Mr Peter Seah<br />Mrs Sharon Tan (Physical Health &amp; Fitness Coordinator)<br />Mr Mohamad Rafey<br />Mr Teo Beng Hwee<br />Mr Ling Wei Yong</p>
-<p>The purpose of Physical Education is to enable students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living.</p>
-<p>The Chongzheng PE Department aims to develop healthy and active individuals through creating platforms for mass participation in physical activities and sports, promoting health awareness programme and providing opportunities to excel in sports through talent management.&nbsp;</p>
-<p><em>PE department events/programme</em></p>
-<ul>
-<li>Sports Day (Lower and Upper Primary)</li>
-<li>PAMFest!</li>
-<li>P5 Camp</li>
-<li>Recess Active Play (R.A.P)</li>
-<li>SwimSafer for P3</li>
-<li>CCA Fiesta!</li>
-<li>Post-exams Inter-class Games</li>
-<li>Active Workout on National Day and Children&rsquo;s Day Celebration</li>
-<li>Fruity Veggie Bites</li>
-<li>Active Monday (A.M) Workout</li>
-<li>Assembly Talks/ Roving Exhibitions</li>
-<li>Active Healthy Me (AHM) programme</li>
+<p><strong>Vision:</strong> Every Chongzheng student a physically educated
+individual who leads an active and healthy living lifestyle.</p>
+<p><strong>Mission: </strong>Every student to be equipped with the knowledge
+and skills in PE to enjoy an active and healthy living lifestyle, anchored
+on the core values.</p>
+<p><strong>PE Teachers:<br></strong>Mr Mahathir B Mohamed Saman (HOD PE,
+CCA &amp; Aesthetics)</p>
+<p>Mr Peter Seah</p>
+<p>Mrs Sharon Tan</p>
+<p>Mr Rafey</p>
+<p>Mr Teo Beng Hwee</p>
+<p>Mr Ling Wei Yong</p>
+<p>Mr Ryan Pek</p>
+<p><strong><u>PE Curriculum Framework</u></strong>
+</p>
+<p>The purpose of Physical Education is to develop physically competent and
+confident individuals who enjoy a lifetime of active and healthy living
+safely and responsibly.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_1.png">
+</div>
+<p>The PE syllabus seeks to achieve the goals of physical education based
+on the MOE PE framework above. Students learn fundamental movement skills
+incorporating the movement concepts. They develop efficiency, effectiveness
+and versatility in their performance as they practise and transfer their
+skills across the three learning areas of Physical Activity, Outdoor Education
+and Physical Health and Safety.</p>
+<p>Through a balanced and well-designed curriculum, delivered through appropriate
+and effective pedagogies and meaningful assessment, students will acquire
+the knowledge, skills and values (including the 21<sup>st</sup> Century
+Competencies) to enjoy a lifetime of active and healthy living, safely
+and responsibly.</p>
+<p><strong><u>PE department events/programme</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PAMFest!</p>
+</li>
+<li>
+<p>Total Wellness Week</p>
+</li>
+<li>
+<p>P5 Camp</p>
+</li>
+<li>
+<p>Recess Active Play (R.A.P)</p>
+</li>
+<li>
+<p>SwimSafer 2.0 programme for P4</p>
+</li>
+<li>
+<p>CCA Fiesta!</p>
+</li>
+<li>
+<p>Post-exams Inter-class Games</p>
+</li>
+<li>
+<p>GetActiveSG! Dance of the Nation workout</p>
+</li>
+<li>
+<p>Assembly Talks/ Roving Exhibitions</p>
+</li>
+<li>
+<p>Active Kids Programme</p>
+</li>
 </ul>
-<img src="/images/pe1.jpg">
-<img src="/images/pe2.jpg">
-<img src="/images/pe3.jpg">
-<img src="/images/pe4.jpg">
-<img src="/images/pe5.jpg">
-<img src="/images/pe6.jpg">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_3_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_4_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_5_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_7_2.png">
+</div>
+<p></p>
