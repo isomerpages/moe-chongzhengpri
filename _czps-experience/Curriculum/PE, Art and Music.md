@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Curriculum
 variant: tiptap
 ---
-<h4><strong>PE, ART &amp; MUSIC (PAM) DEPARTMENT</strong></h4>
-<p><strong>MR MAHATHIR B MOHAMED SAMAN - HOD PE, CCA &amp; AESTHETICS</strong>
-</p>
 <h4><strong>PHYSICAL EDUCATION</strong></h4>
 <p><strong>Vision:</strong> Every Chongzheng student a physically educated
 individual who leads an active and healthy living lifestyle.</p>
