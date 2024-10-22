@@ -6,4 +6,5 @@ third_nav_title: Useful Information
 variant: tiptap
 ---
 <h4><strong>Materials from the P1 Orientation</strong></h4>
-<p>Materials will be update after the P1 Orientation held on 29 October 2024.</p>
+<p>This page will be updated after the P1 Orientation held on 29 October
+2024.</p>
