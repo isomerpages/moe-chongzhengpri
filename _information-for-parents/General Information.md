@@ -48,7 +48,7 @@ link or QR code below by&nbsp;<strong>31 October 2024</strong>.</p>
 scan the following QR code to access the form.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big_Heart_Registration_QR_Code.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Big_Heart_Registration_QR_Code.png">
 </div>
 <p></p>
 <p>Kindly note that both the School and the Student Care will assess the
