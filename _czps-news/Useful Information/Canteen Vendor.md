@@ -26,24 +26,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Malay Rice (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application Closed</p>
+<p>15 November 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Application Closed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mixed rice</p>
 </td>
 </tr>
 </tbody>
