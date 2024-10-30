@@ -32,28 +32,6 @@ variant: tiptap
 <p><strong>CCA Day and Time<br></strong>Tuesday (P3 - P6): 7.30am - 9am</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Big_Heart_Student_Care_logo.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Big_Heart_Student_Care_Intro.png">
-</div>
-<p></p>
-<p>Student Care Registration 2025</p>
-<p><strong>TO REGISTER YOUR INTEREST</strong>
-<br>Interested applicants may submit your interest online via the URL online
-link or QR code below by&nbsp;<strong>31 October 2024</strong>.</p>
-<p>&nbsp;<a href="https://bigheartstudentcare.com/interest/" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;or
-scan the following QR code to access the form.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Big_Heart_Registration_QR_Code.png">
-</div>
-<p></p>
-<p>Kindly note that both the School and the Student Care will assess the
-eligibility of the application and only short-listed applicants will be
-contacted for the official registration.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
