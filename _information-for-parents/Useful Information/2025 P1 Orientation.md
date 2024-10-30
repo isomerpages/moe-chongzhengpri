@@ -12,5 +12,3 @@ variant: tiptap
 </p>
 <p><a href="https://go.gov.sg/p1-orientation-admin-briefing-slide" rel="noopener nofollow" target="_blank">2025 P1 Orientation Administrative Matters Briefing</a>
 </p>
-<p>This page will be updated after the P1 Orientation held on 29 October
-2024.</p>
