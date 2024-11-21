@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>Materials from the P1 Orientation</strong></h4>
 <p><a href="https://go.gov.sg/p1-orientation-admin-briefing-slide" rel="noopener nofollow" target="_blank">2025 P1 Orientation Administrative Matters Briefing</a>
 </p>
-<p><a href="https://padlet.com/missyf82/p1-frequently-asked-questions-g5aq2aj965qhgbwv)" rel="noopener nofollow" target="_blank">FAQ During P1 Orientation</a>
+<p><a href="https://go.gov.sg/faq-during-p1-orientation" rel="noopener nofollow" target="_blank">FAQ During P1 Orientation</a>
 </p>
 <p><a href="https://go.gov.sg/2025-admin-booklet" rel="noopener nofollow" target="_blank">2025 Admin Booklet</a>
 </p>
