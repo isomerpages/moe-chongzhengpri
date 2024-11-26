@@ -103,6 +103,8 @@ PROGRAMME.</p>
 </div>
 <hr>
 <h4><strong>USEFUL INFORMATION</strong></h4>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sgtranslatetogether.gov.sg/translate</a> (SG
+Translate)</p>
 <p><a href="https://wk.w3tamil.com/" rel="noopener" target="_blank">https://wk.w3tamil.com/</a>&nbsp;(Touch
 Typing - Tamil)
 <br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener" target="_blank">https://vle.learning.moe.edu.sg/login</a>&nbsp;(SLS
