@@ -152,5 +152,5 @@ through action research</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>USEFUL INFORMATION</strong></h4>
-<p>http://tinta.edumall.sg/mekar/slot/u112/index.html</p>
+<h4></h4>
+<p></p>
