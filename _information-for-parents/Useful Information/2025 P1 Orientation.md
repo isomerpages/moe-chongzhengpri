@@ -6,7 +6,9 @@ third_nav_title: Useful Information
 variant: tiptap
 ---
 <h4><strong>Materials from the P1 Orientation</strong></h4>
-<p><a href="https://go.gov.sg/guide-for-p1-parents" rel="noopener nofollow" target="_blank">Guide for P1 Parents 2025</a>
+<p><a href="https://go.gov.sg/guide-for-p1-parents-2025" rel="noopener nofollow" target="_blank">Guide for P1 Parents 2025</a>
+</p>
+<p><a href="https://go.gov.sg/year-head-sharing" rel="noopener nofollow" target="_blank">Year Head Sharing</a>
 </p>
 <p><a href="https://go.gov.sg/p1-orientation-admin-briefing-slide" rel="noopener nofollow" target="_blank">2025 P1 Orientation Administrative Matters Briefing</a>
 </p>
