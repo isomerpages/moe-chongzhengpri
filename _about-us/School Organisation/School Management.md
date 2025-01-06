@@ -151,17 +151,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Gerardo Seow</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,6 +213,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ahmad_shalehin_ahmad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Emelyne Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Middle Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>emelyne_quek_jiang_li@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
