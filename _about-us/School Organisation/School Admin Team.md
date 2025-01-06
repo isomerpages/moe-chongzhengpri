@@ -3,93 +3,214 @@ title: School Admin Team
 permalink: /about-us/school-organisation/school-admin-team/
 description: ""
 third_nav_title: School Organisation
-variant: markdown
+variant: tiptap
 ---
-<table>
-<tbody>
-<tr><th>ADMIN STAFF</th>
-
-</tr><tr>
-<td>Ms Cheryl Toh</td>
-<td><strong>Administration Manager</strong></td>
-
-</tr><tr>
-<td>Ms Jenny Tan Chen Nee</td>
-<td><strong>Administration Manager (ICT)</strong></td>
-</tr>
-<tr>
-<td>Miss Guay Wan Yee Chermine</td>
-<td><strong>Administrative Executive</strong></td>
-	</tr>
-	<tr><td>Mdm Charmaine Sim Yi Jing</td>
-<td><strong>Administrative Executive</strong></td>
-</tr>
-<tr>
-<td>Mdm Norwati Bte Azman</td>
-<td><strong>Corporate Support Officer</strong></td>
-</tr>
-<tr>
-<td>Mdm Rapinah Binte Alias</td>
-<td><strong>Corporate Support Officer</strong></td>
-
-
-</tr></tbody>
-</table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th>OPERATIONS STAFF</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>ADMIN STAFF</p>
+</th>
 </tr>
 <tr>
-
+<td rowspan="1" colspan="1">
+<p>Ms Cheryl Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td>Mr Mohammed Farhan Bin Ramli</td>
-<td><strong>Operations Manager</strong></td>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Tan Chen Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager (ICT)</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td>Mr Chiang Peng Sai</td>
-<td><strong>Operations Support Officer</strong></td>
+<td rowspan="1" colspan="1">
+<p>Miss Guay Wan Yee Chermine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Executive</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Saidah Bte Mohd Salleh</td>
-<td><strong>Operations Support Officer</strong></td>
+<td rowspan="1" colspan="1">
+<p>Mdm Charmaine Sim Yi Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Executive</strong>
+</p>
+</td>
 </tr>
-	<tr><td>Mdm Taksiah Binte Ahmad</td>
-<td><strong>Operations Support Officer</strong></td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norwati Bte Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+</p>
+</td>
 </tr>
-<tr><td>Mdm Chan Lai Sing</td>
-<td><strong>Operations Support Officer</strong></td>
-</tr>
-<tr><td>Mr Andy Toh Bok Siong</td>
-<td><strong>Operations Support Officer</strong></td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rapinah Binte Alias</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th>OTHER SUPPORTING STAFF</th>
+<th rowspan="1" colspan="1">
+<p>OPERATIONS STAFF</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
-
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td>Mr Seng Kok Heng</td>
-<td><strong>Desktop Engineer</strong></td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Farhan Bin Ramli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td>Miss Nurul Amiera Azura Binte Eadi </td>
-<td><strong>Desktop Engineer</strong></td>
+<td rowspan="1" colspan="1">
+<p>Mr Chiang Peng Sai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
 </tr>
 <tr>
-
-<td>Ms Khairani Bte Sulaiman</td>
-<td><strong>Librarian</strong></td>
+<td rowspan="1" colspan="1">
+<p>Mdm Saidah Bte Mohd Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Tan Jeok Ngan</td>
-<td><strong>Dental Therapist</strong></td>
+<td rowspan="1" colspan="1">
+<p>Mdm Taksiah Binte Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Lai Sing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Toh Bok Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>OTHER SUPPORTING STAFF</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Seng Kok Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Nurul Amiera Azura Binte Eadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khairani Bte Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Librarian</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Jeok Ngan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dental Therapist</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
