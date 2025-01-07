@@ -9,7 +9,7 @@ our official presence online and is updated regularly to inform and share
 essential information on our school. We aim to create the <strong>Best Day Ever</strong> experience
 for all the students that pass through our gate and we thank parents for
 entrusting their children with us.</p>
-<p>This year is particularly special for our school, as we turn 40 years
+<p>This year is particularly special for our school, as we turn <strong>40</strong> years
 old! The school has been blessed to be serving the Tampines community the
 past 40 years, producing cohorts of contributors to society. With the enthusiasm
 of our students, the dedication of our staff, as well as support from the
