@@ -580,7 +580,7 @@ variant: tiptap
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Lew Cheng</p>
+<p>Mrs Sharon Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>quek_lew_cheng@moe.edu.sg</p>
@@ -588,7 +588,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Noor Haida Bte Mohd Jakaria</p>
+<p>Mdm Azizah Bte Shaik Abdul Kadir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>noor_haida_mohd_jakaria@moe.edu.sg</p>
@@ -599,7 +599,7 @@ variant: tiptap
 <p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamaliah Abdul Jalil</p>
+<p>Ms Zaishereen Binte Aman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kamaliah_abdul_jalil@moe.edu.sg</p>
@@ -607,7 +607,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Li Ying, Pauline</p>
+<p>Miss Sim Yu Xian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>foo_li_ying_pauline@moe.edu.sg</p>
@@ -618,7 +618,7 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Winnie</p>
+<p>Miss Lee Mong Lan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_winnie@moe.edu.sg</p>
@@ -626,7 +626,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norisah Bte Md Ismail</p>
+<p>Mr Ong Wei Lee Gavin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norisah_md_ismail@moe.edu.sg</p>
@@ -637,7 +637,7 @@ variant: tiptap
 <p>5 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sheela Devi D/O Tet Baahadur</p>
+<p>Miss Surya Parvathi Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sheela_devi_tet_baahadur@moe.edu.sg</p>
@@ -645,7 +645,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Chia Chen Wei</p>
+<p>Ms Gong Xianli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chia_chen_wei@moe.edu.sg</p>
@@ -656,7 +656,7 @@ variant: tiptap
 <p>5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suckjit Kaur</p>
+<p>Mrs Emi Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kaur_suckjit_singh_bang@moe.edu.sg</p>
@@ -664,7 +664,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Wu Ya-Ting</p>
+<p>Mdm Jasmina Parvin Bte Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wu_ya-ting@moe.edu.sg</p>
@@ -673,7 +673,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 6</h4>
-<h5>Year Head: Mr Peter Seah<br>Assistant Year Head: Mdm Suckjit Kaur D/O Bang Singh</h5>
+<h5>Year Head: Mr Peter Seah</h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -697,7 +697,7 @@ variant: tiptap
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Tan</p>
+<p>Mdm Quek Lew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sharon_goh_choo_lin@moe.edu.sg</p>
@@ -705,7 +705,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maznah Bte Yusak</p>
+<p>Miss Noor Haida Bte Mohd Jakaria</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>maznah_yusak@moe.edu.sg</p>
@@ -716,7 +716,7 @@ variant: tiptap
 <p>6 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Emi Tan Huilin</p>
+<p>Mdm Kamaliah Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>emi_ng_huilin@moe.edu.sg</p>
@@ -724,7 +724,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sim Yu Xian</p>
+<p>Mdm Foo Li Ying, Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_yu_xian@moe.edu.sg</p>
@@ -735,7 +735,7 @@ variant: tiptap
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Mong Lan</p>
+<p>Mdm Lim Winnie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_mong_lan@moe.edu.sg</p>
@@ -743,7 +743,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Azizah Bte Shaik Abdul Kadir</p>
+<p>Ms Norisah Bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>azizah_shaik_abdul_kadir@moe.edu.sg</p>
@@ -754,7 +754,7 @@ variant: tiptap
 <p>6 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zaishereen Bte Aman</p>
+<p>Mdm Sheela Devi D/O Tet Baahadur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zaishereen_aman@moe.edu.sg</p>
@@ -762,7 +762,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Beng Hwee</p>
+<p>Ms Chia Chen Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_beng_hwee@moe.edu.sg</p>
@@ -773,7 +773,7 @@ variant: tiptap
 <p>6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gavin Ong</p>
+<p>Mdm Suckjit Kaur D/O Bang Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_wei_lee@moe.edu.sg</p>
@@ -781,7 +781,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rekha Rajendran</p>
+<p>Mdm Nurhiza Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rekha_rajendran@moe.edu.sg</p>
