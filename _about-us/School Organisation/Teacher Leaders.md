@@ -31,7 +31,7 @@ variant: tiptap
 <p>Senior Teacher / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sim_hui_ting_julia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Senior Teacher / Math &amp; LSM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>neo_li_hoon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Senior Teacher / ART &amp; TSN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>norisah_md_ismail@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
