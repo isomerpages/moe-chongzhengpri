@@ -332,7 +332,7 @@ variant: tiptap
 <p>Mr Ahmad Shalehin Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>haryani_mohamad_jaafar@moe.edu.sg</p>
+<p>ahmad_shalehin_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ variant: tiptap
 <p>Mdm Maznah Binte Yusak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_masyita_mohammad_ali@moe.edu.sg</p>
+<p>maznah_yusak@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ variant: tiptap
 <p>Miss Kwek Meei Huey, Aileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_rafey@moe.edu.sg</p>
+<p>kwek_meei_huey_aileen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +362,7 @@ variant: tiptap
 <p>Miss Goh Chao Ngin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ling_wei_yong@moe.edu.sg</p>
+<p>goh_chao_ngin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +370,7 @@ variant: tiptap
 <p>Mr Mohamed Izzat Bin Mohamed Sarip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kwek_meei_huey_aileen@moe.edu.sg</p>
+<p>mohamed_izzat_mohamed_sarip@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -381,7 +381,7 @@ variant: tiptap
 <p>Mr Ng Fu Tian, Benny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>emelyne_quek_jiang_li@moe.edu.sg</p>
+<p>NG_Fu_Tian_Benny@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -389,7 +389,7 @@ variant: tiptap
 <p>Ms Heng Tian Ying Jacelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_khairunnisa_ariffin@moe.edu.sg</p>
+<p>heng_tian_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -400,7 +400,7 @@ variant: tiptap
 <p>Mdm Leong Lai Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_yi_ling_elaine@moe.edu.sg</p>
+<p>leong_lai_lan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -408,7 +408,7 @@ variant: tiptap
 <p>Mdm Rekha Rajendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>razana_abdul_rahman@moe.edu.sg</p>
+<p>rekha_rajendran@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -449,7 +449,7 @@ variant: tiptap
 <p>Mdm Haryani Binte Mohamad Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ahmad_shalehin_ahmad@moe.edu.sg</p>
+<p>haryani_mohamad_jaafar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -460,8 +460,7 @@ variant: tiptap
 <p>Mdm Siti Masyita Bte Mohammad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>hajar_bibi_abdul_rashid@moe.edu.sg</p>
+<p>siti_masyita_mohammad_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -469,7 +468,7 @@ variant: tiptap
 <p>Mr Mohamad Rafey B Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bor_bee_cheoh_eunice@moe.edu.sg</p>
+<p>mohamad_rafey@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
