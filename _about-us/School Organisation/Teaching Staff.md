@@ -479,7 +479,7 @@ variant: tiptap
 <p>Mr Ling Wei Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_farhana_hamzah@moe.edu.sg</p>
+<p>ling_wei_yong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ variant: tiptap
 <p>Ms Li Xin Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gong_xianli@moe.edu.sg</p>
+<p>li_xin_xin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -495,7 +495,7 @@ variant: tiptap
 <p>Mdm Hajar Bibi Bte Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hajar_bibi_abdul_rashid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -506,7 +506,7 @@ variant: tiptap
 <p>Ms Emelyne Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_siew_lee_sharleen@moe.edu.sg</p>
+<p>emelyne_quek_jiang_li@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -514,7 +514,7 @@ variant: tiptap
 <p>Mdm Siti Khairunnisa Bte Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamed_izzat_mohamed_sarip@moe.edu.sg</p>
+<p>siti_khairunnisa_ariffin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -533,7 +533,7 @@ variant: tiptap
 <p>Mrs Sharleen Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_fu_tian_benny@moe.edu.sg</p>
+<p>chong_siew_lee_sharleen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -541,7 +541,7 @@ variant: tiptap
 <p>Ms Wu Ya-Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leong_lai_lan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
