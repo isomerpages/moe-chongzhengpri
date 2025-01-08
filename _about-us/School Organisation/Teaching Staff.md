@@ -810,17 +810,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>-
-<br>-
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Malathy D/O Panier Selvem
-<br>Mr Shawn Peh Yi Ching</p>
+<p>Ms Malathy D/O Panier Selvem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>czps@moe.edu.sg
-<br>czps@moe.edu.sg</p>
+<p>czps@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
