@@ -699,7 +699,7 @@ variant: tiptap
 <p>Mdm Quek Lew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharon_goh_choo_lin@moe.edu.sg</p>
+<p>quek_lew_cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -707,7 +707,7 @@ variant: tiptap
 <p>Miss Noor Haida Bte Mohd Jakaria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>maznah_yusak@moe.edu.sg</p>
+<p>noor_haida_mohd_jakaria@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -718,7 +718,7 @@ variant: tiptap
 <p>Mdm Kamaliah Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>emi_ng_huilin@moe.edu.sg</p>
+<p>kamaliah_abdul_jalil@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -726,7 +726,7 @@ variant: tiptap
 <p>Mdm Foo Li Ying, Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_yu_xian@moe.edu.sg</p>
+<p>foo_li_ying_pauline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -737,7 +737,7 @@ variant: tiptap
 <p>Mdm Lim Winnie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_mong_lan@moe.edu.sg</p>
+<p>lim_winnie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -745,7 +745,7 @@ variant: tiptap
 <p>Ms Norisah Bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azizah_shaik_abdul_kadir@moe.edu.sg</p>
+<p>norisah_md_ismail@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -756,7 +756,7 @@ variant: tiptap
 <p>Mdm Sheela Devi D/O Tet Baahadur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zaishereen_aman@moe.edu.sg</p>
+<p>sheela_devi_tet_baahadur@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -764,7 +764,7 @@ variant: tiptap
 <p>Ms Chia Chen Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_beng_hwee@moe.edu.sg</p>
+<p>chia_chen_wei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -775,7 +775,7 @@ variant: tiptap
 <p>Mdm Suckjit Kaur D/O Bang Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_wei_lee@moe.edu.sg</p>
+<p>kaur_suckjit_singh_bang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -783,7 +783,7 @@ variant: tiptap
 <p>Mdm Nurhiza Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rekha_rajendran@moe.edu.sg</p>
+<p>nurhiza_mohamed@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
