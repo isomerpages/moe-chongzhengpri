@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Charmaine Sim Yi Jing</p>
+<p>Ms Sim Yi Jing, Charmaine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Administrative Executive</strong>
@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norwati Bte Azman</p>
+<p>Ms Norwati Binte Azman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Corporate Support Officer</strong>
@@ -66,10 +66,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rapinah Binte Alias</p>
+<p>Ms Rapinah Binte Alias</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Corporate Support Officer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Faaiza Sufreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ICT - Associate</strong>
 </p>
 </td>
 </tr>
