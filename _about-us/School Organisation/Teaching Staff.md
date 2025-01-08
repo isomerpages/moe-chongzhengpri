@@ -188,7 +188,7 @@ variant: tiptap
 <p>Mrs Ivory Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_saqinah_adnan@moe.edu.sg</p>
+<p>koh_hui_tian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ variant: tiptap
 <p>Mdm Norisha Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gao_chujuan@moe.edu.sg</p>
+<p>norisha_ismail@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ variant: tiptap
 <p>Mdm Hasnita Binte Surani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azidah_aman@moe.edu.sg</p>
+<p>hasnita_surani@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +215,7 @@ variant: tiptap
 <p>Mdm Siew Huay Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_bee_kim@moe.edu.sg</p>
+<p>siew_huay_ming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ variant: tiptap
 <p>Mdm Mastura Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ee_wen_wei_emlyn@moe.edu.sg</p>
+<p>mastura_mohamed@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ variant: tiptap
 <p>Mr Ryan Hartono Pek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eugene_lee_bang_hui@moe.edu.sg</p>
+<p>ryan_pek@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ variant: tiptap
 <p>Mdm Nor Aisah Bte Ahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siew_huay_ming@moe.edu.sg</p>
+<p>nor_aisah_ahmat@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +264,7 @@ variant: tiptap
 <p>Mdm Siti Zubaidah Bte Sarip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>karen_yeo_han_leng@moe.edu.sg</p>
+<p>siti_zubaidah_sarip@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -272,7 +272,7 @@ variant: tiptap
 <p>Mr Teo Yin Song, Gerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>su_rui_b@moe.edu.sg</p>
+<p>teo_yin_song_gerald@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +283,7 @@ variant: tiptap
 <p>Ms Kwan Shiow Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jahiza_jamaludin@moe.edu.sg</p>
+<p>kwan_shiow_yan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@ variant: tiptap
 <p>Mdm Vera Tan Hiang Lang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>malathy_panier_selvem@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -324,7 +324,7 @@ variant: tiptap
 <p>Mdm Christine Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ryan_pek@moe.edu.sg</p>
+<p>ching_huay_ping@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
