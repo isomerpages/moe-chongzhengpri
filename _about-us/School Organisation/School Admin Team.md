@@ -100,14 +100,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohammed Farhan Bin Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,15 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Seng Kok Heng</p>
+<p>Mr Alan Seng Kok Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong>
@@ -204,7 +188,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khairani Bte Sulaiman</p>
+<p>Mdm Kelly Choo Lai Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Receptionist</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Khairani Binte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Librarian</strong>
