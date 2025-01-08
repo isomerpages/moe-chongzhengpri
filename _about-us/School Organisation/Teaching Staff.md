@@ -185,7 +185,7 @@ variant: tiptap
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Saqinah Bte Adnan</p>
+<p>Mrs Ivory Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_saqinah_adnan@moe.edu.sg</p>
@@ -193,18 +193,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jaslyn Koh</p>
+<p>Mdm Norisha Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gao_chujuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azidah Aman</p>
+<p>Mdm Hasnita Binte Surani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>azidah_aman@moe.edu.sg</p>
@@ -212,18 +212,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Bee Kim</p>
+<p>Mdm Siew Huay Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_bee_kim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Indra D/O Balakrishnan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>indra_balakrishnan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +223,7 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Emlyn Ee</p>
+<p>Mdm Mastura Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ee_wen_wei_emlyn@moe.edu.sg</p>
@@ -239,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Krishna Veni Rajendran</p>
+<p>Ms Krishna Veni Rajendran&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>krishna_veni_rajendran@moe.edu.sg</p>
@@ -250,7 +242,7 @@ variant: tiptap
 <p>2 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Lee</p>
+<p>Mr Ryan Hartono Pek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>eugene_lee_bang_hui@moe.edu.sg</p>
@@ -258,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siew Huay Ming</p>
+<p>Mdm Nor Aisah Bte Ahmat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siew_huay_ming@moe.edu.sg</p>
@@ -269,7 +261,7 @@ variant: tiptap
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Yeo</p>
+<p>Mdm Siti Zubaidah Bte Sarip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>karen_yeo_han_leng@moe.edu.sg</p>
@@ -277,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Su Rui</p>
+<p>Mr Teo Yin Song, Gerald</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>su_rui_b@moe.edu.sg</p>
@@ -288,7 +280,7 @@ variant: tiptap
 <p>2 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jahiza Jamaludin</p>
+<p>Ms Kwan Shiow Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jahiza_jamaludin@moe.edu.sg</p>
@@ -296,7 +288,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Malathy D/O Panier Selvem</p>
+<p>Mdm Vera Tan Hiang Lang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>malathy_panier_selvem@moe.edu.sg</p>
@@ -329,7 +321,7 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Pek</p>
+<p>Mdm Christine Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ryan_pek@moe.edu.sg</p>
@@ -337,7 +329,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Haryani Binte Mohamad Jaafar</p>
+<p>Mr Ahmad Shalehin Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>haryani_mohamad_jaafar@moe.edu.sg</p>
@@ -348,7 +340,7 @@ variant: tiptap
 <p>3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Masyita Bte Mohammad Ali</p>
+<p>Mdm Maznah Binte Yusak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_masyita_mohammad_ali@moe.edu.sg</p>
@@ -356,7 +348,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Rafey Bin Abdul Jalil</p>
+<p>Miss Kwek Meei Huey, Aileen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamad_rafey@moe.edu.sg</p>
@@ -367,7 +359,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ling Wei Yong</p>
+<p>Miss Goh Chao Ngin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ling_wei_yong@moe.edu.sg</p>
@@ -375,7 +367,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Kwek Meei Huey, Aileen</p>
+<p>Mr Mohamed Izzat Bin Mohamed Sarip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kwek_meei_huey_aileen@moe.edu.sg</p>
@@ -386,7 +378,7 @@ variant: tiptap
 <p>3 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Emelyne Quek</p>
+<p>Mr Ng Fu Tian, Benny</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>emelyne_quek_jiang_li@moe.edu.sg</p>
@@ -394,7 +386,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Khairunnisa Bte Ariffin</p>
+<p>Ms Heng Tian Ying Jacelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_khairunnisa_ariffin@moe.edu.sg</p>
@@ -405,7 +397,7 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Elaine Goh</p>
+<p>Mdm Leong Lai Lan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_yi_ling_elaine@moe.edu.sg</p>
@@ -413,7 +405,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Razana bte Abdul Rahman</p>
+<p>Mdm Rekha Rajendran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>razana_abdul_rahman@moe.edu.sg</p>
@@ -422,7 +414,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<h5>Year Head: Mr Kevin Joseph Francis<br>Assistant Year Head: Ms Emelyne Quek</h5>
+<h5>Year Head: Mr Kevin Joseph Francis</h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
