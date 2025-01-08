@@ -446,7 +446,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Shalehin</p>
+<p>Mdm Haryani Binte Mohamad Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ahmad_shalehin_ahmad@moe.edu.sg</p>
@@ -457,7 +457,7 @@ variant: tiptap
 <p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hajar Bibi Abdul Rashid</p>
+<p>Mdm Siti Masyita Bte Mohammad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -466,18 +466,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Bor</p>
+<p>Mr Mohamad Rafey B Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>bor_bee_cheoh_eunice@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Farhana Bte Hamzah</p>
+<p>Mr Ling Wei Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_farhana_hamzah@moe.edu.sg</p>
@@ -485,18 +485,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gong Xianli</p>
+<p>Ms Li Xin Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gong_xianli@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mdm Hajar Bibi Bte Abdul Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>4 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharleen Ong</p>
+<p>Ms Emelyne Quek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_siew_lee_sharleen@moe.edu.sg</p>
@@ -504,18 +512,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Izzat</p>
+<p>Mdm Siti Khairunnisa Bte Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamed_izzat_mohamed_sarip@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mdm Zubaidah Binte Abdul Kadir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Fu Tian, Benny</p>
+<p>Mrs Sharleen Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_fu_tian_benny@moe.edu.sg</p>
@@ -523,10 +539,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Lai Lan</p>
+<p>Ms Wu Ya-Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>leong_lai_lan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yan Zhuyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
