@@ -811,24 +811,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>-
 <br>-
-<br>-
-<br>-
-<br>-
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhafiza Bte Jamil Piperdy
-<br>Mdm Tan Teck Ngee
-<br>Ms Audrey Ortega
-<br>Ms Malathy D/O Panier Selvem
+<p>Ms Malathy D/O Panier Selvem
 <br>Mr Shawn Peh Yi Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>czps@moe.edu.sg
-<br>czps@moe.edu.sg
-<br>czps@moe.edu.sg
-<br>czps@moe.edu.sg
 <br>czps@moe.edu.sg</p>
 </td>
 </tr>
