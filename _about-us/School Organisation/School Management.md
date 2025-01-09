@@ -188,7 +188,7 @@ variant: tiptap
 <p>Mr Ameer Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head / Science</p>
+<p>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ameer_ahamed_khan_amanullah@moe.edu.sg</p>
