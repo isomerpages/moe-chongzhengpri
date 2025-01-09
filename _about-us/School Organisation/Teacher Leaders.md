@@ -61,7 +61,7 @@ variant: tiptap
 <p>Mdm Quek Lew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Edu Support, TSN &amp; TC</p>
+<p>Senior Teacher / Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>quek_lew_cheng@moe.edu.sg</p>
