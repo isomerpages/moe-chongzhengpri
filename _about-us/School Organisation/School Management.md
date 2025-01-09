@@ -195,17 +195,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Bor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>bor_bee_cheoh_eunice@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ahmad Shalehin Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,6 +202,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ahmad_shalehin_ahmad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Yin Song, Gerald</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
