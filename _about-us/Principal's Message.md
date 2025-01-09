@@ -54,16 +54,11 @@ and partner with you on this journey of learning and growth.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Regards,
-<br><em>Mr James Lim<br>Principal</em>
+<p><em>Mr James Lim<br>Principal</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Scan this&nbsp;QR code or click&nbsp;<a href="https://sites.google.com/moe.edu.sg/czps-principal2022/home" class="" rel="noopener" target="_blank">here</a> to
-get periodic updates<em>&nbsp;</em> from the Principal</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/qr.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
