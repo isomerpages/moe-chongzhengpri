@@ -168,7 +168,8 @@ variant: tiptap
 <p>HOD / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:fazlinda_junid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fazlinda_junid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -202,6 +203,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_yu_xian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Goh Chao Ngin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_chao_ngin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chao_ngin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
