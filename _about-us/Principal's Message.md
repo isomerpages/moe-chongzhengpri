@@ -2,25 +2,65 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p align="justify">Welcome to Chongzheng Primary School, and thank you for stopping by our school website. This website is updated regularly and tells you about our school and all the exciting happenings that make school life such a joy.
-</p><p align="justify">The school year is undoubtedly a busy one, with the calendar packed full of activities that aim to provide a varied set of experiences for both our students and staff. As always, we are very happy to have the&nbsp; <strong>support of our stakeholders</strong>&nbsp;(School Advisory Committee, Parent Support Group – PaVE, parents, alumni, and our partners) to enable the successful implementation of different school initiatives and events.
-</p><p align="justify">Education in the 21st century is constantly transforming, with new media and evolving technology (including artificial intelligence) catering to the learning needs and interests of the&nbsp;<strong>21st Century learner</strong>&nbsp;. Our Minister for Education, Mr Chan Chun Sing, emphasized the need for teachers, and indeed, schools to equip our students with 21st Century competencies and skills that do not merely solve today's problems with yesterday's and today’s solutions, but can solve tomorrow's problems with tomorrow's solutions. To support this, in the enhanced 21CC framework for education in Singapore, launched in late 2023,&nbsp;<strong> adaptive thinking</strong>&nbsp; has been added as an emerging 21st century competency that students of this generation need to develop, alongside the usual critical thinking, problem-solving, communication skills as well as cross-cultural literacy. 
-</p><p align="justify">At Chongzheng, we recognize that our students are digital natives, immersed in a world of technology from a young age. We therefore undertake to help them embrace this advantage and&nbsp;<strong> leverage EdTech</strong>&nbsp; tools to enhance their learning experience. However, even when they engage in interactive learning experiences in the virtual world, or collaborate using online platforms, the school does not forget to inculcate the aforementioned 21CC in them, and ensures that the school experience anchors on fundamental core values (&nbsp;<strong>Respect, Responsibility, Integrity, Steadfastness, Empathy, Confidence</strong>&nbsp;) to learn ethically and responsibly. 
-</p><p align="justify">In the fertile ground of our school, &nbsp;<strong>every child is a flower waiting to blossom</strong>&nbsp;. We would like our students to navigate the complexities and intricacies of this ambiguous but exciting new world with a spirit of curiosity and courage. We believe in recognizing the unique talents and dreams that lie within every child. Our diverse learning environment comes with the dedication of our staff, both teaching and non-teaching. In partnership with parents, we seek to provide the nourishment and sunlight needed for every child to bloom.
-</p><p align="justify">As we approach our 40th anniversary in 2025, we embark on a new chapter, guided by our Vision: "&nbsp;<strong>A Vibrant Community of Innovative Thinkers and Exemplary Leaders</strong>&nbsp;." This vision, born from the "Re-imagining Chongzheng" initiative, paints a future where our students thrive as creative problem-solvers and compassionate leaders, ready to shape the world.
-</p><p align="justify">Our enduring Mission, "&nbsp;<strong>To nurture the leader in everyone with a heart to give and a mind to grow</strong>&nbsp;," underpins our strategic direction. Through our four strategic thrusts—a holistic curriculum, the Chongzheng Distinctive Programme, skilful and engaged staff, and organizational excellence—we cultivate "confident individuals, passionate learners, innovative thinkers, and exemplary leaders." But our impact goes beyond students. We strive for staff outcomes of "skilful professionals, collaborative learners, and innovative practitioners," while fostering a "forward-looking organization" dedicated to "service excellence." This holistic approach ensures that every member of our community, from students to staff, blossoms into their future-ready selves.
-</p><p align="justify">Guiding our journey is our school Motto, "&nbsp;<strong>Confident and Steadfast</strong>&nbsp;." This timeless principle has served as a compass, anchoring us through changes in the educational landscape. We invite you to explore our website further and discover the vibrant world of Chongzheng Primary School. We are excited to welcome you to our community and partner with you on this journey of learning and growth.
-</p><p align="justify">All the best for 2024!</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p>Greetings and welcome to Chongzheng Primary School’s website! This is
+our official presence online and is updated regularly to inform and share
+essential information on our school. We aim to create the <strong>Best Day Ever</strong> experience
+for all the students that pass through our gate and we thank parents for
+entrusting their children with us.</p>
+<p>This year is particularly special for our school, as we turn <strong>40</strong> years
+old! The school has been blessed to be serving the Tampines community the
+past 40 years, producing cohorts of contributors to society. With the enthusiasm
+of our students, the dedication of our staff, as well as support from the
+respective stakeholders (School Advisory Committee, Parent Support Group
+– PaVE, parents, alumni, and our partners), the school has reached a milestone
+that brings about a sense of accomplishment and a feeling of joy.</p>
+<p>The school started off in the late 20th century, and right now, we are
+exactly at the quarter mark of the 21st century. Without a doubt, education
+has transformed since the early days of Chongzheng, just like how our country
+Singapore has evolved. As such, our theme for commemorating the 40th anniversary
+is “Celebrating our Heritage, Embracing the Future”.</p>
+<p>We are now educating the 21st century learner, and are implementing programmes
+that cater to their needs and interests. Anchoring on the <strong>enhanced 21CC framework</strong> for
+schools as well as leveraging emerging <strong>EdTech</strong> tools such
+as AI, we seek to enhance the students’ learning experiences and in the
+process also inculcate values that build an innovative thinker and exemplary
+leader.</p>
+<p>We believe that <strong>every child is a flower waiting to blossom</strong> here
+in our school. We would like our students to navigate the complexities
+and intricacies of this ambiguous but exciting new world with a spirit
+of curiosity and courage. We believe in recognizing the unique talents
+and dreams that lie within every child. Our diverse learning environment
+comes with the dedication of our staff, both teaching and non-teaching.
+In partnership with parents, we seek to provide the nourishment and sunlight
+needed for every child to bloom.</p>
+<p>Keeping our school Motto, "<strong>Confident and Steadfast</strong>",
+close to our hearts, we respect this timeless principle as our guiding
+compass to help us navigate changes in the educational landscape. We remain
+confident that we can develop every learner that comes in through the gates
+of Chongzheng, and are steadfast in fulfilling our mission for every Chongzheng
+student to graduate successfully as a leader with a Heart to Give and a
+Mind To Grow.</p>
+<p>Do feel free to explore our website further and discover the vibrant world
+of Chongzheng Primary School. We are excited to welcome you to our community
+and partner with you on this journey of learning and growth.</p>
+<p>All the best for 2025!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 70%;">
-<p>Regards,<br><em>Mr James Lim<br>Principal</em></p>
+<td rowspan="1" colspan="1">
+<p><em>Mr James Lim<br>Principal</em>
+</p>
 </td>
-<td style="width: 30%;">Scan this&nbsp;QR code or click&nbsp;<a class="" href="https://sites.google.com/moe.edu.sg/czps-principal2022/home" target="_blank" rel="noopener">here</a> to get periodic updates<em>&nbsp;</em> from the Principal
-<img style="width: 75%;" src="/images/qr.png"></td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
