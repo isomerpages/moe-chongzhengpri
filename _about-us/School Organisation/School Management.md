@@ -162,6 +162,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Fazlinda Binte Junid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;Mr Daniel Chua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,7 +223,8 @@ variant: tiptap
 <p>Subject Head / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_yin_song_gerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yin_song_gerald@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
