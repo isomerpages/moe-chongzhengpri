@@ -9,51 +9,50 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Teo Beng Hwee</p>
+<p>Mr Mohamad Rafey</p>
 </li>
 <li>
-<p>Mr Mohamad Rafey</p>
+<p>Dr Shawn Peh</p>
 </li>
 <li>
 <p>Mdm Pauline Foo</p>
 </li>
 <li>
-<p>Mdm Siew Huay Min</p>
+<p>Mdm Siew Huay Ming</p>
 </li>
 <li>
 <p>Mdm Nor Aisah Bte Ahmat</p>
 </li>
 <li>
-<p>Mdm Sim Bee Kim</p>
+<p>Ms Haryani</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
 <ul>
 <li>
-<p>Captain – Nur Hadif Bin Mohamed Ramdhan (5 Integrity)</p>
+<p>Captain – Nur Hadif Bin Mohamed Ramdhan (6 Integrity)</p>
 </li>
 <li>
-<p>Captain - Muhammad Adam Haqim Bin Mohamed Fadil (5 Responsibility)</p>
+<p>Captain - Muhammad Adam Haqim Bin Mohamed Fadil (6 Responsibility)</p>
 </li>
 <li>
-<p>Vice Captain – Akimasa Bazil Akmal Darwish Mohamad Irwan (4 Empathy)</p>
+<p>Captain – Akimasa Bazil Akmal Darwish Mohamad Irwan (5 Integrity)</p>
 </li>
 <li>
-<p>Vice Captain – Tham Jun Wu, Enzo (4 Integrity)</p>
-<p></p>
+<p>Captain – Tham Jun Wu, Enzo (5 Responsibility)</p>
 </li>
 <li>
-<p>Captain – Ainul Mardiah As'shiqin Binte Mohamed Redzwan (5 Respect)</p>
+<p>Captain – Muneerah Binte Salahudeen (6 Integrity)</p>
 </li>
 <li>
-<p>Captain - Ayesha Binte Saifullazan (5 Responsibility)</p>
+<p>Captain - Ayesha Binte Saifullazan (6 Responsibility)</p>
 </li>
 <li>
-<p>Vice Captain – Chloe Gwendelynn Pinto (4 Responsibility)</p>
+<p>Captain – Chloe Gwendelynn Pinto (5 Respect)</p>
 </li>
 <li>
-<p>Vice Captain – Teo Seaenn (4 Responsibility)</p>
+<p>Captain – Teo Seaenn (5 Steadfastness)</p>
 <p></p>
 </li>
 </ul>
