@@ -4,19 +4,19 @@ permalink: /StudentDevelopmentExperience/sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Sexuality Education</strong></h4>
+<h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <ol>
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
-mature. SEd also aims at helping students develop healthy and rewarding
-relationships including those with members of the opposite sex, and make
-wise, informed and responsible decisions on sexuality matters. SEd is premised
-on the importance of the family as the basic unit of society. This means
-encouraging healthy, heterosexual marriages and stable nuclear family units
-with extended family support. The teaching and learning of SEd is based
-on respect for the values and beliefs of the different ethnic and religious
-communities in Singapore on sexuality issues. &nbsp;</p>
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
 <p></p>
 </li>
 <li>
@@ -62,7 +62,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<p><strong>OVERVIEW OF CHONGZHENG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF CHONGZHENG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -105,9 +105,15 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<p><strong>Schedule of Sexuality Education for P5 students of Chongzheng Primary School in 2024:</strong>
+<p><strong>Schedule of Sexuality Education for P5 students of Chongzheng Primary School in 2025:</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -150,7 +156,7 @@ due to puberty.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +181,7 @@ they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -195,18 +201,24 @@ measures to be safe and how to seek help for themselves and their friends.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Schedule of Sexuality Education for P6 students of Chongzheng Primary School in 2024:</strong>
+<p><strong>Schedule of Sexuality Education for P6 students of Chongzheng Primary School in 2025:</strong>
 </p>
 </li>
 </ol>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -248,7 +260,7 @@ friendships with their circles of friends.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 4</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +279,7 @@ teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -282,13 +294,13 @@ Supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be distributed
-to parents at the start of the year and is also downloadable <a href="http://tinyurl.com/yvpc55h8" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 15 Jan 2024.</p>
+lessons need to complete an opt-out form via the link <a href="https://form.gov.sg/677f597c9f07cd74ccfc1fdd" rel="noopener nofollow" target="_blank">here</a> by
+31/01/2015.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at 67819002 for discussion or to seek clarification
+<p>Parents can contact the school at our email: <a rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a> or
+you can call us at <a href="tel:+6567819002" rel="noopener noreferrer nofollow" target="_blank">6781 9002</a> for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
