@@ -1,8 +1,9 @@
 ---
 title: Sexuality Education
-permalink: /StudentDevelopmentExperience/sexuality-education/
+permalink: /studentdevelopmentexperience/sexuality-education/
 description: ""
 variant: tiptap
+third_nav_title: Useful Information
 ---
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <ol>
