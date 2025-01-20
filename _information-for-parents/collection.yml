@@ -2,7 +2,6 @@ collections:
   information-for-parents:
     output: true
     order:
-      - Sexuality Education.md
       - General Information.md
       - Home School Partnership/Home School Partnership.md
       - Home School Partnership/Testimonials.md
