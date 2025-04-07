@@ -67,48 +67,9 @@ our pupils, we infused Thinking Protocols into our daily teaching as well
 as Formative Assessment. Brainstorming, Sticker-dot Matrix, PMI, Scamper
 &amp; Six-thinking Hats are tools chosen for our pupils to carry out during
 their group discussion.</p>
-<p><strong>Chongzheng Chinese Reading Programme – Term 1 Update</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_MTL_Term_1_Update_Picture14.png">
-</div>
-<p>We are delighted to share the latest updates of our Reading Programme
-from Chinese Language Department! This term has been filled with a variety
-of activities aimed at enhancing students' reading journeys.</p>
-<p>Our in-class reading sessions provide students with immersive experiences,
-exposing them to a diverse range of texts and cultivating their understanding.
-Library time continues in its traditional fashion, offering students the
-opportunity to independently explore a rich array of Chinese literary works.
-These activities, along with designated time for lower primary students,
-encourage students to engage in intentional reading of Chinese language
-storybooks.</p>
-<p>We are equally thrilled by the success of our "Reading Parents" initiative.
-This programme encourages parental involvement, allowing Primary one and
-two students to participate in guided reading activities during break time
-at "Happy Ocean." Additionally, they engage in story-related crafts designed
-by teachers. This initiative, bolstered by illustrated books, further enhances
-student involvement in reading.</p>
-<p>As the term progresses, we remain dedicated to providing captivating experiences,
-nurturing students' lifelong love for reading, and promoting academic growth.</p>
-<p>We extend our heartfelt gratitude for your continuous support and collaboration
-throughout this exciting journey!</p>
-<p>&nbsp;我们非常荣幸地与大家分享崇正华文部阅读计划的最新动态！本学期，我们举办了丰富多彩的活动，旨在提升学生的阅读之旅。</p>
-<p>我们的课堂阅读时间为学生提供了沉浸式的体验，让他们接触到各种不同的文本，培养了学生的理解能力。《图书馆时间》依然延续了往年的模式，让学生们有机会独立探索丰富多样的中文文学作品。这些活动和特定时间鼓励学生有意识地阅读中文书籍。</p>
-<p>我们同样对我们“阅读家长”计划的成功感到欣喜。该计划鼓励家长参与，让一年级和二年级的学生在休息时间到“快乐洋”进行导读活动，同时参与老师们设计的与故事相关的手工制作。导读活动通过绘本进一步增强，并吸引学生参与阅读。</p>
-<p>接下来的日子，我们将继续致力于提供引人入胜的体验，培养学生终身热爱阅读的习惯，促进学术成长。</p>
-<p>感谢您一直以来在这充满激动人心的旅程中的支持和合作！</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Term_1_MTL_Combine_Photo_1.png">
-</div>
-<p><strong>Chongzheng Chinese Reading Programme – Term 2 Update</strong>
+<p><strong>Chongzheng Chinese Reading Programme – 2025 Term 1 Update</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PpbLpqh5ZDc?si=dhZjPSMzf0nHnGR4"></iframe>
-</div>
-<p><strong>Chongzheng Chinese Reading Programme - Term 3 Update</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yqKiAxL9NqQ"></iframe>
+<iframe height="864" width="1536" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NVLe6p5b50A"></iframe>
 </div>
 <p></p>
