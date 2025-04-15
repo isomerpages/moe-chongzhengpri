@@ -18,7 +18,10 @@ variant: tiptap
 <p>Mr Izzat</p>
 </li>
 <li>
-<p>Ms Emlyn</p>
+<p>Ms Ong Choon Mui</p>
+</li>
+<li>
+<p>Mdm Koh Chor Kiang, Jaslyn</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
