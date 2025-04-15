@@ -65,7 +65,7 @@ and partner with you on this journey of learning and growth.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CZ40_Logo.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/CZ40_Logo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
