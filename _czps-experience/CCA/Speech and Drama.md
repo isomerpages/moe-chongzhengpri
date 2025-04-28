@@ -9,13 +9,16 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Zaishereen Aman (Main-in-charge)</p>
-</li>
-<li>
-<p>Mdm Suckjit Kaur</p>
+<p>Mdm Suckjit Kaur (Main-in-charge)</p>
 </li>
 <li>
 <p>Ms Sheela Devi</p>
+</li>
+<li>
+<p>Ms Christine Ching</p>
+</li>
+<li>
+<p>Ms Salina</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:&nbsp;</strong>
