@@ -67,6 +67,16 @@ our pupils, we infused Thinking Protocols into our daily teaching as well
 as Formative Assessment. Brainstorming, Sticker-dot Matrix, PMI, Scamper
 &amp; Six-thinking Hats are tools chosen for our pupils to carry out during
 their group discussion.</p>
+<p><strong>2024年好文分享</strong>
+</p>
+<p>崇正小学的华文老师收集了去年小二至小六学生的优秀作文，制作成电子书。其中包括看图作文、命题作文和续写文章/看图写话。</p>
+<p>&nbsp;我们希望同学们能在学校假期阅读，从中学习，提高自己的写作水平，让作文写得越来越精彩。</p>
+<p><strong>&nbsp;小二到小四作品、高华课程</strong>
+</p>
+<p><a href="https://flipbookpdf.net/web/site/a9f49f38d6bac84cc1ae5e0cbfe4acfae899b621202504.pdf.html" rel="noopener nofollow" target="_blank">https://flipbookpdf.net/web/site/a9f49f38d6bac84cc1ae5e0cbfe4acfae899b621202504.pdf.html</a>
+</p>
+<p><strong>小五和小六作品、高华课程<br></strong><a href="https://flipbookpdf.net/web/site/85b6b96fc0ae2ea119171560cfac4cfc662db1fe202504.pdf.html" rel="noopener nofollow" target="_blank">https://flipbookpdf.net/web/site/85b6b96fc0ae2ea119171560cfac4cfc662db1fe202504.pdf.html</a>
+</p>
 <p><strong>Chongzheng Chinese Reading Programme – 2025 Term 1 Update</strong>
 </p>
 <div class="iframe-wrapper">
