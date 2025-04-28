@@ -12,7 +12,10 @@ variant: tiptap
 <p>Mrs Sharon Tan (Main-in-charge)</p>
 </li>
 <li>
-<p>Mrs Mastura Felix</p>
+<p>Mrs Brenda Lim</p>
+</li>
+<li>
+<p>Mrs Ang Li Hoon</p>
 <p></p>
 </li>
 </ol>
