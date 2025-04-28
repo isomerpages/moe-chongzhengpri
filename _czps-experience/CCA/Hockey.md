@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Mohamad Rafey</p>
+<p>Mr Mohamad Rafey (Main-in-charge)</p>
 </li>
 <li>
 <p>Dr Shawn Peh</p>
@@ -19,9 +19,6 @@ variant: tiptap
 </li>
 <li>
 <p>Mdm Siew Huay Ming</p>
-</li>
-<li>
-<p>Mdm Nor Aisah Bte Ahmat</p>
 </li>
 <li>
 <p>Ms Haryani</p>
