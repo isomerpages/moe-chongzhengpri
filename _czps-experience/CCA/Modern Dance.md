@@ -9,16 +9,16 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Joey Lim (Main-in-charge)</p>
+<p>Mrs Sharleen Ong (Main-in-charge)</p>
+</li>
+<li>
+<p>Ms Bernice Lim Hwee Yng</p>
 </li>
 <li>
 <p>Mdm Azizah Shaik</p>
 </li>
 <li>
 <p>Mdm Siti Khairunisa</p>
-</li>
-<li>
-<p>Mdm Siti Zubaidah</p>
 </li>
 </ol>
 <p><strong>Description:</strong>
