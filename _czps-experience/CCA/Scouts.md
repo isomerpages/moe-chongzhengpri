@@ -9,10 +9,13 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Wu Ya-Ting (Main-in-charge)</p>
+<p>Mr Eugene Lee (Main-in-charge)</p>
 </li>
 <li>
-<p>Mr Ling Wei Yong</p>
+<p>Ms Surya Parvathi</p>
+</li>
+<li>
+<p>Ms Jacelyn Heng</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
