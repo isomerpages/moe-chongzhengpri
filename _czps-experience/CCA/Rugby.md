@@ -12,10 +12,13 @@ variant: tiptap
 <p>Mr Ryan Pek (Main-in-charge)</p>
 </li>
 <li>
+<p>Mr Ling Weiyong</p>
+</li>
+<li>
 <p>Mr Gavin Ong</p>
 </li>
 <li>
-<p>Mrs Sharleen Ong</p>
+<p>Mdm Sim Bee Kim</p>
 </li>
 <li>
 <p>Ms Li Xin Xin</p>

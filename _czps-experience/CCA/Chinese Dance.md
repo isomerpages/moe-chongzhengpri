@@ -9,10 +9,10 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Eunice Bor (Main in-charge)</p>
+<p>Mdm Leong Lai Lan (Main in-charge)</p>
 </li>
 <li>
-<p>Mdm Leong Lai Lan</p>
+<p>Mdm Gong Xianli</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>

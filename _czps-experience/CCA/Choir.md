@@ -12,10 +12,13 @@ variant: tiptap
 <p>Ms Lee Mong Lan (Main-in-charge)</p>
 </li>
 <li>
-<p>Mdam Maznah Yusak</p>
+<p>Mr Gerald Teo</p>
 </li>
 <li>
-<p>Ms Noor Haida MJ</p>
+<p>Ms Emlyn Ee</p>
+</li>
+<li>
+<p>Ms Veni</p>
 </li>
 </ol>
 <p></p>
