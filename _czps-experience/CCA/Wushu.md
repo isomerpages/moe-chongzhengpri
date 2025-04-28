@@ -9,16 +9,19 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mrs Ivory Ho (Main-in-charge)</p>
+<p>Mdm Sharifah Zaleha (Main-in-charge)</p>
+</li>
+<li>
+<p>Mrs Ivory Ho</p>
+</li>
+<li>
+<p>Ms Aileen Tan</p>
 </li>
 <li>
 <p>Miss Sim Yuxian</p>
 </li>
 <li>
-<p>Mdm Sharifah Zaleha S M</p>
-</li>
-<li>
-<p>Ms Aileen Tan</p>
+<p>Ms Julia Sim</p>
 </li>
 </ol>
 <p><strong>CCA School Leaders:</strong>
