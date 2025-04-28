@@ -9,10 +9,7 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Nur Farhana (Main-in-charge)</p>
-</li>
-<li>
-<p>Mdm Jasmina</p>
+<p>Mdm Jasmina (Main-in-charge)</p>
 </li>
 <li>
 <p>Mdm Azidah</p>
