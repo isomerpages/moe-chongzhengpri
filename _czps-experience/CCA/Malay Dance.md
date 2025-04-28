@@ -9,10 +9,10 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Razana Abdul Rahman (Main-in-charge)</p>
+<p>Mdm Siti Zubaidah (Main-in-charge)</p>
 </li>
 <li>
-<p>Mdm Hajar Bibi Binte Abdul Rashid</p>
+<p>Mdm Maznah</p>
 </li>
 <li>
 <p>Mdm Norisha Binte Ismail</p>
