@@ -16,5 +16,5 @@ during the Phase 1 registration period from <strong>9am on 1 July 2025 to 4.30pm
 <p>If your child is a non-SC / non-PR and thus not eligible for Phase 1,
 please submit an online Indication of Interest from <strong>9am on 27 May 2025 to 4.30pm on 2 June 2025</strong>.</p>
 <p>Information on the 2025 P1 Exercise had been published on the MOE website.
-Thank you.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/2026-phase1"><img style="width: 30%;" height="auto" width="100%" alt="2026 Primary 1 intake (Interest Form)" src="/images/https___go_gov_sg_2026_phase1.png"></a>
+Thank you.</p>
 <p></p>
