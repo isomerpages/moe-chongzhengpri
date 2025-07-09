@@ -31,8 +31,8 @@ Procedure below.</p>
 <p>Complete the Call for Proposal - Annex A (Information Required from Vendor)</p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal - Annex A by closing date, 23 July
-2025, 17:00hrs to the school's General Office.</p>
+<p>Submit the completed Call for Proposal - Annex A by closing date, <strong>23 July 2025, 17:00hrs</strong> to
+the school's General Office.</p>
 <p></p>
 <p>Address: 1, Tampines Street 21 Singapore 529392</p>
 <p>Contact Number: 6781 9002</p>
