@@ -34,14 +34,23 @@ Required from Vendor)</p>
 <li>
 <p>Submit the completed Call for Proposal - Annex A by closing date, <strong>23 July 2025, 17:00hrs</strong> to
 the school's General Office.</p>
-<p></p>
-<p>Address: 1, Tampines Street 21 Singapore 529392</p>
-<p>Contact Number: 6781 9002</p>
-<p>Email: <a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
-</p>
-<p>Contact Person: Cheryl Toh, Admin Manager</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 1, Tampines Street 21 Singapore 529392</p>
+</li>
+<li>
+<p>Contact Number: 6781 9002</p>
+</li>
+<li>
+<p>Email: <a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg </a>
+</p>
+</li>
+<li>
+<p>Contact Person: Cheryl Toh, Admin Manager</p>
+</li>
+</ul>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -52,5 +61,6 @@ the school's General Office.</p>
 <p>Bus number: 3, 3A, 8, 17, 18, 20, 28 (Along Tampines Ave 3)</p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <p></p>
