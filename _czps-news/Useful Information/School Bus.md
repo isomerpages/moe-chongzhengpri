@@ -28,7 +28,8 @@ Procedure below.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the Call for Proposal - Annex A (Information Required from Vendor)</p>
+<p>Complete the <a href="/files/2__Information_from_Vendor__For_Single_Bus_Service___Chongzheng_Primary_School.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
+Required from Vendor)</p>
 </li>
 <li>
 <p>Submit the completed Call for Proposal - Annex A by closing date, <strong>23 July 2025, 17:00hrs</strong> to
@@ -43,6 +44,13 @@ the school's General Office.</p>
 </ol>
 <p><strong>How to get there?</strong>
 </p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Tampines East (DT 33) – 13 minutes walk</p>
+</li>
+<li>
+<p>Bus number: 3, 3A, 8, 17, 18, 20, 28 (Along Tampines Ave 3)</p>
+</li>
+</ul>
 <p></p>
 <p></p>
