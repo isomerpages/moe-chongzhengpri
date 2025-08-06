@@ -250,10 +250,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Aisah Bte Ahmat</p>
+<p>Ms Malathy D/O Panier Selvem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nor_aisah_ahmat@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -472,7 +472,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -488,14 +488,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>li_xin_xin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hajar Bibi Bte Abdul Rashid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hajar_bibi_abdul_rashid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -811,10 +803,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>-</p>
 <p>-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Choon Mui</p>
 <p>Ms Joanne Tan Wai Hing</p>
+<p>Ms Nirmala D/O Gunaratnam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
