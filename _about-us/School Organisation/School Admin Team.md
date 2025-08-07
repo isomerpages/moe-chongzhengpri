@@ -143,15 +143,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Toh Bok Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -179,7 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nurul Amiera Azura Binte Eadi</p>
+<p>Miss Siti Aishah Binte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong>
@@ -197,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Khairani Binte Sulaiman</p>
+<p>Ms Shailla Binte Md Shah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Librarian</strong>
