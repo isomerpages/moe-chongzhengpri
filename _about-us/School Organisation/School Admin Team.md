@@ -13,10 +13,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>ADMIN STAFF</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>ADMIN STAFF</p>
+<p></p>
 </th>
 </tr>
 <tr>
