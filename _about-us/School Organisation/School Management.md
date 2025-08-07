@@ -40,7 +40,8 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>czps@moe.edu.sg</p>
+<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -54,7 +55,8 @@ variant: tiptap
 <p>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>czps@moe.edu.sg</p>
+<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -68,7 +70,8 @@ variant: tiptap
 <p>Vice-Principal(Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>czps@moe.edu.sg</p>
+<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -82,7 +85,8 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nor_aishah_ramli@moe.edu.sg</p>
+<p><a href="mailto:nor_aishah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_aishah_ramli@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -96,7 +100,8 @@ variant: tiptap
 <p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>farah_syed_haider_alsagoff@moe.edu.sg</p>
+<p><a href="mailto:farah_syed_haider_alsagoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_syed_haider_alsagoff@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,13 +112,14 @@ variant: tiptap
 <p>Mr Kevin Joseph Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kevin_joseph_francis@moe.edu.sg</p>
+<p><a href="mailto:kevin_joseph_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kevin_joseph_francis@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -124,7 +130,8 @@ variant: tiptap
 <p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seah_chu_hian@moe.edu.sg</p>
+<p><a href="mailto:seah_chu_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_chu_hian@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -138,7 +145,8 @@ variant: tiptap
 <p>HOD / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>annur_shanaz_abdul_haque@moe.edu.sg</p>
+<p><a href="mailto:annur_shanaz_abdul_haque@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annur_shanaz_abdul_haque@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,7 +160,8 @@ variant: tiptap
 <p>HOD / Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poh_wee_flang@moe.edu.sg</p>
+<p><a href="mailto:poh_wee_flang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wee_flang@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -166,7 +175,8 @@ variant: tiptap
 <p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_lian_eng_linda@moe.edu.sg</p>
+<p><a href="mailto:teo_lian_eng_linda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lian_eng_linda@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -180,7 +190,8 @@ variant: tiptap
 <p>HOD / Physical Education, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mahathir_mohamed_saman@moe.edu.sg</p>
+<p><a href="mailto:mahathir_mohamed_saman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahathir_mohamed_saman@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -194,7 +205,8 @@ variant: tiptap
 <p>HOD / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gerardo_seow@moe.edu.sg</p>
+<p><a href="mailto:gerardo_seow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gerardo_seow@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -223,7 +235,8 @@ variant: tiptap
 <p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;chua_boon_hwee_daniel@moe.edu.sg</p>
+<p>&nbsp;<a href="mailto:chua_boon_hwee_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_boon_hwee_daniel@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -237,7 +250,8 @@ variant: tiptap
 <p>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ameer_ahamed_khan_amanullah@moe.edu.sg</p>
+<p><a href="mailto:ameer_ahamed_khan_amanullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ameer_ahamed_khan_amanullah@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -251,7 +265,8 @@ variant: tiptap
 <p>Level Head / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_yu_xian@moe.edu.sg</p>
+<p><a href="mailto:sim_yu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yu_xian@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -280,7 +295,8 @@ variant: tiptap
 <p>Subject Head / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ahmad_shalehin_ahmad@moe.edu.sg</p>
+<p><a href="mailto:ahmad_shalehin_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_shalehin_ahmad@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -309,7 +325,8 @@ variant: tiptap
 <p>Assistant Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>emelyne_quek_jiang_li@moe.edu.sg</p>
+<p><a href="mailto:emelyne_quek_jiang_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emelyne_quek_jiang_li@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -323,7 +340,8 @@ variant: tiptap
 <p>Assistant Year Head(Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kaur_suckjit_singh_bang@moe.edu.sg</p>
+<p><a href="mailto:kaur_suckjit_singh_bang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kaur_suckjit_singh_bang@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
