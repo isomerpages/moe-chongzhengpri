@@ -154,21 +154,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Poh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_wee_flang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wee_flang@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Linda Teo</p>
 </td>
 <td rowspan="1" colspan="1">
