@@ -153,6 +153,49 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>ALLIED EDUCATORS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kiw Hui Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Counsellor</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Angelin Anthony Samy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Special Educational Needs Officer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Liyana Binte Yahya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Special Educational Needs Officer</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>OTHER SUPPORTING STAFF</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -201,49 +244,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Dental Therapist</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>ALLIED EDUCATORS</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kiw Hui Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Counsellor</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Angelin Anthony Samy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Special Educational Needs Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Liyana Binte Yahya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Special Educational Needs Officer</strong>
 </p>
 </td>
 </tr>
