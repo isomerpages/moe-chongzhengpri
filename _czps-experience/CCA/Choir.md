@@ -19,13 +19,17 @@ variant: tiptap
 </li>
 <li>
 <p>Ms Veni</p>
+<p></p>
 </li>
 </ol>
+<p><strong>CCA Leaders:</strong>
+</p>
+<p>-Koh Yu Qing Arissa (5 Steadfastness)</p>
+<p>-Victoria Tan Yi Xuan (5 Empathy)</p>
+<p>-Bennett Sariya Faie (4 Steadfastness)</p>
+<p>-Sophie Lim Wan Er (4 Responsibility)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choir CCA Leaders" src="/images/Slide3.jpg">
-</div>
-<p><strong>Description :</strong>
+<p><strong>Description:</strong>
 </p>
 <p>The Chongzheng choir is made up of members from Primary 3 to Primary 6
 pupils. Choir practices are conducted on Tuesdays during curriculum time
@@ -34,12 +38,16 @@ proper vocal techniques as well as performing skills. They are introduced
 to sight-reading and exposed to singing songs in 2 or more parts. The choir
 participates in the Singapore Youth Festival Arts Presentation (SYF AP)
 (Primary) once every two years.</p>
-<p><strong>Our Achievements :</strong>
+<p><strong>Our Achievements:</strong>
 </p>
+<p>2025: Performed at Chongzheng 40th Anniversary Musical</p>
 <p>2024: Awarded Distinction at SYF 2024 Choir Arts Presentation</p>
 <p>2022: Performed at SYF 2022 Choir Arts Presentation (non-benchmarked)</p>
 <p>2019: Awarded Distinction in the ABRSM (Choral) examination</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_picture_with_wordings.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Choir Final Practice before heading to SOTA for SYF2024" src="/images/Slide6.jpg">
 </div>
