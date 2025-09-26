@@ -12,23 +12,21 @@ variant: tiptap
 <p>Ms Emelyne Quek (Main-in-charge)</p>
 </li>
 <li>
-<p>Mdm Kamaliah</p>
+<p>Mdm Kamaliah Abdul Jalil</p>
+<p></p>
 </li>
 </ol>
-<p><strong>CCA Leaders :</strong>
+<p><strong>CCA Leaders:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairman - Gemma Chng Nor Faizal (5ST)</p>
+<p>Chairman - Fan Yutong (5RY)</p>
 </li>
 <li>
-<p>Chairman - Sim Kah Yee (5ST)</p>
+<p>Chairman - Kathryn Ong Xin Hui (5RY)</p>
 </li>
 <li>
-<p>Vice-Chairman – Fan Yutong (4IN)</p>
-</li>
-<li>
-<p>Vice Chairman – Kathryn Ong Xin Hui (4IN)</p>
+<p>Vice-Chairman – Zealyn Zeng Ziling (4EM)</p>
 <p></p>
 </li>
 </ul>
@@ -63,10 +61,14 @@ and urban farming, and how we can achieve Singapore’s 30 by 30 initiative
 <p></p>
 </li>
 <li>
-<p>STEM activity – Students learn to use recycled materials to make a paddleboat
-from plastic bottles, satay sticks and rubber band.&nbsp;</p>
+<p>STEM activities – To explore real-world environmental challenges and spark
+curiosity and problem-solving in sustainability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Stem_Activity.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_1.jpg">
 </div>
 <p></p>
 </li>
@@ -78,7 +80,7 @@ from plastic bottles, satay sticks and rubber band.&nbsp;</p>
 <p></p>
 </li>
 <li>
-<p>Growing vegetables, pack and distribute to the teachers in the school</p>
+<p>Growing pack and distribute to the teachers in the school</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Growing__packing_and_distributing_vegetables.jpg">
 </div>
