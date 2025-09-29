@@ -51,7 +51,7 @@ as well as traditional cultural instruments like <strong>Indian</strong> and <st
 They strengthen communication skills through ensemble work and deepen their
 understanding of musical elements, and cultural expressions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spiral_Music_Curriculum_Primary_3_and_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spiral_Music_Curriculum_Primary_3_and_4_R.jpg">
 </div>
 <p>•<strong>Primary 5 and 6</strong>
 </p>
@@ -59,8 +59,9 @@ understanding of musical elements, and cultural expressions.</p>
 a <strong>pop band </strong>and <strong>angklung ensemble</strong>. They
 create their own arrangements, explore more complex musical skills and
 concepts, and grow in collaboration, global awareness, and civic literacy.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spiral_Music_Curriculum_Primary_5_and_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spiral_Music_Curriculum_Primary_5_and_6_R.jpg">
 </div>
 <p><strong>Instrumental Focus</strong>
 </p>
@@ -101,10 +102,10 @@ community and celebrate one another</p>
 <p>Through CZnergy, students shine as individuals while strengthening the
 bonds of the Chongzheng community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CZnergy_Photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CZnergy_Photo_1_R.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CZnergy_Photo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CZnergy_Photo_2_R.jpg">
 </div>
 <p>•<strong>Concerts and Assembly Programmes<br></strong>Concerts and assembly
 programmes bring the school together to appreciate and celebrate music.

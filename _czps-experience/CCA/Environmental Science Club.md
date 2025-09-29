@@ -80,9 +80,17 @@ curiosity and problem-solving in sustainability.</p>
 <p></p>
 </li>
 <li>
-<p>Growing pack and distribute to the teachers in the school</p>
+<p>Growing, packing and distributing vegetables to the teachers in the school</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Growing__packing_and_distributing_vegetables.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_3.jpg">
 </div>
 <p></p>
 </li>
@@ -91,6 +99,10 @@ curiosity and problem-solving in sustainability.</p>
 can be transformed into something new and better than what they were before.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Engaging_in_upcycling_activities.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_4.jpg">
 </div>
 <p></p>
 </li>
@@ -109,7 +121,34 @@ club!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BZrYnQTKK-E?si=dUcLrn-QTGjpqvDE"></iframe>
 </div>
-<p></p>
 </li>
 </ol>
+<p><strong>Community Outreach</strong>
+</p>
+<p>Community outreach initiatives to inspire everyday green habits, encouraging
+sustainable actions for lasting impact.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_8.jpg">
+</div>
+<p><strong>Achievements</strong>
+</p>
+<p>Singapore Science and Engineering Festival 2025 - Science For Good! Contest
+- Top Entry (Primary Category)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_9.jpg">
+</div>
+<p></p>
 <p></p>
