@@ -48,7 +48,39 @@ sport each year.</p>
 <p>Modular CCA (Sports) is an excellent platform for students to discover
 their interest and talent and keep fit. Through sports and games, we also
 inculcate values so that students may grow and develop good character traits.&nbsp;</p>
-<div class="iframe-wrapper">
-<iframe height="480" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IB7YnktAupM"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_pic_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/modular_sports_9.png">
 </div>
 <p></p>
