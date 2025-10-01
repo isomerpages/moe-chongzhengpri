@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>PE, ART &amp; MUSIC (PAM) DEPARTMENT</strong></h4>
-<p><strong>MR MAHATHIR B MOHAMED SAMAN - HOD PE &amp; CCA </strong>
+<p><strong>MR MAHATHIR B MOHAMED SAMAN - HOD PE &amp; CCA</strong>
 </p>
 <p><strong>MR TEO YIN SONG GERALD - SUBJECT HEAD AESTHETICS</strong>
 </p>
@@ -92,6 +92,6 @@ to enjoy a lifetime of active and healthy living, safely and responsibly.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Event_Pic_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Event_Pic_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM_.png">
 </div>
 <p></p>
