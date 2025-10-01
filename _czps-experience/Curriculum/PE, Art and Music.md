@@ -11,8 +11,8 @@ individual who leads an active and healthy living lifestyle.</p>
 <p><strong>Mission: </strong>Every student to be equipped with the knowledge
 and skills in PE to enjoy an active and healthy living lifestyle, anchored
 on the core values.</p>
-<p><strong>PE Teachers:<br></strong>Mr Mahathir B Mohamed Saman (HOD PE,
-CCA &amp; Aesthetics)</p>
+<p><strong>PE Teachers:<br></strong>Mr Mahathir B Mohamed Saman (HOD PE &amp;
+CCA)</p>
 <p>Mr Peter Seah</p>
 <p>Mrs Sharon Tan</p>
 <p>Mr Rafey</p>
