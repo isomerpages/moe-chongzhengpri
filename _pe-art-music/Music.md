@@ -57,7 +57,6 @@ understanding of musical elements, and cultural expressions.</p>
 a <strong>pop band </strong>and <strong>angklung ensemble</strong>. They
 create their own arrangements, explore more complex musical skills and
 concepts, and grow in collaboration, global awareness, and civic literacy.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spiral_Music_Curriculum_Primary_5_and_6_R.jpg">
 </div>
@@ -77,7 +76,7 @@ platforms:</p>
 <p>•<strong>CZnergy (Talent Showcase)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CZnergy_Logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cznergy.png">
 </div>
 <p>More than a talent show, CZnergy (pronounced <em>synergy</em>) is our student-led
 performance platform that celebrates creativity, collaboration, and joy.
