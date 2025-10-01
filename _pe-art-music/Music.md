@@ -41,8 +41,6 @@ experiencing music from different cultures.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spiral_Music_Curriculum_Primary_1_and_2.jpg">
 </div>
-<p>We adopt a spiral curriculum where learning builds progressively across
-the six years of primary school:</p>
 <p>•<strong>Primary 3 and 4</strong>
 </p>
 <p>Students expand their horizons by exploring songs from diverse cultures.
