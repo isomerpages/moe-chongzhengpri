@@ -115,5 +115,10 @@ performances and to share their own with the school community</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Concerts_and_Assembly_Programmes_2.jpg">
 </div>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>PAMFEST!</strong>
+</p>
+</li>
+</ul>
 <p></p>
