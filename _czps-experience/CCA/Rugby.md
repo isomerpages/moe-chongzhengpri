@@ -23,21 +23,24 @@ variant: tiptap
 <li>
 <p>Ms Li Xin Xin</p>
 </li>
+<li>
+<p>Miss Angela Low</p>
+</li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Danial Anaqhi bin Muhamad Zuhri (5IN)</p>
+<p>Captain – Shlok Menon (5RY)</p>
 </li>
 <li>
-<p>Captain – Oliver Ong Jin Feng (5RY)</p>
+<p>Captain – Lim Shao Long Curtis (5IN)</p>
 </li>
 <li>
-<p>Vice Captain – Shlok Menon (4IN)</p>
+<p>Vice Captain – Ayden Rayyan Bin Mohamad Abdul Alim (4IN)</p>
 </li>
 <li>
-<p>Vice Captain – Lim Shao Long Curtis (4RY)</p>
+<p>Vice Captain – Muhammad Eshan Nazran Bin Muhammad Muntazir (4ST)</p>
 </li>
 </ul>
 <p><strong>Description:</strong>
@@ -61,7 +64,7 @@ kick off as well as receiving kicks which are all part of the game.</p>
 7.30 am to 9.00 am for all players from Primary 3 to Primary 6. Players
 who show sufficient skills and capability will be chosen to represent the
 school and there will be extra training for these players on Wednesdays
-(3.00pm to 5.00pm) and Fridays (2.00 pm to 4.30pm).</p>
+and Fridays.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/rugby1.png">
