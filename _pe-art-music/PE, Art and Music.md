@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>PE, ART &amp; MUSIC (PAM) DEPARTMENT</strong></h4>
-<p><strong>MR MAHATHIR B MOHAMED SAMAN - HOD PE, CCA &amp; AESTHETICS</strong>
+<p><strong>MR MAHATHIR B MOHAMED SAMAN - HOD PE &amp; CCA</strong>
+</p>
+<p><strong>MR TEO YIN SONG GERALD - SUBJECT HEAD AESTHETICS</strong>
 </p>
 <h4><strong>Physical Education Department</strong></h4>
 <p><strong>Vision:</strong> Every Chongzheng student a physically educated
@@ -15,11 +17,11 @@ and skills in PE to enjoy an active and healthy living lifestyle, anchored
 on the core values.</p>
 <p><strong>PE Teachers:</strong>
 </p>
-<p>Mr Mahathir B Mohamed Saman (HOD PE, CCA &amp; Aesthetics)</p>
+<p>Mr Mahathir B Mohamed Saman (HOD PE &amp; CCA)</p>
 <p>Mr Peter Seah</p>
 <p>Mrs Sharon Tan</p>
 <p>Mr Rafey</p>
-<p>Mr Teo Beng Hwee</p>
+<p>Dr Shawn Peh</p>
 <p>Mr Ling Wei Yong</p>
 <p>Mr Ryan Pek</p>
 <p><strong>PE Curriculum Framework</strong>
@@ -71,7 +73,7 @@ to enjoy a lifetime of active and healthy living, safely and responsibly.</p>
 <p>Assembly Talks/ Roving Exhibitions</p>
 </li>
 <li>
-<p>Active Kids Programme</p>
+<p>FitQuest Programme</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -90,6 +92,6 @@ to enjoy a lifetime of active and healthy living, safely and responsibly.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Event_Pic_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_Event_Pic_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAM_.png">
 </div>
 <p></p>

@@ -41,8 +41,6 @@ experiencing music from different cultures.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spiral_Music_Curriculum_Primary_1_and_2.jpg">
 </div>
-<p>We adopt a spiral curriculum where learning builds progressively across
-the six years of primary school:</p>
 <p>•<strong>Primary 3 and 4</strong>
 </p>
 <p>Students expand their horizons by exploring songs from diverse cultures.
@@ -59,7 +57,6 @@ understanding of musical elements, and cultural expressions.</p>
 a <strong>pop band </strong>and <strong>angklung ensemble</strong>. They
 create their own arrangements, explore more complex musical skills and
 concepts, and grow in collaboration, global awareness, and civic literacy.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spiral_Music_Curriculum_Primary_5_and_6_R.jpg">
 </div>
@@ -79,7 +76,7 @@ platforms:</p>
 <p>•<strong>CZnergy (Talent Showcase)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CZnergy_Logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cznergy.png">
 </div>
 <p>More than a talent show, CZnergy (pronounced <em>synergy</em>) is our student-led
 performance platform that celebrates creativity, collaboration, and joy.
@@ -117,5 +114,10 @@ performances and to share their own with the school community</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Concerts_and_Assembly_Programmes_2.jpg">
 </div>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>PAMFEST!</strong>
+</p>
+</li>
+</ul>
 <p></p>
