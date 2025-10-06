@@ -9,13 +9,13 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Norisah (Main-in-charge)</p>
+<p>Mdm Norisah Ismail (Main-in-charge)</p>
 </li>
 <li>
-<p>Mdm Jahiza</p>
+<p>Mdm Jahiza Jamaludin</p>
 </li>
 <li>
-<p>Mdm Hasnita</p>
+<p>Mdm Hasnita Surani</p>
 <p></p>
 </li>
 </ol>
@@ -25,23 +25,23 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nuryn Qistina Binte Zulkifli (6C)</p>
+<p>Keok Zhan Rui (5RTY)</p>
 </li>
 <li>
-<p>Goh Chen Faye (6C)</p>
+<p>Gabrielle Lee Xue Ling (5ST)</p>
 </li>
 </ul>
 <p><strong>Assistant Leader</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chan Suan Zann, Elise (5ST)</p>
+<p>Nur Maryam Anati Bte Mohd Farhan (4IN)</p>
 </li>
 <li>
-<p>Chze Yi Xuan (5EM)</p>
+<p>Eva Maria Bijo (4ST)</p>
 </li>
 </ul>
-<p><strong>Description :</strong>
+<p><strong>Description:</strong>
 </p>
 <p>CZPS Art and Craft is a vibrant platform that brings together students
 with a passion for art, encouraging them to express their creativity through
@@ -66,9 +66,13 @@ further enhance their artistic growth while giving back to the community.</p>
 <li>
 <p>Our P5s and P6s, - Category C Mixed Media Artwork, were selected for SYF
 Arts Presentation 2017, 2019, 2021 and 2023. Our Cat A was selected in
-2021 and Cat B are also in the online and print SYF Journals for 2017,
+2021 and Cat B were also in the online and print SYF Journals for 2017,
 2019, 2021 and 2023.</p>
-<p></p>
+</li>
+<li>
+<p>Our Category A, B and C are in the currently displayed in the Singapore
+Youth Festival (SYF) 2025 Online Art Exhibition Online Gallery and Exhibition
+e-Catalogue.</p>
 </li>
 <li>
 <p>Art Community</p>
@@ -86,13 +90,15 @@ Arts Presentation 2017, 2019, 2021 and 2023. Our Cat A was selected in
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2017, 2019, 2021 and 2023</strong>
+<p><strong>2017, 2019, 2021, 2023 and 2025</strong>
 </p>
-<p><strong>All 3 Categories - Cat A ,B C are in the online and print SYF Journals for all 4 years .&nbsp;</strong>
+<p><strong>All 3 Categories - Cat A ,B C, can be found on the Online Art Gallery at the following website:<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.syf.gov.sg/art-exhibition/the-online-art-gallery</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Category ‘C’ were selected for onsite exhibition in all 4 years. Category ‘A’ was selected for onsite exhibition for 2021.</strong>
+<p><strong>Category ‘C’ were selected for onsite exhibition in all 4/5 years.</strong>
+</p>
+<p><strong>Category ‘A’ was selected for onsite exhibition for 2021.</strong>
 </p>
 </td>
 </tr>
@@ -106,7 +112,9 @@ Arts Presentation 2017, 2019, 2021 and 2023. Our Cat A was selected in
 </p>
 <p><strong>2018 – Payong Batik 1000 display</strong>
 </p>
-<p><strong>2019 –Chingay 2020 – Building the Bridge of Harmony</strong>
+<p><strong>2019 –Chingay </strong>
+</p>
+<p><strong>2020 – Building the Bridge of Harmony</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,9 +132,14 @@ Arts Presentation 2017, 2019, 2021 and 2023. Our Cat A was selected in
 </p>
 <p><strong>Cip Project of HDB Friendly Faces Lively Places (FFLP)</strong>
 </p>
+<p>&nbsp;</p>
+<p><strong>2024- Tampines Down Town Line</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Art Club members facilitated and assisted an acrylic painting activity</strong>
+</p>
+<p><strong>Art Club members planned and painted a 3D bus.</strong>
 </p>
 </td>
 </tr>
