@@ -9,46 +9,54 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Sharifah Zaleha (Main-in-charge)</p>
+<p>Mdm Sharifah Zaleha Syed Mansor (Main-in-charge)</p>
 </li>
 <li>
-<p>Mrs Ivory Ho</p>
+<p>Mdm Koh Hui Tian</p>
 </li>
 <li>
-<p>Ms Aileen Tan</p>
+<p>Ms Kwek Meei Hui Aileen</p>
 </li>
 <li>
-<p>Miss Sim Yuxian</p>
+<p>Miss Sim Yu Xian</p>
 </li>
 <li>
-<p>Ms Julia Sim</p>
+<p>Ms Sim Hui Ting Julia</p>
 </li>
 </ol>
-<p><strong>CCA School Leaders:</strong>
+<p><strong>CCA School Leaders 2025:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Leader&nbsp;</strong>- Denzel Ho Jun Rui (5EM) and Ong Pei Rui
-Olivia (5ST)</p>
+<p>Sim Kylie (5ST)</p>
 </li>
 <li>
-<p><strong>Assistant Leader&nbsp;</strong>- Sim Kylie (4IN) and Jovan Lee
-Hong Rui (4RY)</p>
+<p>Jovan Lee Hong Rui (5EM)</p>
 </li>
 </ul>
-<p><strong>CCA Team Leaders:</strong>
+<p><strong>CCA Team Leaders 2025:</strong>
+</p>
+<p><strong><u>Leaders</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Leader&nbsp;</strong>-Ding Yu Tong Kyla (5EM) and Toh Yan Kai
-Regan (5EM)</p>
+<p>Ong Yu Xiang (5EM)</p>
 </li>
 <li>
-<p><strong>Assistant Leader&nbsp;</strong>- Ong Yu Xiang (4IN) and Gabriel
-Tan Hou Yuen (4ST)</p>
+<p>Gabriel Tan Hou Yuen (5ST)</p>
 </li>
 </ul>
-<p><strong>Description :</strong>
+<p><strong><u>Assistant Leaders</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teo Shihan Bryan (4RT)</p>
+</li>
+<li>
+<p>Lim Jun Han Kiev (4IN)</p>
+</li>
+</ul>
+<p><strong>Description:</strong>
 </p>
 <p>The purpose of our CCA is to engage and train students in the sport of
 Wushu to build their core strength, agility and mastery of the skill. To
@@ -60,6 +68,33 @@ on special occasions and represent us in competitions.</p>
 </p>
 <p>To build up students’ health, confidence and self-discipline through the
 sport of Wushu.&nbsp;</p>
+<p><strong><u>National School Games 2025 Achievements</u></strong>
+</p>
+<p>Our school participated in the Wushu National School Games this year and
+we are very proud to achieve the following medals<strong>:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu44.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wuhsu55.png">
+</div>
+<p></p>
 <p><strong>National School Games Wushu Championships 2024</strong>
 </p>
 <p>Our school participated in the Wushu National School Games this year and
@@ -259,5 +294,20 @@ we are proud to share the good news from the following students.</p>
 </table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20achievement%20photo.JPG">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu6.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu7.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu8.png">
 </div>
 <p></p>
