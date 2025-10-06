@@ -86,5 +86,3 @@ to the festivity of Tampines East Community Club’s National Day celebrations.<
 </div>
 <p>Marking our 40th Anniversary, the Malay Dance CCA lit up the stage with
 vibrant movements and cultural pride!</p>
-<p><strong>2024 SYF Competition</strong>
-</p>
