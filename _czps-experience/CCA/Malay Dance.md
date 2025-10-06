@@ -9,10 +9,10 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Siti Zubaidah (Main-in-charge)</p>
+<p>Mdm Siti Zubaidah Binti Sarip</p>
 </li>
 <li>
-<p>Mdm Maznah</p>
+<p>Mdm Maznah Binte Yusak</p>
 </li>
 <li>
 <p>Mdm Norisha Binte Ismail</p>
@@ -23,36 +23,36 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nur Eman Nuha Binte Muhammad Muntazir (5IN)</p>
+<p>Ayda Addinah Binte Muhammad Ashraf Adli (5EM)</p>
 </li>
 <li>
-<p>Noor Rifqah Binte Muhammad Kamal (5RT)</p>
-<p></p>
+<p>Azzahra Divirzza Binte Sa'at (5RT)</p>
 </li>
 </ul>
 <p><strong>Assistant Leaders:</strong>
 </p>
 <ul>
 <li>
-<p>Ayda Addinah Binte Muhammad Ashraf Adli (4RY)</p>
+<p>Rayna Farisha Binte Mohamed Farhan (4EM)</p>
 </li>
 <li>
-<p>Azzahra Divirzza Binte Sa'at (4ST)</p>
+<p>Mysha Imani Binte Jasman (4RT)</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Description :</strong>
+<p><strong>Description:</strong>
 </p>
-<p>The Malay Dance CCA welcomes students from Primary 3 to Primary 6. Practice
-sessions are held on Tuesdays during CCA periods, from 7.30 am to 9 am.
-Our dedicated dancers are trained in popular traditional dance forms, including
-Zapin, Joget, and Inang. The Malay Dance CCA proudly participates in the
-Singapore Youth Festival Arts Presentation (Primary) which is held every
-two years.</p>
-<p>This year, in 2024, our Malay dancers participated in the Singapore Youth
-Festival (SYF). They dedicated many hours to trainings, including additional
-afternoon practices in the lead-up to the event. Their hard work and commitment
-were rewarded with the Accomplishment Award.</p>
+<p>The Malay Dance CCA comprises of students from Primary 3 to Primary 6.
+Trainings are conducted on Tuesdays during curriculum time from 7.30 am
+to 9.00 am.</p>
+<p>The Malay Dance CCA provides students with the opportunity to explore
+and appreciate the rich heritage of Malay culture through dance. Members
+develop discipline and confidence as they train the dance forms. Through
+teamwork and dedication, they learn values such as perseverance and respect
+while working towards polished performances. Students also gain valuable
+opportunities to showcase their talents at school celebrations, community
+events, and the Singapore Youth Festival Arts Presentation (Primary) once
+every two years.</p>
 <p></p>
 <p>Achievements and Participations for the past 3 years:</p>
 <ul data-tight="true" class="tight">
@@ -60,27 +60,31 @@ were rewarded with the Accomplishment Award.</p>
 <p>Participated in 2022 SYF performance.</p>
 </li>
 <li>
-<p>Participated in 2023 and 2024 Hari Raya Concert performance.</p>
+<p>Participated in 2024 SYF Competition and awarded Accomplishment.</p>
 </li>
 <li>
-<p>Participated in 2024 SYF Competition and awarded Accomplishment.</p>
+<p>Participated in 2025 Hari Raya Celebration, National Day Carnival at Tampines
+East Community Centre and Chongzheng Primary School’s 40<sup>th</sup> Anniversary
+Musical.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay1.jpg">
+</div>
+<p>Our Malay Dance CCA students presented a graceful performance that added
+to the festivity of Tampines East Community Club’s National Day celebrations.</p>
 </li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2022 SYF Presentation" src="/images/2022_SYF_Presentation.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay2.png">
 </div>
-<p><strong>2022 SYF Presentation</strong>
-</p>
+<p>Celebrating Hari Raya with joy, rhythm and the beauty of tradition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024_SYF Competition" src="/images/2024_SYF_Competition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay3.png">
 </div>
-<p><strong>2024 SYF Competition</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024_SYF Competition_Pic 2" src="/images/2024_SYF_Competition_2.jpg">
-</div>
+<p>Marking our 40th Anniversary, the Malay Dance CCA lit up the stage with
+vibrant movements and cultural pride!</p>
 <p><strong>2024 SYF Competition</strong>
 </p>
