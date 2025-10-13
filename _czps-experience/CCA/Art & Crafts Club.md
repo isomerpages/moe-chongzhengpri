@@ -112,7 +112,7 @@ e-Catalogue.</p>
 </p>
 <p><strong>2018 – Payong Batik 1000 display</strong>
 </p>
-<p><strong>2019 –Chingay </strong>
+<p><strong>2019 –Chingay</strong>
 </p>
 <p><strong>2020 – Building the Bridge of Harmony</strong>
 </p>
@@ -174,12 +174,28 @@ e-Catalogue.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Collaborative Art</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_club_website.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/artclub1.png">
+</div>
+<p></p>
+<p><strong>Collaboration with Downtown Line and Land Transport Authority to create and exhibit Our 3D Bus Model</strong>
+</p>
+<p></p>
+<p><strong>Learning Journey</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/artclub2.png">
 </div>
 </li>
 </ol>
+<p><strong>Art and Crafts Club Learning Journey to the Singapore Youth Festival 2025 Art Exhibition</strong>
+</p>
+<p><strong>Art Club Activities</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="479" width="876" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IIMd4ATsSQg"></iframe>
 </div>
