@@ -82,6 +82,10 @@ their group discussion.</p>
 <div class="iframe-wrapper">
 <iframe height="864" width="1536" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NVLe6p5b50A"></iframe>
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_parents_workshop_for_website.jpg">
+</div>
 <p><strong>Chinese Language Competitions</strong>
 </p>
 <p></p>
