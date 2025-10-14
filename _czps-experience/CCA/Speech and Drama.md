@@ -64,3 +64,7 @@ a live audience outside the school setting.</p>
 <p>Every student who joins Speech and Drama CCA will indeed embark on a transformative
 journey of creativity, self-expression, and personal growth.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/speech_drama1.png">
+</div>
+<p></p>
