@@ -99,19 +99,16 @@ competitions, including the National School Games.</p>
 </p>
 <p><strong>2025 Senior Girls</strong>
 </p>
+<p><strong>2025 J2 Boys</strong>
+</p>
+<p><strong>2025 J2 Girls</strong>
+</p>
+<p><strong>2025 J1 Boys</strong>
+</p>
+<p><strong>2025 J1 Girls</strong>
+</p>
+<p><strong>2025 Hockey Carnival at Raffles Institution</strong>
+</p>
 <p></p>
-<p><strong>J1 Girls</strong>
-</p>
-<p><strong>J1 Boys</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hockey_5.jpg">
-</div>
-<p><strong>J2 Boys</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hockey_6.jpg">
-</div>
-<p><strong>J2 Girls</strong>
-</p>
+<p></p>
 <p></p>
