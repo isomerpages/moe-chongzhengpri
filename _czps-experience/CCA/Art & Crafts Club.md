@@ -196,5 +196,7 @@ e-Catalogue.</p>
 </p>
 <p><strong>Art Club Activities</strong>
 </p>
-<p><a rel="noopener nofollow" target="_blank">Video</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sZkYSgLTtCc?si=P6y4_E7YC7-IiOYG"></iframe>
+</div>
+<p></p>
