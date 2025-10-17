@@ -78,6 +78,28 @@ their group discussion.</p>
 <p><strong>小五和小六作品、高华课程<br></strong><a href="https://flipbookpdf.net/web/site/85b6b96fc0ae2ea119171560cfac4cfc662db1fe202504.pdf.html" rel="noopener nofollow" target="_blank">https://flipbookpdf.net/web/site/85b6b96fc0ae2ea119171560cfac4cfc662db1fe202504.pdf.html</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL10.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL12.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL13.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL14.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL15.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_parents_workshop_for_website.jpg">
