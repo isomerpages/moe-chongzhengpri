@@ -77,11 +77,7 @@ their group discussion.</p>
 </p>
 <p><strong>小五和小六作品、高华课程<br></strong><a href="https://flipbookpdf.net/web/site/85b6b96fc0ae2ea119171560cfac4cfc662db1fe202504.pdf.html" rel="noopener nofollow" target="_blank">https://flipbookpdf.net/web/site/85b6b96fc0ae2ea119171560cfac4cfc662db1fe202504.pdf.html</a>
 </p>
-<p><strong>Chongzheng Chinese Reading Programme – 2025 Term 1 Update</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="864" width="1536" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NVLe6p5b50A"></iframe>
-</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_parents_workshop_for_website.jpg">
