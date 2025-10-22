@@ -22,17 +22,16 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sixer – Leora Lam Qing Yun (6ST)</p>
+<p>Sixer – Thoon Yuya Linn (5ST)</p>
 </li>
 <li>
-<p>Sixer – Harshini D/O Youvanesvaran (6RY)</p>
+<p>Sixer – Banafsha Laila Binte Muhammad Ardhilla (5IN)</p>
 </li>
 <li>
-<p>Assistant Sixer - Banafsha Laila Binte Muhammad Ardhilla (5IN)</p>
+<p>Assistant Sixer - Kyi Phyu Htut Shan (4EM)</p>
 </li>
 <li>
-<p>Assistant Sixer - Thoon Yuya Linn (5ST)</p>
-<p></p>
+<p>Assistant Sixer - Sin Yu En Jaelyn (4IN)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
