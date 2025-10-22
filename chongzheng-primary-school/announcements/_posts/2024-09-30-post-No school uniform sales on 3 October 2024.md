@@ -7,12 +7,15 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Parents/Guardians,</p>
-<p>We would like to inform you that there will be no sale of school uniforms
-on Thursday, 3 October 2024, at the school premises. We apologize for any
-inconvenience this may cause.</p>
-<p>Thank you for your understanding.</p>
+<p>Dear Parents and Guardians,</p>
+<p>We would like to inform you that the final day for school uniform sales
+will be Wednesday, 30 October 2025.</p>
+<p>Please stay tuned for our year-end sale schedule, which will be announced
+shortly.</p>
+<p>We apologise for any inconvenience this may cause and encourage you to
+make your purchases before the deadline or you may order via online.</p>
+<p>Thank you for your understanding and cooperation.</p>
 <p>Yours sincerely,</p>
-<p>School Admin Team</p>
+<p>School Administration Team</p>
 <p></p>
 <p></p>
