@@ -67,7 +67,7 @@ and 4th Position for Smorphi Robotic Challenge)</p>
 <p></p>
 </li>
 <li>
-<p>NRC - Smorphie Imaginary Challenge ( Certificate of Participation)</p>
+<p>NRC - Smorphi Imaginary Challenge ( Certificate of Participation)</p>
 </li>
 </ul>
 <p><strong>2024</strong>
