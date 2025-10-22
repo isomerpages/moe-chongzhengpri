@@ -40,7 +40,7 @@ variant: tiptap
 <p>Vice Chairman - Megat Rizq Arsel (4RY)</p>
 </li>
 <li>
-<p>Vice Chairman - Yeo Yu Yuan, Audric (4RY)</p>
+<p>Vice Chairman - Yeo Yu Xuan, Audric (4RY)</p>
 </li>
 </ul>
 <p><strong>Description:&nbsp;</strong>
