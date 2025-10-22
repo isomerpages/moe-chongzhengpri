@@ -31,16 +31,16 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairman - Imran Bin Muhammad Firdaus (5ST)</p>
+<p>Chairman - Derrick Loo(5ST)</p>
 </li>
 <li>
-<p>Chairman - Lowe Tang Yu Lok(Deng Yule) (5ST)</p>
+<p>Chairman - Khong San Koil (5ST)</p>
 </li>
 <li>
-<p>Vice Chairman - Derrick Loo(4EM)</p>
+<p>Vice Chairman - Megat Rizq Arsel (4RY)</p>
 </li>
 <li>
-<p>Vice Chairman - Khong San Koil (4EM)</p>
+<p>Vice Chairman - Yeo Yu Yuan, Audric (4RY)</p>
 </li>
 </ul>
 <p><strong>Description:&nbsp;</strong>
@@ -58,7 +58,19 @@ competitions at national level, such as the annual Schools Digital Media
 Awards (SDMA), National Schools Photography Competition and many more.</p>
 <p><strong>Achievements:</strong>
 </p>
-<p>2024</p>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>RoboroarZ Singapore 2025 (3rd position for Smorphie Imaginary Catagory
+and 4th Position for Smorphie Robotic Challenge)</p>
+</li>
+<li>
+<p>NRC - Smorphie Imaginary Challenge ( Certifcate of Participation)</p>
+</li>
+</ul>
+<p><strong>2024</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Artificial Intelligence Festival@Yu Neng Primary School (2nd Runner up)</p>
@@ -76,6 +88,7 @@ Awards (SDMA), National Schools Photography Competition and many more.</p>
 <img style="width: 100%" height="auto" width="100%" alt="RoboRoarZ International 2024 Competition" src="/images/RoboRoarz_2024.png">
 </div>
 <p></p>
-<p>2023</p>
+<p><strong>2023</strong>
+</p>
 <p>North Zone Hackathon @Montfort Primary School ( Won 3 out of 5 categories)</p>
 <p></p>
