@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Dear Parents and Guardians,</p>
 <p>We would like to inform you that the final day for school uniform sales
-will be Wednesday, 30 October 2025.</p>
+will be Thursday, 30 October 2025.</p>
 <p>Please stay tuned for our year-end sale schedule, which will be announced
 shortly.</p>
 <p>We apologise for any inconvenience this may cause and encourage you to
