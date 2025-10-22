@@ -8,12 +8,12 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Parents and Guardians,</p>
-<p>We would like to inform you that the final day for school uniform sales
-will be Thursday, 30 October 2025.</p>
+<p>We would like to inform you that the last day for school uniform sales
+for this term will be Thursday, 30 October 2025.</p>
 <p>Please stay tuned for our year-end sale schedule, which will be announced
 shortly.</p>
 <p>We apologise for any inconvenience this may cause and encourage you to
-make your purchases before the deadline or you may order via online.</p>
+make your purchases before the deadline or order online.</p>
 <p>Thank you for your understanding and cooperation.</p>
 <p>Yours sincerely,</p>
 <p>School Administration Team</p>
