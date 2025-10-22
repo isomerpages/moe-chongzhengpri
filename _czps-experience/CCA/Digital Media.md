@@ -62,8 +62,8 @@ Awards (SDMA), National Schools Photography Competition and many more.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>RoboroarZ Singapore 2025 (3rd position for Smorphie Imaginary Catagory
-and 4th Position for Smorphie Robotic Challenge)</p>
+<p>RoboroarZ Singapore 2025 (3rd position for Smorphi Imaginary Catagory
+and 4th Position for Smorphi Robotic Challenge)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_22_at_13_59_33.jpg">
