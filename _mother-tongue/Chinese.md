@@ -82,6 +82,8 @@ their group discussion.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL10.png">
 </div>
 <p></p>
+<p><a href="https://youtube.com/shorts/fKhQyPGI180?feature=share" rel="noopener nofollow" target="_blank">Reading Carnival 2025</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL12.png">
