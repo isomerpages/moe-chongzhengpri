@@ -58,8 +58,7 @@ access the school uniform website.</p>
 <img style="width: 75%;" height="auto" width="100%" src="/images/gi3.jpeg">
 </div>
 <p>Tel:&nbsp;8940 1137
-<br>Opening Hours:
-<br>Monday &amp; Wednesday, 8am - 5.30pm</p>
+<br>Opening Hours: Alternate weeks (Mon-Thu: 8:00 a.m. - 5:00 p.m.)</p>
 <p><a href="https://go.gov.sg/dental-clinic-opening-schedule" rel="noopener" target="_blank">Click here </a>for
 the clinic's opening schedule.</p>
 <p></p>
