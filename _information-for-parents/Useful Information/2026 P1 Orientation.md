@@ -8,7 +8,10 @@ variant: tiptap
 <h4><strong>Materials from the P1 Orientation</strong></h4>
 <p><a href="https://for.edu.sg/p1-orientation-admin-briefing-slide" rel="noopener nofollow" target="_blank">2026 P1 Orientation Administrative Matters Briefing</a>
 </p>
-<p></p>
+<p><a href="https://for.edu.sg/ckmm-briefing-slides-2026-p1-orientation" rel="noopener nofollow" target="_blank">2026 P1 Orientation Central Kitchen Meal Model (CKMM) with POSB Smart Buddy</a>
+</p>
+<p><a href="https://for.edu.sg/ckmm-faq" rel="noopener nofollow" target="_blank">2026 P1 Orientation Central Kitchen Meal Model (CKMM) Frequently Asked Questions (FAQ)</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
