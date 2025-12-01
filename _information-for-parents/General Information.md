@@ -84,8 +84,19 @@ access the website.</p>
 <p>Submission of claim, please <a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener" target="_blank">click here</a>
 </p>
 <p></p>
-<p></p>
-<p></p>
+<p>Chongzheng Booklists 2026:</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_2.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_3.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_4.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_5.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_6.pdf" rel="noopener nofollow" target="_blank">Primary 6</a>
+</p>
 </td>
 </tr>
 <tr>
