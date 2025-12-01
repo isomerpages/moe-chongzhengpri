@@ -73,6 +73,20 @@ the clinic's opening schedule.</p>
 <p><a href="https://thecontinental.sg/" rel="noopener" target="_blank">Click here </a>to
 access the school book shop website.</p>
 <p></p>
+<p>2026 Booklists:</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_2.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_3.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_4.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_5.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
+</p>
+<p><a href="/files/Chongzheng_Booklist_2026_Primary_6.pdf" rel="noopener nofollow" target="_blank">Primary 6</a>
+</p>
+<p></p>
 <p><strong>Student's Protection Plan<br></strong>NTUC Income Insurance Co-operative
 Limited Income Centre
 <br>75 Bras Basah Road
@@ -83,7 +97,6 @@ access the website.</p>
 <p></p>
 <p>Submission of claim, please <a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener" target="_blank">click here</a>
 </p>
-<p></p>
 <p></p>
 <p></p>
 </td>
