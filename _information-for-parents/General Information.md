@@ -22,9 +22,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>School Hours</strong>
 <br>Monday - Friday: 7.30am - 1.30pm
-<br>P1 &amp; P2 Recess : 9.00am - 9.30am
-<br>P3 &amp; P4 Recess : 9.30am - 10.00am
-<br>P5 Recess : 10.00am - 10.30am
+<br>P1 &amp; P3 Recess: 9.00am - 9.30am</p>
+<p>P2 &amp; P4 Recess: 9.30am - 10.00am
+<br>P5 Recess: 10.00am - 10.30am
 <br>P6 Recess: 10.30am - 11.00am&nbsp;
 <br>All pupils have to report to their classroom by 7.30am.</p>
 <p><strong>School Backgate opening hours<br></strong>Monday - Friday: 6.45am
