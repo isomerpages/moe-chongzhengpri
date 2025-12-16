@@ -2,8 +2,8 @@ collections:
   information-for-parents:
     output: true
     order:
-      - General Information/Dental Service.md
       - General Information/.keep
+      - General Information/Dental Service.md
       - General Information/School Hours.md
       - General Information/School Uniform.md
       - General Information/School Bus Service.md
