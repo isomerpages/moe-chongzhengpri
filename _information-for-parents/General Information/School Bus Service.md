@@ -13,7 +13,7 @@ third_nav_title: General Information
 <br>HP: 9457 2373 (Mrs Lim)</p>
 <p>To book school bus, please submit your application by <a href="https://www.bedoktransport.com/bedok_transport/register" rel="noopener" target="_blank"><u>clicking here</u></a>
 </p>
-<p><strong>Period: 01 Jan 2026 to 31 Dec 2028</strong>
+<p><strong>Period: 01 Jan 2026 to 31 Dec 2027</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
