@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - General Information/Student's Protection Plan.md
       - General Information/.keep
       - General Information/School Hours.md
       - General Information/School Uniform.md
