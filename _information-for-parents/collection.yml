@@ -2,8 +2,8 @@ collections:
   information-for-parents:
     output: true
     order:
-      - School Bus Services/General Information.md
-      - School Bus Services/.keep
+      - General Information/General Information.md
+      - General Information/.keep
       - Home School Partnership/Home School Partnership.md
       - Home School Partnership/Testimonials.md
       - Home School Partnership/.keep
