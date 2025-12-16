@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: General Information
 ---
-<p><strong>Student's Protection Plan<br></strong>NTUC Income Insurance Co-operative
-Limited Income Centre
+<p><strong>Student's Protection Plan</strong>
+</p>
+<p><strong>NTUC Income Insurance Co-operative Limited Income Centre</strong> 
 <br>75 Bras Basah Road
 <br>Singapore 189557
 <br>Tel: 6788 1777
