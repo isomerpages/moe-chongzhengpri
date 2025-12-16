@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General Informations/.keep
-      - General Informations.md
       - General Information/.keep
       - General Information/School Hours.md
       - General Information/School Uniform.md
