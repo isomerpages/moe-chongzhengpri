@@ -2,7 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
-      - General Information/School Hours and Recess.md
+      - General Information/School Hours.md
       - General Information/.keep
       - General Information/General Information.md
       - General Information/School Bus Services.md
