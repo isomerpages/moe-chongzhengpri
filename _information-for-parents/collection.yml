@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Bus Services/.keep
-      - General Information.md
       - Home School Partnership/Home School Partnership.md
       - Home School Partnership/Testimonials.md
       - Home School Partnership/.keep
