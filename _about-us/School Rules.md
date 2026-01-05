@@ -121,6 +121,122 @@ of the offence and could be in the form of:</p>
 <p></p>
 <p>Thereafter, counseling support from Year Heads, HOD Student Management
 and School Counsellor will be provided for the errant student(s).</p>
-<p></p>
+<h4><strong>Student Conduct Grade Descriptors</strong></h4>
+<p>Students will be assigned a conduct grade for each Semester. The conduct
+grades are determined by a holistic observation of the students’ demonstration
+of the school values, attendance, punctuality, respectful behaviour as
+well as general decorum.</p>
+<h4><strong><u>Demonstration of School Values</u></strong></h4>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> R</strong>espect</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>R</strong>esponsibility</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> I</strong>ntegrity</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>S</strong>teadfastness</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>E</strong>mpathy</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>C</strong>onfidence</p>
+<h4>Conduct Grade Levels</h4>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent – Values are consistently
+shown</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very Good – Values are shown most
+of the time</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good – Values are usually shown.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fair – Values are sometimes shown</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Poor – Values are not shown.</p>
+<h2>Factors that may affect Conduct Grade – Attendance and Punctuality</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Regular attendance and punctuality
+are crucial in helping the students establish positive habits. Arriving
+on time can also help students start the day on a more relaxed and positive
+note.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a student is late for more than
+5 times per semester, he / she will be issued a Letter of Warning. The
+student’s Conduct Grade will be affected and disciplinary action will be
+taken against the student.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frequent absences from school without
+a valid reason will also affect the conduct grade of a student.</p>
+<h2>Factors that may affect Conduct Grade – Behaviour</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A student’s behavior directly influences
+their conduct grade, as repeated actions form lasting habits. With positive
+choices such as respect, responsibility, and cooperation become ingrained
+over time. When students consistently respond well to daily situations,
+these good habits strengthen both character and conduct.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inappropriate attire and hairstyle.
+(Refer to listed expectations on Attire and Appearance)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Misbehavior in class / school and
+other offences.</p>
+<h2>Attire &amp; Appearance – School Uniform</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school uniform must be worn
+proudly at all times when students report to school daily, during CCAs,
+while attending enrichment classes or when returning during the school
+holidays.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to wear the prescribed
+school uniform and modifications to the uniform are not allowed.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On cold or rainy days, only plain
+white, grey or black jackets and windbreakers without bright colours and
+loud prints are allowed.</p>
+<h2>Uniform – Boys</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pair of dark blue shorts.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Light blue short- sleeved shirt.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shirt must be tucked in at all times.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Name tag must be sewn 1 cm above
+the pocket.</p>
+<h2>Uniform – Girls</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark blue pinafore.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Light blue short-sleeved blouse.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blouse must be tucked in at all
+times.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pinafore must be at knee-length.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Name tag must be sewn 1 cm above
+the school badge.</p>
+<h2>PE Attire</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PE t-shirt must be tucked in
+at all times.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PE attire should only be worn
+when there are PE/PAL lessons, CCA sessions or school learning journeys.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Track pants are not allowed unless
+permission has been granted by the Principal for medical reasons.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The name tag must be sewn 1 cm above
+the school badge.</p>
+<h2>Shoes and Socks</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White school socks are to be worn
+with white shoes. Ankle length socks are not permitted. Shoes must have
+either white laces or white velcro tape.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are allowed to put on a
+pair of sandals with a strap around the ankles if they have sustained injury
+on their foot. For safety reasons, no slippers are allowed.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shoes for CCA purposes should only
+be worn during CCA sessions. Students are to change to school shoes after
+CCA sessions.</p>
+<h2>Fingernails</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To maintain personal hygiene, fingernails
+are to be kept short and clean.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No nail polish or strengthener should
+be applied to fingernails.</p>
+<h2>Accessories</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only one pair of natural metal (Gold/Silver)
+ear studs, measuring not more than 0.2cm in height and width, may be worn
+for girls.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ornaments and accessories like friendship
+bands and bracelets are not permitted.</p>
+<h2>Clean-Shaven and Neat Facial Appearance for Male Students</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Male students must be neat in appearance.
+They must be clean-shaven and no facial hair is allowed.</p>
+<h2>Hairstyle for Male Students</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No colouring of hair</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fringe above eyebrows</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Normal slope at the side and back</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hair must not touch the collar</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No long sideburns are allowed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No undercut hairstyle is allowed</p>
+<h2>Hairstyle for Female Students</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No colouring of hair</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Length of hair does not extend beyond
+the collar</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fringe above the eyebrows</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hair accessories should be solid
+black or dark blue</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Long hair that touches the collar
+must be tied or plaited if long enough</p>
+<h2>Reference</h2>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents and students should refer
+to their Student Handbook for the school rules and expectations.</p>
 <p></p>
 <p></p>
