@@ -96,3 +96,31 @@ in vaping or smoking, the school will not only enforce internal disciplinary
 measures but will also work closely with the relevant law enforcement authorities
 to ensure appropriate consequences are applied. We seek your support in
 reinforcing this important message with your child.</p>
+<p>The school believes that good discipline is an important factor in promoting
+and creating a positive school with a conducive environment for all to
+learn and play in. We also seek to educate students from their mistakes
+and learn to restore relationships between peers and teachers.</p>
+<p></p>
+<p>Students learn well when there is order, safety, and discipline. At the
+same time, developing positive habits for life. While we do our best to
+teach and instill self-discipline in our students, we seek parents’ understanding
+that disciplinary action will be imposed on students who violate the school
+rules. Disciplinary actions meted out to students will depend on the severity
+of the offence and could be in the form of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;&nbsp;&nbsp; Project CARE (Removal of recess activities)</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp; Suspension (In school / From school)</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp; Warnings (Verbal / Written)</p>
+</li>
+</ul>
+<p></p>
+<p>Thereafter, counseling support from Year Heads, HOD Student Management
+and School Counsellor will be provided for the errant student(s).</p>
+<p></p>
+<p></p>
+<p></p>
