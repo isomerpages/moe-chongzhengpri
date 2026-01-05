@@ -144,28 +144,26 @@ are shown <strong>most of the time</strong>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Poor</strong> – Values are <strong>not shown</strong>
 </p>
 <h4><strong><u>Factors that may affect Conduct Grade</u></strong></h4>
-<h2>Attendance and Punctuality</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Regular attendance and punctuality
-are crucial in helping the students establish positive habits. Arriving
-on time can also help students start the day on a more relaxed and positive
-note.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a student is late for more than
-5 times per semester, he / she will be issued a Letter of Warning. The
-student’s Conduct Grade will be affected and disciplinary action will be
-taken against the student.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frequent absences from school without
-a valid reason will also affect the conduct grade of a student.</p>
-<h2>Factors that may affect Conduct Grade – Behaviour</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A student’s behavior directly influences
-their conduct grade, as repeated actions form lasting habits. With positive
-choices such as respect, responsibility, and cooperation become ingrained
-over time. When students consistently respond well to daily situations,
-these good habits strengthen both character and conduct.</p>
+<h4><strong>Attendance and Punctuality</strong></h4>
+<p>Regular attendance and punctuality are crucial in helping the students
+establish positive habits. Arriving on time can also help students start
+the day on a more relaxed and positive note.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a student is late for <strong>more than 5 times per semester</strong>,
+he / she will be issued a Letter of Warning. The student’s Conduct Grade
+will be affected and disciplinary action will be taken against the student.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frequent absences from school <strong>without a valid reason</strong> will
+also affect the conduct grade of a student.</p>
+<h4><strong>Factors that may affect Conduct Grade – Behaviour</strong></h4>
+<p>A student’s behavior directly influences their conduct grade, as repeated
+actions form lasting habits. With positive choices such as respect, responsibility,
+and cooperation become ingrained over time. When students consistently
+respond well to daily situations, these good habits strengthen both character
+and conduct.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inappropriate attire and hairstyle.
 (Refer to listed expectations on Attire and Appearance)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Misbehavior in class / school and
 other offences.</p>
-<h2>Attire &amp; Appearance – School Uniform</h2>
+<h4><strong>Attire &amp; Appearance – School Uniform</strong></h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school uniform must be worn
 proudly at all times when students report to school daily, during CCAs,
 while attending enrichment classes or when returning during the school
