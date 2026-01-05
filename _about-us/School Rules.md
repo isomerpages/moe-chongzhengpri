@@ -133,15 +133,18 @@ well as general decorum.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>S</strong>teadfastness</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>E</strong>mpathy</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>C</strong>onfidence</p>
-<h4>Conduct Grade Levels</h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent – Values are consistently
-shown</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very Good – Values are shown most
-of the time</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good – Values are usually shown.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fair – Values are sometimes shown</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Poor – Values are not shown.</p>
-<h2>Factors that may affect Conduct Grade – Attendance and Punctuality</h2>
+<h4><strong>Conduct Grade Levels</strong></h4>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Excellent</strong> – Values
+are <strong>consistently</strong> shown</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Very Good </strong>– Values
+are shown <strong>most of the time</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Good</strong> – Values are <strong>usually</strong> shown</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Fair</strong> – Values are <strong>sometimes</strong> shown</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Poor</strong> – Values are <strong>not shown</strong>
+</p>
+<h4><strong><u>Factors that may affect Conduct Grade</u></strong></h4>
+<h2>Attendance and Punctuality</h2>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Regular attendance and punctuality
 are crucial in helping the students establish positive habits. Arriving
 on time can also help students start the day on a more relaxed and positive
