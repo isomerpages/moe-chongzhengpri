@@ -116,9 +116,9 @@ of the offence and could be in the form of:</p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp; Warnings (Verbal / Written)</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p>Thereafter, counseling support from Year Heads, HOD Student Management
 and School Counsellor will be provided for the errant student(s).</p>
 <h4><strong>Student Conduct Grade Descriptors</strong></h4>
@@ -126,7 +126,7 @@ and School Counsellor will be provided for the errant student(s).</p>
 grades are determined by a holistic observation of the students’ demonstration
 of the school values, attendance, punctuality, respectful behaviour as
 well as general decorum.</p>
-<h4><strong><u>Demonstration of School Values</u></strong></h4>
+<h4><strong>Demonstration of School Values</strong></h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> R</strong>espect</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>R</strong>esponsibility</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> I</strong>ntegrity</p>
