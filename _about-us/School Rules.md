@@ -126,7 +126,7 @@ and School Counsellor will be provided for the errant student(s).</p>
 grades are determined by a holistic observation of the students’ demonstration
 of the school values, attendance, punctuality, respectful behaviour as
 well as general decorum.</p>
-<h4><strong>Demonstration of School Values</strong></h4>
+<h4><strong><u>Demonstration of School Values</u></strong></h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> R</strong>espect</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>R</strong>esponsibility</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> I</strong>ntegrity</p>
@@ -173,13 +173,13 @@ school uniform and modifications to the uniform are not allowed.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On cold or rainy days, only plain
 white, grey or black jackets and windbreakers without bright colours and
 loud prints are allowed.</p>
-<h2>Uniform – Boys</h2>
+<h4>Uniform – Boys</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A pair of dark blue shorts.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Light blue short- sleeved shirt.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shirt must be tucked in at all times.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Name tag must be sewn 1 cm above
 the pocket.</p>
-<h2>Uniform – Girls</h2>
+<h4>Uniform – Girls</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark blue pinafore.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Light blue short-sleeved blouse.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blouse must be tucked in at all
@@ -187,7 +187,7 @@ times.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pinafore must be at knee-length.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Name tag must be sewn 1 cm above
 the school badge.</p>
-<h2>PE Attire</h2>
+<h4>PE Attire</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PE t-shirt must be tucked in
 at all times.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PE attire should only be worn
@@ -196,7 +196,7 @@ when there are PE/PAL lessons, CCA sessions or school learning journeys.</p>
 permission has been granted by the Principal for medical reasons.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The name tag must be sewn 1 cm above
 the school badge.</p>
-<h2>Shoes and Socks</h2>
+<h4>Shoes and Socks</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White school socks are to be worn
 with white shoes. Ankle length socks are not permitted. Shoes must have
 either white laces or white velcro tape.</p>
@@ -206,28 +206,28 @@ on their foot. For safety reasons, no slippers are allowed.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shoes for CCA purposes should only
 be worn during CCA sessions. Students are to change to school shoes after
 CCA sessions.</p>
-<h2>Fingernails</h2>
+<h4>Fingernails</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To maintain personal hygiene, fingernails
 are to be kept short and clean.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No nail polish or strengthener should
 be applied to fingernails.</p>
-<h2>Accessories</h2>
+<h4>Accessories</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only one pair of natural metal (Gold/Silver)
 ear studs, measuring not more than 0.2cm in height and width, may be worn
 for girls.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ornaments and accessories like friendship
 bands and bracelets are not permitted.</p>
-<h2>Clean-Shaven and Neat Facial Appearance for Male Students</h2>
+<h4>Clean-Shaven and Neat Facial Appearance for Male Students</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Male students must be neat in appearance.
 They must be clean-shaven and no facial hair is allowed.</p>
-<h2>Hairstyle for Male Students</h2>
+<h4>Hairstyle for Male Students</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No colouring of hair</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fringe above eyebrows</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Normal slope at the side and back</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hair must not touch the collar</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No long sideburns are allowed</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No undercut hairstyle is allowed</p>
-<h2>Hairstyle for Female Students</h2>
+<h4>Hairstyle for Female Students</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No colouring of hair</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Length of hair does not extend beyond
 the collar</p>
@@ -236,8 +236,7 @@ the collar</p>
 black or dark blue</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Long hair that touches the collar
 must be tied or plaited if long enough</p>
-<h2>Reference</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents and students should refer
-to their Student Handbook for the school rules and expectations.</p>
+<p><strong><em>Parents and students should refer to their Student Handbook for the school rules and expectations.</em></strong>
+</p>
 <p></p>
 <p></p>
