@@ -4,7 +4,6 @@ collections:
     order:
       - General Informations/.keep
       - General Information/.keep
-      - General Information/School Hours.md
       - General Information/Book Shop.md
       - General Information/Dental Service.md
       - General Information/School Bus Service.md
