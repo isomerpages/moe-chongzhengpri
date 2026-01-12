@@ -2,13 +2,13 @@ collections:
   information-for-parents:
     output: true
     order:
-      - General Informations/.keep
-      - General Informations/School Hours.md
-      - General Informations/Book Shop.md
-      - General Informations/Dental Service.md
-      - General Informations/School Bus Service.md
-      - General Informations/School Uniform.md
-      - General Informations/Student's Protection Plan.md
+      - General Information/.keep
+      - General Information/School Hours.md
+      - General Information/Book Shop.md
+      - General Information/Dental Service.md
+      - General Information/School Bus Service.md
+      - General Information/School Uniform.md
+      - General Information/Student's Protection Plan.md
       - Home School Partnership/Home School Partnership.md
       - Home School Partnership/Testimonials.md
       - Home School Partnership/.keep
