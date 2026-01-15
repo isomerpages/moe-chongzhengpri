@@ -107,7 +107,7 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<p><strong>Schedule of Sexuality Education for P5 students of Chongzheng Primary School in 2025:</strong>
+<p><strong>Schedule of Sexuality Education Lessons in CCE for P5 students of Chongzheng Primary School in 2026:</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -119,7 +119,7 @@ from sexuality-related risks.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FTGP THEME</strong>
+<p><strong>CCE(FTGP) THEME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +127,7 @@ from sexuality-related risks.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson OVERVIEW</strong>
+<p><strong>LESSON OVERVIEW</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,8 +140,8 @@ from sexuality-related risks.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me/</p>
-<p>60 min</p>
+<p>The Changes in Me</p>
+<p>(60 min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to:</p>
