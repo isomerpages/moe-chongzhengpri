@@ -290,13 +290,13 @@ Supplementary Sexuality Education programmes by MOE-approved external providers.
 <p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form via the link <a href="https://form.gov.sg/677f597c9f07cd74ccfc1fdd" rel="noopener nofollow" target="_blank">here</a> by
-31/01/2015.</p>
+<p>If you would like to withdraw your child out of the Sexuality Education
+Programme in 2026, please complete the Opt-out Form via the link <a href="https://form.gov.sg/6965f22e088adf83ffd54008" rel="noopener nofollow" target="_blank">here.</a> The
+completed opt-out form is to be submitted by 30/01/2026.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at our email: <a rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a> or
+<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a> or
 you can call us at <a href="tel:+6567819002" rel="noopener noreferrer nofollow" target="_blank">6781 9002</a> for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
 </li>
