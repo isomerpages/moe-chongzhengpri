@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Information
 ---
-<h4><strong>MOE Sexuality Education in Schools</strong></h4>
+<h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
 <ol>
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -63,7 +63,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<p><strong>OVERVIEW OF CHONGZHENG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF CHONGZHENG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -81,7 +81,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
 <p></p>
-<p><strong>Sexuality Education Lessons</strong>:</p>
+<p><strong>Sexuality Education Lessons</strong>
+</p>
 <p></p>
 </li>
 <li>
@@ -93,8 +94,8 @@ ready for sexual activity sooner without necessarily having the corresponding
 cognitive or emotional maturity to modulate their behaviours. Furthermore,
 our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
-guidance so that they can respond with discernment to the sexual messages
-in the media and other sources.</p>
+close guidance so that they can respond with discernment to the sexual
+messages in the media and other sources.</p>
 <p></p>
 </li>
 <li>
