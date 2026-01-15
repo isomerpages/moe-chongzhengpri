@@ -140,8 +140,7 @@ from sexuality-related risks.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me</p>
-<p>(60 min</p>
+<p>The Changes in Me (60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to:</p>
@@ -158,21 +157,20 @@ due to puberty.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Did You Know? /</p>
-<p>60 min</p>
+<p>Did You Know? (60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know what pornography is and how
 it can affect themselves and others;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; learn about the dangers of being
-exposed to sexually explicit materials and to reject the viewing and/or
-reading of pornographic materials; and</p>
+exposed to sexually explicit materials and reject the viewing and/or reading
+of pornographic materials; and</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; evaluate their own responses when
 they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’.</strong>
 </p>
@@ -183,12 +181,12 @@ they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Keeping Myself Safe / 60 min</p>
+<p>Keeping Myself Safe (60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to:</p>
@@ -203,14 +201,14 @@ measures to be safe and how to seek help for themselves and their friends.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Schedule of Sexuality Education for P6 students of Chongzheng Primary School in 2025:</strong>
+<p><strong>Schedule of Sexuality Education Lessons In CCE for P6 students of Chongzheng Primary School in 2026:</strong>
 </p>
 </li>
 </ol>
@@ -224,7 +222,7 @@ measures to be safe and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FTGP THEME</strong>
+<p><strong>CCE(FTGP) THEME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,7 +230,7 @@ measures to be safe and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson OVERVIEW</strong>
+<p><strong>LESSON OVERVIEW</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,8 +243,7 @@ measures to be safe and how to seek help for themselves and their friends.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Are We More Than Friends? (Lesson 1) /</p>
-<p>60 min</p>
+<p>Are We More Than Friends? Lesson 1 (60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to:</p>
@@ -255,10 +252,9 @@ of love and infatuation, and identify the strong emotions that may arise
 from experiencing the feelings of infatuation;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that experiencing feelings
 of infatuation is part of growing up and becoming infatuated with someone
-does not mean that they should be involved in a romantic relationship;
-and</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; focus on building strong and healthy
-friendships with their circles of friends.</p>
+does not mean that they should be involved in a romantic relationship.
+Instead, they should focus on building strong and healthy friendships with
+their circles of friends.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,8 +263,7 @@ friendships with their circles of friends.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Are We More Than Friends? (Lesson 2) /</p>
-<p>60 min</p>
+<p>Are We More Than Friends? Lesson 2 (60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to:</p>
