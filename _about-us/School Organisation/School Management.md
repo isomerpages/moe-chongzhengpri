@@ -85,7 +85,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_bing_sum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_bing_sum@moe.edu.sg</a> 
+<p><a href="mailto:wong_bing_sum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_bing_sum@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,14 +303,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Emelyne Quek</p>
+<p>Mr Khalid Bin Othman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:emelyne_quek_jiang_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emelyne_quek_jiang_li@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
