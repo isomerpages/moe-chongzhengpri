@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mrs Ranjit Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (EO)</p>
+<p>Vice-Principal (EO1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
@@ -64,10 +64,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sherry Oh</p>
+<p>Mdm Nicole Liaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal(Admin)</p>
+<p>Vice-Principal(EO2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
@@ -79,13 +79,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Aishah Bte Ramli</p>
+<p>Mdm Wong Bing Sum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nor_aishah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_aishah_ramli@moe.edu.sg</a>
+<p><a href="mailto:wong_bing_sum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_bing_sum@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,14 +109,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Joseph Francis</p>
+<p>Ms Emelyne Quek Jiang Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kevin_joseph_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kevin_joseph_francis@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -124,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Seah</p>
+<p>Mr Peter Seah Chu Hian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Primary)</p>
