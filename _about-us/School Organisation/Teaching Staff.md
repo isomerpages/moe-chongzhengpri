@@ -30,16 +30,15 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azidah Bte Aman</p>
+<p>Ms Kwan Shiow Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azidah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azidah_aman@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yen Peng</p>
+<p>Mr Mohamed Izzat Bin Mohamed Sarip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -50,16 +49,15 @@ variant: tiptap
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Hwee Yng, Bernice</p>
+<p>Mdm Hasnita Binte Surani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hwee_yng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_yng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Lee Bang Hui</p>
+<p>Mdm Sim Bee Kim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eugene_lee_bang_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eugene_lee_bang_hui@moe.edu.sg</a>
@@ -71,7 +69,7 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sim Hui Ting, Julia</p>
+<p>Mr Ryan Hartono Pek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_hui_ting_julia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_ting_julia@moe.edu.sg</a>
@@ -80,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jaslyn Koh Chor Kiang</p>
+<p>Mdm Vera Tan Hiang Lang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -91,7 +89,7 @@ variant: tiptap
 <p>1 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ee Wen Wei, Emlyn</p>
+<p>Mr Eugene Lee Bang Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ee_wen_wei_emlyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_wen_wei_emlyn@moe.edu.sg</a>
@@ -100,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Salina Bte Ramat</p>
+<p>Mdm Nor Aisah Bte Ahmat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -111,7 +109,7 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Peh Yi Ching Shawn</p>
+<p>Ms Noor Azizah Binte Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:peh_yi_ching_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_yi_ching_shawn@moe.edu.sg</a>
@@ -120,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhafiza Bte Jamil Piperdy</p>
+<p>Ms Heng Tian Ying Jacelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norhafiza_jamil_piperdy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhafiza_jamil_piperdy@moe.edu.sg</a>
@@ -132,7 +130,7 @@ variant: tiptap
 <p>1 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang Li Hoon</p>
+<p>Mr Teo Yin Song, Gerald</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neo_li_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_li_hoon@moe.edu.sg</a>
@@ -141,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jahiza Jamaludin</p>
+<p>Mdm Salina Bte Ramat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jahiza_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jahiza_jamaludin@moe.edu.sg</a>
@@ -153,7 +151,7 @@ variant: tiptap
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Brenda Tan</p>
+<p>Miss Ee Wen Wei, Emlyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yen_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yen_theng@moe.edu.sg</a>
@@ -162,11 +160,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Bee Kim</p>
+<p>Ms Krishna Veni Rajendran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_bee_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_bee_kim@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
