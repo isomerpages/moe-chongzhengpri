@@ -117,7 +117,7 @@ variant: tiptap
 <p>Mr Mahathir Bin Mohamed Saman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Physical Education &amp; CCA</p>
+<p>HOD Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mahathir_mohamed_saman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahathir_mohamed_saman@moe.edu.sg</a>
