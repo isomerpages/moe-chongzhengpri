@@ -36,28 +36,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang Li Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Math &amp; LSM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>neo_li_hoon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sharifah Zaleha Bte S Mansor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sharifah_zaleha_s_mansor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Quek Lew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,10 +50,22 @@ variant: tiptap
 <p>Ms Norisah Bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / ART &amp; TSN</p>
+<p>Senior Teacher / ART</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norisah_md_ismail@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Rachel Poh Wee Flang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poh_wee_flang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wee_flang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
