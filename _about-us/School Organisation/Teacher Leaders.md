@@ -31,7 +31,8 @@ variant: tiptap
 <p>Senior Teacher / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_hui_ting_julia@moe.edu.sg</p>
+<p><a href="mailto:quek_lew_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_ting_julia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +43,8 @@ variant: tiptap
 <p>Senior Teacher / Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>quek_lew_cheng@moe.edu.sg</p>
+<p><a href="mailto:quek_lew_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_lew_cheng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +55,8 @@ variant: tiptap
 <p>Senior Teacher / ART</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norisah_md_ismail@moe.edu.sg</p>
+<p><a href="mailto:norisah_md_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norisah_md_ismail@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
