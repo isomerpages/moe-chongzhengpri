@@ -168,14 +168,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Zubaidah Bte Sarip</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Gauthemi Rajendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -257,7 +265,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Krishna Veni Rajendran&nbsp;</p>
+<p>Mdm Jaslyn Koh Chor Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:krishna_veni_rajendran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krishna_veni_rajendran@moe.edu.sg</a>
@@ -269,7 +277,7 @@ variant: tiptap
 <p>2 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Hartono Pek</p>
+<p>Mdm Mastura Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ryan_pek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ryan_pek@moe.edu.sg</a>
@@ -278,7 +286,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Malathy D/O Panier Selvem</p>
+<p>Miss Kwek Meei Huey, Aileen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -289,7 +297,7 @@ variant: tiptap
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zubaidah Bte Sarip</p>
+<p>Dr Peh Yi Ching Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_zubaidah_sarip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_sarip@moe.edu.sg</a>
@@ -298,7 +306,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Yin Song, Gerald</p>
+<p>Mdm Norhafiza Bte Jamil Piperdy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_yin_song_gerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yin_song_gerald@moe.edu.sg</a>
