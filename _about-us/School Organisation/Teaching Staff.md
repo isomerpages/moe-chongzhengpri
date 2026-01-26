@@ -415,7 +415,7 @@ variant: tiptap
 <p>Miss Goh Chao Ngin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maznah_yusak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maznah_yusak@moe.edu.sg</a>
+<p><a href="mailto:goh_chao_ngin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chao_ngin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -424,7 +424,7 @@ variant: tiptap
 <p>Mdm Siti Khairunnisa Bte Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwek_meei_huey_aileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_meei_huey_aileen@moe.edu.sg</a>
+<p><a href="mailto:siti_khairunnisa_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_khairunnisa_ariffin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
