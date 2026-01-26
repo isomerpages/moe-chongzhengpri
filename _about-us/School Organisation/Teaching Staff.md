@@ -886,10 +886,11 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Choon Mui</p>
-<p>Ms Joanne Tan Wai Hing</p>
+<p>Ms Malathy D/O Panier Selvem</p>
+<p>Mdm Leong Lai Lan</p>
 <p>Ms Nirmala D/O Gunaratnam</p>
-<p>Mdm Yaiyapuri Muthulatchimi</p>
+<p>Mdm Siti Raihanni Binte Selamat</p>
+<p>Miss Vanessa Ng Siow Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
