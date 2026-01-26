@@ -394,7 +394,7 @@ variant: tiptap
 <p>Mr Ahmad Shalehin Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ching_huay_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ching_huay_ping@moe.edu.sg</a>
+<p><a href="mailto:ahmad_shalehin_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_shalehin_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -403,7 +403,7 @@ variant: tiptap
 <p>Ms Ong Choon Mui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ahmad_shalehin_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_shalehin_ahmad@moe.edu.sg</a>
+<p><a href="mailto:ong_choon_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_choon_mui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
