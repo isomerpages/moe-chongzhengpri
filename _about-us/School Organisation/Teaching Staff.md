@@ -223,7 +223,7 @@ variant: tiptap
 <p>Mdm Azidah Bte Aman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_hui_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hui_tian@moe.edu.sg</a>
+<p><a href="mailto:azidah_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azidah_aman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -233,7 +233,7 @@ variant: tiptap
 <p>Ms Joanne Tan Wai Hing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norisha_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norisha_ismail@moe.edu.sg</a>
+<p><a href="mailto:chia_chen_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_chen_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -245,7 +245,7 @@ variant: tiptap
 <p>Miss Lim Hwee Yng, Bernice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hasnita_surani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasnita_surani@moe.edu.sg</a>
+<p><a href="mailto:lim_hwee_yng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_yng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -254,7 +254,7 @@ variant: tiptap
 <p>Mdm Norisha Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siew_huay_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siew_huay_ming@moe.edu.sg</a>
+<p><a href="mailto:norisha_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norisha_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -266,7 +266,7 @@ variant: tiptap
 <p>Miss Sim Hui Ting, Julia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mastura_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_mohamed@moe.edu.sg</a>
+<p><a href="mailto:sim_hui_ting_julia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_ting_julia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -275,7 +275,7 @@ variant: tiptap
 <p>Mdm Jaslyn Koh Chor Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:krishna_veni_rajendran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">krishna_veni_rajendran@moe.edu.sg</a>
+<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -287,7 +287,7 @@ variant: tiptap
 <p>Mdm Mastura Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ryan_pek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ryan_pek@moe.edu.sg</a>
+<p><a href="mailto:mastura_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_mohamed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
