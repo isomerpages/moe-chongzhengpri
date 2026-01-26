@@ -436,7 +436,7 @@ variant: tiptap
 <p>Miss Dhashayani Vallatharasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_chao_ngin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chao_ngin@moe.edu.sg</a>
+<p><a href="mailto:dhashayani_vallatharasu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dhashayani_vallatharasu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -445,7 +445,7 @@ variant: tiptap
 <p>Mdm Nur Atikah Binte Jamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_izzat_mohamed_sarip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_izzat_mohamed_sarip@moe.edu.sg</a>
+<p><a href="mailto:nur_atikah_jamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_jamal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -457,7 +457,7 @@ variant: tiptap
 <p>Mr Mohamad Rafey B Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NG_Fu_Tian_Benny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Fu_Tian_Benny@moe.edu.sg</a>
+<p><a href="mailto:mohamad_rafey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_rafey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -466,7 +466,7 @@ variant: tiptap
 <p>Ms Wu Ya-Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_tian_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_tian_ying@moe.edu.sg</a>
+<p><a href="mailto:wu_ya-ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_ya-ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -478,7 +478,7 @@ variant: tiptap
 <p>Mdm Siti Masyita Bte Mohammad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_lai_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lai_lan@moe.edu.sg</a>
+<p><a href="mailto:siti_masyita_mohammad_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_masyita_mohammad_ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -487,7 +487,7 @@ variant: tiptap
 <p>Miss Ji Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rekha_rajendran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rekha_rajendran@moe.edu.sg</a>
+<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
