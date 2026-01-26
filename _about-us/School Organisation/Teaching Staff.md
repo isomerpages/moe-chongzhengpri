@@ -318,7 +318,7 @@ variant: tiptap
 <p>2 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kwan Shiow Yan</p>
+<p>Ms Jahiza Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwan_shiow_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_shiow_yan@moe.edu.sg</a>
@@ -327,16 +327,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vera Tan Hiang Lang</p>
+<p>Ms Fadhilah Binte Mohamed Faiz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cindy Lim Siew Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Raihanni</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Primary 3</h4>
-<h5>Year Head: Mr Kevin Joseph Francis<br>Assistant Year Head: Ms Emelyne Quek</h5>
+<h5>Year Head: Ms Emelyne Quek</h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -360,7 +371,7 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Christine Ching</p>
+<p>Mr Ahmad Shalehin Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ching_huay_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ching_huay_ping@moe.edu.sg</a>
@@ -369,7 +380,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Shalehin Bin Ahmad</p>
+<p>Ms Ong Choon Mui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ahmad_shalehin_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_shalehin_ahmad@moe.edu.sg</a>
@@ -381,7 +392,7 @@ variant: tiptap
 <p>3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maznah Binte Yusak</p>
+<p>Miss Goh Chao Ngin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maznah_yusak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maznah_yusak@moe.edu.sg</a>
@@ -390,7 +401,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Kwek Meei Huey, Aileen</p>
+<p>Mdm Siti Khairunnisa Bte Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwek_meei_huey_aileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_meei_huey_aileen@moe.edu.sg</a>
@@ -402,7 +413,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Chao Ngin</p>
+<p>Miss Dhashayani Vallatharasu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_chao_ngin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chao_ngin@moe.edu.sg</a>
@@ -411,7 +422,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Izzat Bin Mohamed Sarip</p>
+<p>Mdm Nur Atikah Binte Jamal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_izzat_mohamed_sarip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_izzat_mohamed_sarip@moe.edu.sg</a>
@@ -423,7 +434,7 @@ variant: tiptap
 <p>3 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Fu Tian, Benny</p>
+<p>Mr Mohamad Rafey B Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:NG_Fu_Tian_Benny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Fu_Tian_Benny@moe.edu.sg</a>
@@ -432,7 +443,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Tian Ying Jacelyn</p>
+<p>Ms Wu Ya-Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:heng_tian_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_tian_ying@moe.edu.sg</a>
@@ -444,7 +455,7 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Lai Lan</p>
+<p>Mdm Siti Masyita Bte Mohammad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_lai_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lai_lan@moe.edu.sg</a>
@@ -453,7 +464,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rekha Rajendran</p>
+<p>Miss Ji Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rekha_rajendran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rekha_rajendran@moe.edu.sg</a>
