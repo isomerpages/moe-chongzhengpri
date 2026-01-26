@@ -75,6 +75,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kelly Choo Lai Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Faaiza Sufreen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chiang Peng Sai</p>
+<p>Mr Jeffrey Chiang Peng Sai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong>
@@ -136,7 +145,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Lai Sing</p>
+<p>Mdm Chan Sai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong>
@@ -153,7 +162,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>ALLIED EDUCATORS</p>
+<p>SCHOOL COUNSELLOR &amp; SEN OFFICERS</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -170,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angelin Anthony Samy</p>
+<p>Ms Nur Liyana Binte Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer</strong>
@@ -179,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Liyana Binte Yahya</p>
+<p>Ms Angelin Anthony Samy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer</strong>
@@ -204,6 +213,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Sharifah Fadhlon Binte Syed Oman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Receptionist</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Alan Seng Kok Heng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,15 +235,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kelly Choo Lai Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Receptionist</strong>
 </p>
 </td>
 </tr>
