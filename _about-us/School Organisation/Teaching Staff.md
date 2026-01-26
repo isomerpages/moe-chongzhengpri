@@ -180,7 +180,8 @@ variant: tiptap
 <p>Mdm Siti Zubaidah Bte Sarip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_zubaidah_sarip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_sarip@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +189,8 @@ variant: tiptap
 <p>Ms Gauthemi Rajendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:gauthemi_rajendran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gauthemi_rajendran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
