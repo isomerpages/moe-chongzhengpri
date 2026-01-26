@@ -296,7 +296,8 @@ variant: tiptap
 <p>Miss Kwek Meei Huey, Aileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kwek_meei_huey_aileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_meei_huey_aileen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -307,7 +308,7 @@ variant: tiptap
 <p>Dr Peh Yi Ching Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_zubaidah_sarip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_sarip@moe.edu.sg</a>
+<p><a href="mailto:peh_yi_ching_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_yi_ching_shawn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -316,7 +317,7 @@ variant: tiptap
 <p>Mdm Norhafiza Bte Jamil Piperdy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_yin_song_gerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yin_song_gerald@moe.edu.sg</a>
+<p><a href="mailto:norhafiza_jamil_piperdy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhafiza_jamil_piperdy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -328,7 +329,7 @@ variant: tiptap
 <p>Ms Jahiza Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwan_shiow_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_shiow_yan@moe.edu.sg</a>
+<p><a href="mailto:jahiza_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jahiza_jamaludin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -337,18 +338,29 @@ variant: tiptap
 <p>Ms Fadhilah Binte Mohamed Faiz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:fadhilah_mohamed_faiz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fadhilah_mohamed_faiz@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cindy Lim Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:cindy_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_lim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Siti Raihanni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_raihanni_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_raihanni_selamat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
