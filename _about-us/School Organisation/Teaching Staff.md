@@ -474,7 +474,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Primary 4</h4>
-<h5>Year Head: Mr Kevin Joseph Francis<br>Assistant Year Head: Ms Emelyne Quek</h5>
+<h5>Year Head: Ms Emelyne Quek</h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -498,7 +498,7 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Zaleha Bte S Mansor</p>
+<p>Mdm Christine Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharifah_zaleha_s_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_zaleha_s_mansor@moe.edu.sg</a>
@@ -519,7 +519,7 @@ variant: tiptap
 <p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Masyita Bte Mohammad Ali</p>
+<p>Mdm Maznah Binte Yusak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_masyita_mohammad_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_masyita_mohammad_ali@moe.edu.sg</a>
@@ -528,7 +528,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Rafey B Abdul Jalil</p>
+<p>Mr Ling Wei Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_rafey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_rafey@moe.edu.sg</a>
@@ -540,7 +540,7 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ling Wei Yong</p>
+<p>Miss Surya Parvathi Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_wei_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_wei_yong@moe.edu.sg</a>
@@ -549,7 +549,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Xin Xin</p>
+<p>Mdm Siew Huay Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_xin_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_xin_xin@moe.edu.sg</a>
@@ -557,11 +557,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Steadfastness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Emelyne Quek</p>
+<p>Mr Ng Fu Tian, Benny</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:emelyne_quek_jiang_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emelyne_quek_jiang_li@moe.edu.sg</a>
@@ -570,7 +570,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Khairunnisa Bte Ariffin</p>
+<p>Ms Li Xin Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_khairunnisa_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_khairunnisa_ariffin@moe.edu.sg</a>
@@ -578,19 +578,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Binte Abdul Kadir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharleen Ong</p>
+<p>Mr Khalid Bin Othman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_siew_lee_sharleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_siew_lee_sharleen@moe.edu.sg</a>
@@ -599,19 +591,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Ya-Ting</p>
+<p>Ms Shih Xiu Rong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_ya-ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_ya-ting@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yan Zhuyun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
