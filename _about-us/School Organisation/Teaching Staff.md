@@ -522,7 +522,7 @@ variant: tiptap
 <p>Mdm Christine Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifah_zaleha_s_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_zaleha_s_mansor@moe.edu.sg</a>
+<p><a href="mailto:ching_huay_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ching_huay_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
