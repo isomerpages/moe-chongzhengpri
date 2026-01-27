@@ -543,7 +543,7 @@ variant: tiptap
 <p>Mdm Maznah Binte Yusak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_masyita_mohammad_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_masyita_mohammad_ali@moe.edu.sg</a>
+<p><a href="mailto:maznah_yusak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maznah_yusak@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -552,7 +552,7 @@ variant: tiptap
 <p>Mr Ling Wei Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_rafey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_rafey@moe.edu.sg</a>
+<p><a href="mailto:ling_wei_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_wei_yong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
