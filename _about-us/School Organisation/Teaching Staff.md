@@ -841,7 +841,8 @@ variant: tiptap
 <p>Mdm Suckjit Kaur D/O Bang Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kaur_suckjit_singh_bang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kaur_suckjit_singh_bang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -849,7 +850,8 @@ variant: tiptap
 <p>Ms Gong Xianli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:gong_xianli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gong_xianli@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -861,7 +863,8 @@ variant: tiptap
 <p>(Mrs Emi Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:emi_ng_huilin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emi_ng_huilin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -869,7 +872,8 @@ variant: tiptap
 <p>Mdm Jasmina Parvin Bte Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jasmina_parvin_mohd_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmina_parvin_mohd_ali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -913,4 +917,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:kaur_suckjit_singh_bang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kaur_suckjit_singh_bang@moe.edu.sg</a>
+</p>
