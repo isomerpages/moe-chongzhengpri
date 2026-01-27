@@ -917,5 +917,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="mailto:kaur_suckjit_singh_bang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kaur_suckjit_singh_bang@moe.edu.sg</a>
-</p>
+<p></p>
