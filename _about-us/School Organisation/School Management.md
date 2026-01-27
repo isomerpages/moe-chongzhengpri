@@ -96,7 +96,7 @@ variant: tiptap
 <p>Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Emelyne_Quek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Emelyne_Quek@moe.edu.sg</a>
+<p><a href="mailto:Emelyne_Quek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emelyne_quek_jiang_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
