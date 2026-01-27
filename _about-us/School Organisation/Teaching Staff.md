@@ -778,8 +778,7 @@ variant: tiptap
 <p>(Mrs Sharon Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_lew_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_lew_cheng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -787,8 +786,7 @@ variant: tiptap
 <p>Miss Rachel Poh Wee Flang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_haida_mohd_jakaria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_haida_mohd_jakaria@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -808,8 +806,7 @@ variant: tiptap
 <p>Miss Sim Yu Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_li_ying_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_li_ying_pauline@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -820,8 +817,7 @@ variant: tiptap
 <p>Miss Lee Mong Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_winnie@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -829,8 +825,7 @@ variant: tiptap
 <p>Mr Ong Wei Lee Gavin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norisah_md_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norisah_md_ismail@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -841,8 +836,7 @@ variant: tiptap
 <p>Mdm Suckjit Kaur D/O Bang Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sheela_devi_tet_baahadur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheela_devi_tet_baahadur@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -850,8 +844,7 @@ variant: tiptap
 <p>Ms Gong Xianli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_chen_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_chen_wei@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -863,8 +856,7 @@ variant: tiptap
 <p>(Mrs Emi Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kaur_suckjit_singh_bang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kaur_suckjit_singh_bang@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -872,8 +864,7 @@ variant: tiptap
 <p>Mdm Jasmina Parvin Bte Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhiza_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhiza_mohamed@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
