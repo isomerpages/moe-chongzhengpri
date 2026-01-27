@@ -606,7 +606,7 @@ variant: tiptap
 <p>Mr Khalid Bin Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_siew_lee_sharleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_siew_lee_sharleen@moe.edu.sg</a>
+<p><a href="mailto:khalid_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khalid_othman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -615,7 +615,7 @@ variant: tiptap
 <p>Ms Shih Xiu Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wu_ya-ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_ya-ting@moe.edu.sg</a>
+<p><a href="mailto:shih_xiu_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shih_xiu_rong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
