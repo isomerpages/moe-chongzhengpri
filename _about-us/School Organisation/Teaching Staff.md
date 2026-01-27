@@ -564,7 +564,7 @@ variant: tiptap
 <p>Miss Surya Parvathi Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ling_wei_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_wei_yong@moe.edu.sg</a>
+<p><a href="mailto:surya_parvathi_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">surya_parvathi_pillai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -573,7 +573,7 @@ variant: tiptap
 <p>Mdm Siew Huay Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_xin_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_xin_xin@moe.edu.sg</a>
+<p><a href="mailto:siew_huay_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siew_huay_ming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -585,7 +585,7 @@ variant: tiptap
 <p>Mr Ng Fu Tian, Benny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:emelyne_quek_jiang_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emelyne_quek_jiang_li@moe.edu.sg</a>
+<p><a href="mailto:ng_fu_tian_benny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_fu_tian_benny@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -594,7 +594,7 @@ variant: tiptap
 <p>Ms Li Xin Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_khairunnisa_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_khairunnisa_ariffin@moe.edu.sg</a>
+<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>czps@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
