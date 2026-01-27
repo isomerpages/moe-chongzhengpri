@@ -275,7 +275,7 @@ variant: tiptap
 <p>Mdm Jaslyn Koh Chor Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
+<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_chujuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -679,7 +679,7 @@ variant: tiptap
 <p>Mdm Siti Nurhidayah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>czps@moe.edu.sg</u></a>
+<p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nurhidayah_abdul_aziz@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
