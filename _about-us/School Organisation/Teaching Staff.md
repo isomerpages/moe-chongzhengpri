@@ -778,7 +778,8 @@ variant: tiptap
 <p>(Mrs Sharon Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sharon_goh_choo_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_goh_choo_lin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -786,7 +787,8 @@ variant: tiptap
 <p>Miss Rachel Poh Wee Flang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:poh_wee_flang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wee_flang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -806,7 +808,8 @@ variant: tiptap
 <p>Miss Sim Yu Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sim_yu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yu_xian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -817,7 +820,8 @@ variant: tiptap
 <p>Miss Lee Mong Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_mong_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_mong_lan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -825,7 +829,8 @@ variant: tiptap
 <p>Mr Ong Wei Lee Gavin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_wei_lee_gavin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_lee_gavin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
