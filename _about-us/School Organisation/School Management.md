@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mrs Ranjit Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (EO1)</p>
+<p>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>Mdm Nicole Liaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal(Admin)</p>
+<p>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a>
