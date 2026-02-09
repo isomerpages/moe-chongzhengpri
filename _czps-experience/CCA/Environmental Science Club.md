@@ -9,10 +9,10 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Emelyne Quek (Main-in-charge)</p>
+<p>Mdm Kamaliah Abdul Jalil</p>
 </li>
 <li>
-<p>Mdm Kamaliah Abdul Jalil</p>
+<p>Ms Charmaine Lim</p>
 <p></p>
 </li>
 </ol>
@@ -119,7 +119,7 @@ a culture of sustainability.</p>
 <p>Watch the video below to see what other activities we have done in the
 club!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BZrYnQTKK-E?si=dUcLrn-QTGjpqvDE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BZrYnQTKK-E?si=dUcLrn-QTGjpqvDE"></iframe>
 </div>
 </li>
 </ol>
