@@ -8,13 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      key_highlights:
-        - title: CZ E.P.I.C Day!
-          description: Read More
-          url: /czps-news/special-events/e-p-i-c-day
-        - title: CCA Fiesta
-          description: Read More
-          url: /czps-news/special-events/cca-fiesta-1
   - resources:
       title: Announcements
       button: More
