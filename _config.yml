@@ -8,7 +8,7 @@ colors:
     - title: media-color-one
       color: "#59dafa"
     - title: media-color-two
-      color: "#000000"
+      color: "#4a90e2"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: chongzheng-primary-school
+google_analytics_ga4: ""
