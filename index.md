@@ -7,7 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/CZPS_Animation_Students.gif
+      variant: image
   - resources:
       title: Announcements
       button: More
