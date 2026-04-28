@@ -31,16 +31,14 @@ of the school’s Strategic Thrusts.</p>
 </li>
 </ol>
 <h4><strong>ICT DEPARTMENT PROGRAMME</strong></h4>
-<p>A structured programme is in place to enable students to acquire Baseline
-ICT skills and New Media Literacies at each level from P1 to P6. Starting
-with keyboarding &amp; word processing skills at P1 to advanced PowerPoint,
-digital art &amp; video editing at upper primary. Basic coding is also
-learnt by the P4 students, with basic Artificial Intelligence (AI) at P6,
-through the Code For Fun (CFF) programme.</p>
-<p>Enrichment courses beyond the norm for the respective levels are also
-conducted during the holidays or at the arrangement of the form teachers.</p>
-<p>Students' use of ICT is also integrated into their daily work. For example
-collaborative online, presentations, creating works of art and posters.</p>
+<p>A structured programme is in place to enable students to acquire Digital
+Literacies and Technological Skills at each level from P1 to P6. Starting
+with keyboarding &amp; word processing skills, and account management at
+P1 to advanced PowerPoint, digital art &amp; video editing at upper primary.
+Basic coding is also learnt by the P4 students, with basic Artificial Intelligence
+(AI) at P6, through the Code For Fun (CFF) programme.</p>
+<p>Students' use of ICT is also integrated into their daily work. For example,
+online collaboration, presentations, creating works of art and posters.</p>
 <p>ICT is integrated into the various subjects' Schemes of Work and used
 in lessons to better engage students, enhance their learning experiences
 and develop 21st Century Competencies.</p>
