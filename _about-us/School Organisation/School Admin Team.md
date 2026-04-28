@@ -231,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shailla Binte Md Shah</p>
+<p>Ms Bennett Hillary Enid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Librarian</strong>
