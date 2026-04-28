@@ -56,5 +56,5 @@ library assistant &amp; teacher-librarians.</p>
 <h4><strong>USEFUL INFORMATION</strong></h4>
 <p><a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener" target="_blank">21st Century Competencies</a>
 <br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener" target="_blank">Cyber Wellness</a>
-<br><a href="https://www.help123.sg/" rel="noopener" target="_blank">Help123.sg - Get Help if you are facing Cyberwellness Issues</a>
+<br><a href="https://www.moe.gov.sg/parentkit?pt=Technology" rel="noopener" target="_blank">Help123.sg - Get Help if you are facing Cyberwellness Issues</a>
 </p>
