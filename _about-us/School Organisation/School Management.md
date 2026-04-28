@@ -198,18 +198,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Chao Ngin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_chao_ngin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chao_ngin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Suckjit Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
