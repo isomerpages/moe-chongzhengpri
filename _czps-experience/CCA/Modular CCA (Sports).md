@@ -12,10 +12,7 @@ variant: tiptap
 <p>Mrs Sharon Tan (Main-in-charge)</p>
 </li>
 <li>
-<p>Mrs Ang Li Hoon</p>
-</li>
-<li>
-<p>Mrs Brenda Tan</p>
+<p>Mrs Emi Tan</p>
 <p></p>
 </li>
 </ol>
@@ -23,16 +20,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Wesley Leong Zong Ze (P5 Empathy)</p>
+<p>Captain – Seow Kai Tong (P5 Steadfastness)</p>
 </li>
 <li>
-<p>Captain – Shee Dao Wei Keane (P5 Respect)</p>
-</li>
-<li>
-<p>Vice-Captain – Seow Kai Tong (P4 Steadfastness)</p>
-</li>
-<li>
-<p>Vice-Captain – Ng Xitien, Duncan (P4 Empathy)</p>
+<p>Captain – Rachinepalli Manvitha (P5 Steadfastness)</p>
 <p></p>
 </li>
 </ul>
