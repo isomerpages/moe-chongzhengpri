@@ -77,6 +77,14 @@ school, other institutions, external hockey clubs, and in inter-school
 competitions, including the National School Games.</p>
 <p><strong>Achievements for the past 3 years:</strong>
 </p>
+<p><strong>2026:</strong>
+</p>
+<p>Senior Division Boys – Still in progress
+<br>Senior Division Girls – National Runner up
+<br>J1 Boys – Still in progress
+<br>J1 Girls – Still in progress
+<br>J2 Boys – Still in progress
+<br>J2 Girls – Still in progress</p>
 <p><strong>2025:</strong>
 <br>Senior Division Girls – National Runner up
 <br>J1 Boys – Tier 2A Champion
@@ -94,13 +102,6 @@ competitions, including the National School Games.</p>
 <br>J1 Girls – Overall Champion
 <br>J2 Boys Tier 2 – Champion
 <br>J2 Girls – 2<sup>nd</sup>&nbsp;position overall</p>
-<p><strong>2023:</strong>
-</p>
-<p>Senior Division Boys – 5th placing Tier 2 Category
-<br>Senior Girls – Runners Up (National Level)
-<br>J1 Boys – 2nd placing in Tier 1 Category
-<br>J1 Girls – 5th placing
-<br>J2 Boys – 2nd placing in Tier 1 Category</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hockey1.png">
