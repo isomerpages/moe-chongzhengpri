@@ -9,50 +9,57 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Mohamad Rafey (Main-in-charge)</p>
+<p>Mr Mohamad Rafey</p>
 </li>
 <li>
 <p>Dr Shawn Peh</p>
 </li>
 <li>
-<p>Mdm Pauline Foo</p>
+<p>Ms Gong Xian Li</p>
 </li>
 <li>
-<p>Mdm Siew Huay Ming</p>
+<p>Mr Khalid</p>
 </li>
 <li>
-<p>Ms Haryani</p>
+<p>Mdm Trishal Kaur</p>
 </li>
 <li>
-<p>Ms Wu Ya Ting</p>
+<p>Miss Elina Lo</p>
+</li>
+<li>
+<p>Miss Azhani</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
 <ul>
 <li>
-<p>J2 Boys’ Captain – Akimasa Bazil Akmal Darwish Mohamad Irwan (5 Integrity)</p>
+<p><strong>Boys’ Captain</strong> – Jevesh Kesavan (5 Steadfastness)</p>
 </li>
 <li>
-<p>J2 Boys’ Captain – Tham Jun Wu, Enzo (5 Responsibility)</p>
+<p><strong>Boys’ Captain</strong> – Chen Kaining Calen (5 Steadfastness)</p>
 </li>
 <li>
-<p>J2 Girls’ Captain – Chloe Gwendelynn Pinto (5 Respect)</p>
+<p><strong>Boys’ Vice-Captain </strong>– Mohamed Adam Bin Mohamed Fariz (4
+Empathy)</p>
 </li>
 <li>
-<p>J2 Girls’ Captain – Teo Seaenn (5 Steadfastness)</p>
+<p><strong>Boys’ Vice-Captain</strong> – Jeville Foo Zhi Hao (4 Integrity)</p>
 </li>
 <li>
-<p>J1 Boys’ Vice-Captain – Jevesh Kesavan (4 Empathy)</p>
+<p><strong>Girls’ Captain</strong> – Vaishnavi D/O Annamalaii (5 Steadfastness
+)</p>
 </li>
 <li>
-<p>J1 Boys’ Vice-Captain- Chen Kaining Calen (4 Empathy)</p>
+<p><strong>Girls’ Captain</strong> – Safiyyah Binte Raziz (5 Empathy)</p>
 </li>
 <li>
-<p>J1 Girls’ Vice-Captain - Vaishnavi D/O Annamalaii (4 Empathy)</p>
+<p><strong>Girls’ Vice-Captain </strong>– Siti Farha Sharika Binte Mohammad
+Fahmi (4 Steadfastness)</p>
 </li>
 <li>
-<p>J1 Girls’ Vice-Captain – Safiyyah Binte Raziz (4 Steadfastness)</p>
+<p><strong>Girls’ Vice-Captain </strong>– Nur Irah Firzanah Binte Mohammad
+Farid (4 Steadfastness)</p>
 <p></p>
 </li>
 </ul>
