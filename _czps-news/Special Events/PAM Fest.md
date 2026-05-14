@@ -3,11 +3,43 @@ title: PAM Fest
 permalink: /czps-news/special-events/pam-fest/
 description: ""
 third_nav_title: Special Events
+variant: tiptap
 ---
-<img src="/images/pam1.jpeg">
-<p>PAM Fest! stands for&nbsp;<strong>P</strong>E,&nbsp;<strong>A</strong>rt and&nbsp;<strong>M</strong>usic Festival, with the &ldquo;<strong>!</strong>&rdquo; to indicate fun and excitement. The objectives of P.A.M Fest! are to heighten interest and appreciation for PE, Art and Music and also to inculcate positive and desirable values through PAM activities. The theme for this year's PAM Fest! is &ldquo;A Celebration of PE, Art and Music&rdquo;. Hence, a series of activities relating to PAM was held during the week-long festival, from 20 to 24 Sept 2021.</p>
-<p>The opening ceremony of the PAM Fest! was held as part of the school's e-assembly program via pre-recorded videos. Our students were treated to an interesting music activity which required them to participate actively in their respective classrooms. The rest of the activities were carried out during PE, Art and Music lessons and also via the SLS, in line with the Safe Management Measures.</p>
-<img src="/images/pam2.jpeg"><br>
-<img src="/images/pam3.jpeg"><br>
-<img src="/images/pam4.jpeg"><br>
-<img style="width: 75%;" src="/images/pam5.png">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pam1.jpeg">
+</div>
+<p>PAM Fest! stands for <strong>P</strong>E, <strong>A</strong>rt and <strong>M</strong>usic
+Festival, with the “<strong>!</strong>” reflecting the joy, energy and
+excitement of the festival.</p>
+<p>The festival aims to deepen students’ interest and appreciation for Physical
+Education, Art and Music, while providing opportunities for them to develop
+school values and 21st Century Competencies through active participation.</p>
+<p>Through PAM Fest!, students take part in a range of engaging activities
+that encourage movement, creativity, musical expression and teamwork. These
+experiences help students learn to work with others, try new experiences,
+show respect, take responsibility and contribute positively to the school
+community.</p>
+<p>Students are encouraged to express their ideas, appreciate different strengths
+and make connections between their learning and real-life experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pam2.jpeg">
+</div>
+<p><em>Students exploring different art forms through hands-on activities.</em>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pam3.jpeg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pam4.jpeg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/pam5.png">
+</div>
+<p></p>
