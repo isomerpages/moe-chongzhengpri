@@ -110,7 +110,8 @@ to report an incident, please reach out to us through any of the following:</p>
 <p>Speak to your child's Form Teacher, HOD Student Management, Year Head,
 or School Leaders.</p>
 <p>You may also call us at &nbsp;6781 9002,</p>
-<p>email us at <a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a> ,or</p>
+<p>email us at <a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a> ,
+or</p>
 <p>for <strong>non-urgent matters</strong>, submit a report via our online
 form at <a href="https://go.gov.sg/czpsreporting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/czpsreporting</a>.</p>
 <p>We regularly review this policy to make sure it continues to serve our
