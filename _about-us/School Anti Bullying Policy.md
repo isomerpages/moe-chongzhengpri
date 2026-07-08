@@ -112,7 +112,7 @@ or School Leaders.</p>
 <p>You may also call us at &nbsp;6781 9002,</p>
 <p>email us at <a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">czps@moe.edu.sg</a> ,</p>
 <p>or for <strong>non-urgent matters</strong>, submit a report via our online
-form at <a href="https://form.gov.sg/69f0b73e7d8d24f5fbe3befe" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69f0b73e7d8d24f5fbe3befe</a> .</p>
+form at <a href="https://go.gov.sg/czpsreporting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/czpsreporting</a>.</p>
 <p>We regularly review this policy to make sure it continues to serve our
 school community well. Together, as a school community, we nurture the
 leader in every child — building a generation that is not only innovative
