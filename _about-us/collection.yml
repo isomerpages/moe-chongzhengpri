@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Anti Bullying Policy.md
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School Crest.md
@@ -13,3 +12,4 @@ collections:
       - School Organisation/Teaching Staff.md
       - School Organisation/School Admin Team.md
       - School Rules.md
+      - School Anti Bullying Policy.md
