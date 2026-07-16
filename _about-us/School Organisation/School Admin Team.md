@@ -57,10 +57,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norwati Binte Azman</p>
+<p>Ms Angeline Goh Siang Gek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
+<p><strong>Administrative Executive</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Faaiza Sufreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ICT - Associate</strong>
 </p>
 </td>
 </tr>
@@ -79,15 +88,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Corporate Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Faaiza Sufreen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ICT - Associate</strong>
 </p>
 </td>
 </tr>
