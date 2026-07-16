@@ -118,6 +118,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Joseph Richard Henry B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Jeffrey Chiang Peng Sai</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,15 +146,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Taksiah Binte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Operations Support Officer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chan Sai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong>
@@ -179,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Liyana Binte Yahya</p>
+<p>Ms Angelin Anthony Samy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer</strong>
@@ -188,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angelin Anthony Samy</p>
+<p>Ms Nur Liyana Binte Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer</strong>
@@ -249,7 +249,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Jeok Ngan</p>
+<p>Ms Quek Ah Noi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Dental Therapist</strong>
