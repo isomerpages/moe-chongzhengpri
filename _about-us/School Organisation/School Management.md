@@ -129,7 +129,7 @@ variant: tiptap
 <p>Mr Gerardo Seow Cheng Lye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT</p>
+<p>HOD ICT/ LSM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gerardo_seow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gerardo_seow@moe.edu.sg</a>
@@ -141,7 +141,7 @@ variant: tiptap
 <p>Mdm Fazlinda Bte Junid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
+<p>HOD CCE/ TSN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fazlinda_junid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fazlinda_junid@moe.edu.sg</a>
