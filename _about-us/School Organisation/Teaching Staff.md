@@ -722,10 +722,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Trishal Kaur</p>
+<p>Mdm Rekha Rajendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:trishal_kaur_gurcharan_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">trishal_kaur_gurcharan_singh@moe.edu.sg</a>
+<p><a href="mailto:rekha_rajendran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rekha_rajendran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
