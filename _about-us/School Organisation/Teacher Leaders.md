@@ -59,18 +59,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Rachel Poh Wee Flang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_wee_flang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wee_flang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
