@@ -787,10 +787,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Rachel Poh Wee Flang</p>
+<p>Ms Chia Chen Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poh_wee_flang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_wee_flang@moe.edu.sg</a>
+<p><a href="mailto:chia_chen_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_chen_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
