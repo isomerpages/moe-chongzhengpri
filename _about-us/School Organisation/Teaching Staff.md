@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Izzat Bin Mohamed Sarip / Ms Nur Radah</p>
+<p>Mr Mohamed Izzat Bin Mohamed Sarip / Ms Nur Raidah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_izzat_mohamed_sarip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_izzat_mohamed_sarip@moe.edu.sg</a>
@@ -441,7 +441,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Atikah Binte Jamal
+<p>Mdm Nur Atikah Binte Jamal /
 <br>Miss Azhani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,7 +463,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Ya-Ting</p>
+<p>Ms Wu Ya-Ting / Mr Muhammad Khairul Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_ya-ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_ya-ting@moe.edu.sg</a>
@@ -484,8 +484,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ji Cheng
-<br>Ms Nurul Aisyah</p>
+<p>Miss Ji Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:czps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ji_cheng@moe.edu.sg</a>
@@ -529,7 +528,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Haryani Binte Mohamad Jaafar</p>
+<p>Mdm Haryani Binte Mohamad Jaafar / Ms Nurul Aisyah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryani_mohamad_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haryani_mohamad_jaafar@moe.edu.sg</a>
@@ -551,7 +550,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ling Wei Yong
-<br>Ms Hanna</p>
+<br>/ Ms Hanna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_wei_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_wei_yong@moe.edu.sg</a>
@@ -614,7 +613,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shih Xiu Rong</p>
+<p>Ms Shih Xiu Rong / Ms Clarice Zhang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shih_xiu_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shih_xiu_rong@moe.edu.sg</a>
@@ -699,7 +698,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Jody Ho
+<p>Miss Jody Ho /
 <br>Mdm Trishal Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
