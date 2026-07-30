@@ -22,16 +22,16 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sixer – Thoon Yuya Linn (5ST)</p>
+<p>Sixer – Cheong Kar Mun Emily (5EM)</p>
 </li>
 <li>
-<p>Sixer – Banafsha Laila Binte Muhammad Ardhilla (5IN)</p>
+<p>Sixer – Kyi Phyu Htut Shan (5ST)</p>
 </li>
 <li>
-<p>Assistant Sixer - Kyi Phyu Htut Shan (4EM)</p>
+<p>Assistant Sixer - Audrey Galenia Lee (4EM)</p>
 </li>
 <li>
-<p>Assistant Sixer - Sin Yu En Jaelyn (4IN)</p>
+<p>Assistant Sixer - Yau Chen Swan (4EM)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
