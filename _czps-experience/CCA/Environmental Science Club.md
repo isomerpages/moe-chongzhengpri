@@ -20,13 +20,13 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairman - Fan Yutong (5RY)</p>
+<p>Chairman - Zealyn Zeng Ziling (5EM)</p>
 </li>
 <li>
-<p>Chairman - Kathryn Ong Xin Hui (5RY)</p>
+<p>Vice-Chairman - Karthikeyan Mounika (4ST)</p>
 </li>
 <li>
-<p>Vice-Chairman – Zealyn Zeng Ziling (4EM)</p>
+<p>Vice-Chairman – Sharifah Amal Al-Mutahar Binti Syed Abdullah (4ST)</p>
 <p></p>
 </li>
 </ul>
