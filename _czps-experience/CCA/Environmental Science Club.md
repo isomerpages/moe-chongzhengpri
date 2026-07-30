@@ -9,10 +9,13 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
+<p>Ms Charmaine Lim (Main-in-charge)</p>
+</li>
+<li>
 <p>Mdm Kamaliah Abdul Jalil</p>
 </li>
 <li>
-<p>Ms Charmaine Lim</p>
+<p>Mdm Jaslyn Koh</p>
 <p></p>
 </li>
 </ol>
