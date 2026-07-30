@@ -18,16 +18,25 @@ variant: tiptap
 <p>Ms Emlyn Ee</p>
 </li>
 <li>
-<p>Ms Veni</p>
+<p>Mdm Leong Lai Lan</p>
+</li>
+<li>
+<p>Ms Gauthemi Rajendran</p>
+</li>
+<li>
+<p>Mdm Vera Tan</p>
+</li>
+<li>
+<p>Mrs Jacelyn Lim</p>
 <p></p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
-<p>-Koh Yu Qing Arissa (5 Steadfastness)</p>
-<p>-Victoria Tan Yi Xuan (5 Empathy)</p>
-<p>-Bennett Sariya Faie (4 Steadfastness)</p>
-<p>-Sophie Lim Wan Er (4 Responsibility)</p>
+<p>-Bennett Sariya Faie (5 Empathy)</p>
+<p>-Sophie Lim Wan Er (5 Steadfastness)</p>
+<p>-Koh Yi Xin (4 Empathy)</p>
+<p>-Emily Goh Rou Xuan (4 Respect)</p>
 <p></p>
 <p><strong>Description:</strong>
 </p>
