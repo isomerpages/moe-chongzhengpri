@@ -9,19 +9,19 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Sharifah Zaleha Syed Mansor (Main-in-charge)</p>
-</li>
-<li>
-<p>Mdm Koh Hui Tian</p>
-</li>
-<li>
-<p>Ms Kwek Meei Hui Aileen</p>
+<p>Miss Kwek Meei Huey Aileen (Main-in-charge)</p>
 </li>
 <li>
 <p>Miss Sim Yu Xian</p>
 </li>
 <li>
-<p>Ms Sim Hui Ting Julia</p>
+<p>Mr Benny Ng</p>
+</li>
+<li>
+<p>Ms Ong Choon Mui</p>
+</li>
+<li>
+<p>Ms Ji Cheng</p>
 </li>
 </ol>
 <p><strong>CCA Team Captain:</strong>
