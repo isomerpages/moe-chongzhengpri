@@ -9,16 +9,16 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Suckjit Kaur (Main-in-charge)</p>
-</li>
-<li>
-<p>Ms Sheela Devi</p>
+<p>Ms Sheela Devi (Main-in-charge)</p>
 </li>
 <li>
 <p>Ms Christine Ching</p>
 </li>
 <li>
-<p>Ms Salina</p>
+<p>Ms Dhasha</p>
+</li>
+<li>
+<p>Mdm Cindy Lim Siew Cheng</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:&nbsp;</strong>
@@ -27,20 +27,20 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Esther O (5IN)</p>
+<p>Damodharan Madhubala (5EM)</p>
 </li>
 <li>
-<p>Wu Chongyi (5IN)</p>
+<p>Li Yiran (5IN)</p>
 </li>
 </ul>
 <p><strong>Assistant Leaders:&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Damodharan Madhubala (4IN)</p>
+<p>Vinayak Ramesh (4ST)</p>
 </li>
 <li>
-<p>Li Yiran (4RT)</p>
+<p>Huang Ziyun (4RT)</p>
 </li>
 </ul>
 <p><strong>Description:</strong>
