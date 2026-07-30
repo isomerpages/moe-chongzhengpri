@@ -24,38 +24,22 @@ variant: tiptap
 <p>Ms Sim Hui Ting Julia</p>
 </li>
 </ol>
-<p><strong>CCA School Leaders 2025:</strong>
+<p><strong>CCA Team Captain:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sim Kylie (5ST)</p>
-</li>
-<li>
-<p>Jovan Lee Hong Rui (5EM)</p>
-</li>
-</ul>
-<p><strong>CCA Team Leaders 2025:</strong>
+<p>-Lee Ming Yang (5IN)</p>
+<p><strong>Vice Captains:</strong>
 </p>
-<p><strong><u>Leaders</u></strong>
+<p>-Scarlett Victoria Tan Jing Xuan (4IN)</p>
+<p>-Toh Jayden (4RY)</p>
+<p><strong>School Team Captains:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ong Yu Xiang (5EM)</p>
-</li>
-<li>
-<p>Gabriel Tan Hou Yuen (5ST)</p>
-</li>
-</ul>
-<p><strong><u>Assistant Leaders</u></strong>
+<p>-Teo Shihan, Bryan (5EM)</p>
+<p>-Kailey Lim Jia Xin (5ST)</p>
+<p>-Lim Jun Han Kiev (5ST)</p>
+<p><strong>Vice Captains:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teo Shihan Bryan (4RT)</p>
-</li>
-<li>
-<p>Lim Jun Han Kiev (4IN)</p>
-</li>
-</ul>
+<p>-Goh Chen Ning (4EM)</p>
+<p>-Kaiser Woo Ming Sheng (4RT)</p>
 <p><strong>Description:</strong>
 </p>
 <p>The purpose of our CCA is to engage and train students in the sport of
