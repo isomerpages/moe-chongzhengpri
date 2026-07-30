@@ -14,10 +14,6 @@ variant: tiptap
 <li>
 <p>Mdm Jahiza Jamaludin</p>
 </li>
-<li>
-<p>Mdm Hasnita Surani</p>
-<p></p>
-</li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
@@ -197,6 +193,6 @@ e-Catalogue.</p>
 <p><strong>Art Club Activities</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sZkYSgLTtCc?si=P6y4_E7YC7-IiOYG"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sZkYSgLTtCc?si=P6y4_E7YC7-IiOYG"></iframe>
 </div>
 <p></p>
