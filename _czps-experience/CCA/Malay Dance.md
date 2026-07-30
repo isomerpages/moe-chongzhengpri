@@ -23,20 +23,20 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ayda Addinah Binte Muhammad Ashraf Adli (5EM)</p>
+<p>Rayna Farisha Binte Mohamed Farhan (5RY)</p>
 </li>
 <li>
-<p>Azzahra Divirzza Binte Sa'at (5RT)</p>
+<p>Mysha Imani Binte Jasman (5RT)</p>
 </li>
 </ul>
 <p><strong>Assistant Leaders:</strong>
 </p>
 <ul>
 <li>
-<p>Rayna Farisha Binte Mohamed Farhan (4EM)</p>
+<p>Nur Aufa Aryssa Binti Muhammad Munir (4IN)</p>
 </li>
 <li>
-<p>Mysha Imani Binte Jasman (4RT)</p>
+<p>Syafeena Binte Hirwan (4IN)</p>
 <p></p>
 </li>
 </ul>
