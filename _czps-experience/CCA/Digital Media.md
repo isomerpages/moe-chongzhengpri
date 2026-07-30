@@ -9,38 +9,35 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Ahmad (Main-in-charge)</p>
+<p>Mr Ahmad Shalehin (Main-in-charge)</p>
 </li>
 <li>
-<p>Mdm Nurhiza</p>
+<p>Mdm Nurhiza Bte Mohamed</p>
 </li>
 <li>
-<p>Mr Izzat</p>
+<p>Mdm Siti Khairunnisa Bte Ariffin</p>
 </li>
 <li>
-<p>Ms Rekha</p>
+<p>Mdm Rekha Rajendran</p>
 </li>
 <li>
-<p>Ms Ong Choon Mui</p>
-</li>
-<li>
-<p>Mdm Koh Chor Kiang, Jaslyn</p>
+<p>Ms Shih Xiu Rong</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairman - Derrick Loo(5ST)</p>
+<p>Chairman - Megat Rizq Arsel (5RT)</p>
 </li>
 <li>
-<p>Chairman - Khong San Koil (5ST)</p>
+<p>Chairman - Yeo Yu Xuan, Audric (5RY)</p>
 </li>
 <li>
-<p>Vice Chairman - Megat Rizq Arsel (4RY)</p>
+<p>Vice Chairman - Sameer Akhtar Khan Bin Abdul Salim (4RT)</p>
 </li>
 <li>
-<p>Vice Chairman - Yeo Yu Xuan, Audric (4RY)</p>
+<p>Vice Chairman - Donna Lim Jing Wen (4RT)</p>
 </li>
 </ul>
 <p><strong>Description:&nbsp;</strong>
