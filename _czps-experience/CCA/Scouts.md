@@ -23,16 +23,16 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Senior Sixer - Abdurrahman Bin Jefry&nbsp;(P5)</p>
+<p>Senior Sixer - Abdurrahman Bin Jefry&nbsp;(P5EM)</p>
 </li>
 <li>
-<p>Senior Sixer – Tan Hong Ming (P5)</p>
+<p>Senior Sixer – Tan Hong Ming (P5RT)</p>
 </li>
 <li>
-<p>Assistant Sixer - Abhinav Venkatarama (P4)</p>
+<p>Assistant Sixer - Abhinav Venkatarama (P4EM)</p>
 </li>
 <li>
-<p>Assistant Sixer - Khairy Rusyaidy Bin Rudy Marwan (P4)</p>
+<p>Assistant Sixer - Khairy Rusyaidy Bin Rudy Marwan (P4ST)</p>
 </li>
 </ul>
 <p><strong>Description:&nbsp;</strong>
