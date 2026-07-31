@@ -12,7 +12,7 @@ variant: tiptap
 <p>Mr Ryan Pek (Main-in-charge)</p>
 </li>
 <li>
-<p>Mr Ling Weiyong</p>
+<p>Mr Ling Wei Yong</p>
 </li>
 <li>
 <p>Mr Gavin Ong</p>
@@ -24,23 +24,26 @@ variant: tiptap
 <p>Ms Li Xin Xin</p>
 </li>
 <li>
-<p>Miss Angela Low</p>
+<p>Ms Noor Azizah</p>
+</li>
+<li>
+<p>Miss Jody Ho</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Shlok Menon (5RY)</p>
+<p>Captain – Ayden Rayyan Bin Mohamad Abdul Alim (5RY)</p>
 </li>
 <li>
-<p>Captain – Lim Shao Long Curtis (5IN)</p>
+<p>Captain – Muhammad Eshan Nazran Bin Muhammad Muntazir (5IN)</p>
 </li>
 <li>
-<p>Vice Captain – Ayden Rayyan Bin Mohamad Abdul Alim (4IN)</p>
+<p>Vice Captain – Julien Joseph Delaure (4RY)</p>
 </li>
 <li>
-<p>Vice Captain – Muhammad Eshan Nazran Bin Muhammad Muntazir (4ST)</p>
+<p>Vice Captain – Aydi Awwadi Bin Muhammad Ashraf Adli (4RT)</p>
 </li>
 </ul>
 <p><strong>Description:</strong>
