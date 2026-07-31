@@ -21,9 +21,6 @@ variant: tiptap
 <p>Mr Khalid</p>
 </li>
 <li>
-<p>Mdm Trishal Kaur</p>
-</li>
-<li>
 <p>Miss Elina Lo</p>
 </li>
 <li>
