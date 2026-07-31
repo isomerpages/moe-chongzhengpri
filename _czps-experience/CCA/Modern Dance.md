@@ -12,33 +12,36 @@ variant: tiptap
 <p>Mrs Sharleen Ong (Main-in-charge)</p>
 </li>
 <li>
-<p>Ms Rachel Poh</p>
+<p>Mdm Siti Nurhidayah Binte Abdul Aziz</p>
 </li>
 <li>
-<p>Mdm Siti Khairunisa</p>
+<p>Ms Krishna Veni Rajendran</p>
 </li>
 <li>
 <p>Ms Bernice Lim Hwee Yng</p>
+</li>
+<li>
+<p>Chia Chen Wei</p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Marsha Adelia Binte Mohd Alfian&nbsp;(5EM)</p>
+<p>Tan Rae Han (5 Steadfastness)</p>
 </li>
 <li>
-<p>Siti Farisha Shakira Binte Mohammad Fahmi&nbsp;(5RY)</p>
+<p>Cassy Ng Yin Xi (5 Integrity)</p>
 </li>
 </ul>
 <p><strong>&nbsp;Assistant Leaders:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tan Rae Han&nbsp;(4ST)</p>
+<p>Chua Ning Xuan Sophia (P4 Empathy)</p>
 </li>
 <li>
-<p>Cassy Ng Yin Xi&nbsp;(4RY)</p>
+<p>Salaria Saesha (P4 Empathy)</p>
 <p></p>
 </li>
 </ul>
