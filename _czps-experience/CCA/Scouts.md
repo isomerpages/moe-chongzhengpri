@@ -15,23 +15,24 @@ variant: tiptap
 <p>Ms Surya Parvathi</p>
 </li>
 <li>
-<p>Ms Jacelyn Heng</p>
+<p>Ms Wu Ya Ting</p>
+<p></p>
 </li>
 </ol>
 <p><strong>CCA Leaders:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Senior Sixer - Kirithik Bharathi (P5 Steadfastness)</p>
+<p>Senior Sixer - Abdurrahman Bin Jefry&nbsp;(P5EM)</p>
 </li>
 <li>
-<p>Senior Sixer – Makwana Rudra Jignesh (P5 Responsibility)</p>
+<p>Senior Sixer – Tan Hong Ming (P5RT)</p>
 </li>
 <li>
-<p>Assistant Sixer - Abdurrahman Bin Jefry&nbsp;(P4 Empathy)</p>
+<p>Assistant Sixer - Abhinav Venkatarama (P4EM)</p>
 </li>
 <li>
-<p>Assistant Sixer - Tan Hong Ming (P4 Integrity)</p>
+<p>Assistant Sixer - Khairy Rusyaidy Bin Rudy Marwan (P4ST)</p>
 </li>
 </ul>
 <p><strong>Description:&nbsp;</strong>
