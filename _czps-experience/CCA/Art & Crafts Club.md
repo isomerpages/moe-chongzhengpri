@@ -21,20 +21,20 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keok Zhan Rui (5RTY)</p>
+<p>Nur Maryam Anati Binte Mohammed Farhan (5IN)</p>
 </li>
 <li>
-<p>Gabrielle Lee Xue Ling (5ST)</p>
+<p>Eva Maria Bijo (5EM)</p>
 </li>
 </ul>
 <p><strong>Assistant Leader</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nur Maryam Anati Bte Mohd Farhan (4IN)</p>
+<p>Kathri Achchige Evin Yethnuka (4IN)</p>
 </li>
 <li>
-<p>Eva Maria Bijo (4ST)</p>
+<p>Nur Emelda Aysha Binte Muhammad Nursyahid (4RY)</p>
 </li>
 </ul>
 <p><strong>Description:</strong>
