@@ -34,15 +34,34 @@ variant: tiptap
 <p>Assistant Sixer - Yau Chen Swan (4EM)</p>
 </li>
 </ul>
+<p>Girl Guides (Brownies) are 9 to 12-year old girls who enjoy learning and
+having amazing adventures together!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brownies3.jpg">
 </div>
+<p>Girl Guides (Brownies) are encouraged to explore and discover the world
+around them and to become more independent. They are constantly learning
+new skills and are challenged to try new and adventurous activities that
+will inspire them to think about what they want to be and do in the future.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brownies4.jpg">
 </div>
+<p>Girl Guide (Brownies) learn to work and play independently an in teams.
+On special occasions, Girl Guides (Brownies) do fun things with other Girl
+Guides (Brownies) units for joint learning adventures! Activities may include
+Division Days and outdoor cooking.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brownies5.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brownies6.jpg">
+</div>
+<p>Along the way, they learn to care for one another and other people around
+them and make lasting friendships.</p>
 <p><strong><u>Achievements in 2026</u></strong>
 </p>
 <p>East Division Fest came again. The theme for the event was “Our Friendship”
