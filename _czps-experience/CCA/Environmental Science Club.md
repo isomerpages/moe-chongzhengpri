@@ -119,6 +119,39 @@ a culture of sustainability.</p>
 <p></p>
 </li>
 <li>
+<p>Earth Day-
+<br>Students promote the conservation of natural resources by engaging the
+school community in fun and meaningful sustainability activities.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC1.png">
+</div>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC3.png">
+</div>
+<p><em>Pupils making pledges to help save the earth on CZ Earth Day</em>
+</p>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>Workshops for members on sustainability-</p>
+<p>Microgreens: Pupils learn how to grown their own microgreens ( superfood
+) and reduce carbon foodprint.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC4.png">
+</div>
+</li>
+</ol>
+<ol>
+<li>
 <p>Watch the video below to see what other activities we have done in the
 club!</p>
 <div class="iframe-wrapper">
