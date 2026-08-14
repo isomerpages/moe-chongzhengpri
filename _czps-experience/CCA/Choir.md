@@ -49,6 +49,7 @@ participates in the Singapore Youth Festival Arts Presentation (SYF AP)
 (Primary) once every two years.</p>
 <p><strong>Our Achievements:</strong>
 </p>
+<p>2026: Awarded Distinction at SYF 2026 Choir Arts Presentation</p>
 <p>2025: Performed at Chongzheng 40th Anniversary Musical</p>
 <p>2024: Awarded Distinction at SYF 2024 Choir Arts Presentation</p>
 <p>2022: Performed at SYF 2022 Choir Arts Presentation (non-benchmarked)</p>
@@ -57,26 +58,34 @@ participates in the Singapore Youth Festival Arts Presentation (SYF AP)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_picture_with_wordings.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choir Final Practice before heading to SOTA for SYF2024" src="/images/Slide6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choir slide 7" src="/images/Slide7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choir Slide 8" src="/images/Slide8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choir Slide 9" src="/images/Slide9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choir Slide 10" src="/images/Slide10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choir Slide 11" src="/images/Slide11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choir Slide 12" src="/images/Slide12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir3.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHONGZHENG_PRIMARY_SCHOOL_9669.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHONGZHENG_PRIMARY_SCHOOL_2854.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHONGZHENG_PRIMARY_SCHOOL_2932.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHONGZHENG_PRIMARY_SCHOOL_2889.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHONGZHENG_PRIMARY_SCHOOL_2813.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
