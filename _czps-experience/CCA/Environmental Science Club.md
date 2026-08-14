@@ -150,15 +150,47 @@ school community in fun and meaningful sustainability activities.
 </div>
 </li>
 </ol>
-<ol>
-<li>
+<h4><strong>Making toilet tablets:</strong></h4>
+<p>Members learn how to make a home cleaning product with a few ingredients
+minus the harmful chemicals.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC6.png">
+</div>
+<p></p>
+<h4>Bio blitz 2026 in Chongzheng-<strong> </strong>Sustainability and Outdoor Learning Programme</h4>
+<p>Members participated in an activity to identify and record as many living
+organism ( birds, butterfly and dragonfly) within our ecogarden.</p>
+<p>Members came to realise that CZ ecogarden has a diverse range of birds
+and butterflies.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESC10.png">
+</div>
 <p>Watch the video below to see what other activities we have done in the
 club!</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BZrYnQTKK-E?si=dUcLrn-QTGjpqvDE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BZrYnQTKK-E?si=c28wMQavoGwis03A"></iframe>
 </div>
-</li>
-</ol>
+<p></p>
+<p></p>
 <p><strong>Community Outreach</strong>
 </p>
 <p>Community outreach initiatives to inspire everyday green habits, encouraging
