@@ -219,4 +219,3 @@ sustainable actions for lasting impact.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental_science_club_pic_9.jpg">
 </div>
 <p></p>
-<p></p>
