@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CZPS_Animation_Students.gif
+      background: /images/WhatsApp_Image_2026_08_18_at_2_50_03_PM.jpg
       variant: image
   - resources:
       title: Announcements
