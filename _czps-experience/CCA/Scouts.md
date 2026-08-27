@@ -50,8 +50,34 @@ sense of teamwork and service.</p>
 from Bronze to Gold, during weekly unit meetings. In addition, they are
 encouraged to take initiative in pursuing Proficiency Badges independently,
 allowing them to explore personal interests and deepen their Scouting journey.</p>
-<p><strong>Recent Achievements:</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts01.png">
+</div>
+<p><em>In Action During Jobsweek</em>
 </p>
-<p>2022- Frank Cooper Sands Award (Silver)</p>
-<p><a href="https://drive.google.com/file/d/1wSCTKxj-VoijwNDxZeD2qt5up7b6rQn3/view?usp=drive_link" rel="noopener nofollow" target="_blank">Scouts Video</a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts02.jpg">
+</div>
+<p><em>Embarking on A Learning Journey to Bird Paradise</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts03.jpg">
+</div>
+<p><em>Learning and Enjoying Outdoor Cooking</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts04.jpg">
+</div>
+<p><em>Commemorating National Day</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts05.jpg">
+</div>
+<p><em>Learning to Tie Knots</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts06.png">
+</div>
+<p><em>Participating in the Climber’s Badge Course</em>
 </p>
