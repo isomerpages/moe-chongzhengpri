@@ -71,8 +71,21 @@ Tampines East Community Centre.</p>
 <p>Participated in 2026 School’s National Day celebration and National Day
 Carnival at Tampines East Community Centre.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malaydance01.png">
+</div>
 </li>
 </ul>
-<p>Grace in every step, tradition in every rhythm – celebrating our heritage
-this National Day with the timeless melody of&nbsp;“Bunga Sayang’.</p>
+<p><em>Grace in every step, tradition in every rhythm – celebrating our heritage this National Day with the timeless melody of&nbsp;“Bunga Sayang’.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malaydance02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malaydance03.jpg">
+</div>
+<p><em>A memorable day at the Singapore Youth Festival Arts Presentation. Our dancers performed with grace, energy and confidence, celebrating our rich Malay heritage through every step and rhythm.</em>
+</p>
+<p></p>
