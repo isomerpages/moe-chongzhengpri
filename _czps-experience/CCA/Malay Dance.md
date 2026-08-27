@@ -74,4 +74,5 @@ Carnival at Tampines East Community Centre.</p>
 <p></p>
 </li>
 </ul>
-<p></p>
+<p>Grace in every step, tradition in every rhythm – celebrating our heritage
+this National Day with the timeless melody of&nbsp;“Bunga Sayang’.</p>
