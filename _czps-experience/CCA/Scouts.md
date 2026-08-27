@@ -80,4 +80,3 @@ allowing them to explore personal interests and deepen their Scouting journey.</
 </div>
 <p><em>Participating in the Climber’s Badge Course</em>
 </p>
-<p></p>
