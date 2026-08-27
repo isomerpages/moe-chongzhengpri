@@ -50,6 +50,7 @@ sense of teamwork and service.</p>
 from Bronze to Gold, during weekly unit meetings. In addition, they are
 encouraged to take initiative in pursuing Proficiency Badges independently,
 allowing them to explore personal interests and deepen their Scouting journey.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts01.png">
 </div>
