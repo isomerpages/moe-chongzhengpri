@@ -47,21 +47,18 @@ variant: tiptap
 </ul>
 <p><strong>Description:</strong>
 </p>
-<p>The Chongzheng Modern Dance CCA is dedicated to nurturing well-rounded
-dancers while unlocking the unique potential of every individual. Through
-exposure to diverse genres such as contemporary, hip-hop, and street dance,
-our programme broadens students’ horizons and equips them with a rich repertoire
-of techniques and styles. With a strong emphasis on strength, balance,
-and endurance, we inspire our dancers to develop both artistic expression
-and physical excellence to the highest standard.</p>
-<p>&nbsp;</p>
-<p>Beyond training, our dancers have proudly showcased their talents at platforms
-such as Chinese New Year celebrations, National Day celebrations, and the
-CZ40 Musical 2025. These meaningful opportunities enable them to grow in
-confidence, resilience, and creativity, while cultivating leadership qualities
-and teamwork. More than just a performing art, modern dance at Chongzheng
-empowers our students to express themselves with grace, passion, and discipline—qualities
-that will serve them well both on stage and in life.</p>
+<p>The <strong>Chongzheng Modern Dance CCA</strong> is committed to the holistic
+development of our students, fostering artistic growth while unlocking
+each dancer's unique potential. Our comprehensive curriculum provides immersion
+in diverse genres—including <strong>contemporary, hip-hop, and street dance</strong>—to
+broaden students’ cultural perspectives and equip them with a versatile
+technical repertoire.</p>
+<p></p>
+<p>Beyond technical training, the <strong>Chongzheng Modern Dance CCA</strong> provides
+students with high-profile platforms to showcase their artistry and dedication.
+Our dancers have consistently demonstrated excellence at prestigious events,
+including the <strong>Singapore Youth Festival (SYF) Arts Presentation 2026</strong>, <strong>National Day celebrations</strong>,
+and the landmark <strong>CZ40 Musical 2025</strong>.</p>
 <p><strong>CZ Musical 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -86,9 +83,20 @@ that will serve them well both on stage and in life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Modern Dance" src="/images/SYF_2024_Modern_Dance.jpg">
 </div>
-<p><strong>Performances and Achievements for past 4 years:</strong>
+<p><strong>Performances and Achievements for past 3 years:</strong>
 </p>
-<p>2025:</p>
+<p><strong>2026:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival (SYF) Arts Presentation – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Tampines East Community Club National Day Celebration (August 2026)</p>
+</li>
+</ul>
+<p><strong>2025:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese New Year Celebrations</p>
@@ -100,19 +108,14 @@ that will serve them well both on stage and in life.</p>
 <p>CZ40 Musical</p>
 </li>
 </ul>
-<p>2024:</p>
+<p><strong>2024:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tampines East National Day</p>
+<p>Tampines East Community Club National Day Celebration</p>
 </li>
 <li>
 <p>Singapore Youth Festival (SYF) Arts Presentation – Certificate of Accomplishment</p>
-</li>
-</ul>
-<p>2022:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival (SYF) Arts Presentation (non-benchmarked)</p>
 </li>
 </ul>
 <p></p>
