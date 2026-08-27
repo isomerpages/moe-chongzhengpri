@@ -54,35 +54,24 @@ opportunities to showcase their talents at school celebrations, community
 events, and the Singapore Youth Festival Arts Presentation (Primary) once
 every two years.</p>
 <p></p>
-<p>Achievements and Participations for the past 3 years:</p>
+<p><strong>Achievements and Participations for the past 3 years:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Participated in 2022 SYF performance.</p>
+<p>Participated in 2024 SYF Arts Presentation and awarded Accomplishment.</p>
 </li>
 <li>
-<p>Participated in 2024 SYF Competition and awarded Accomplishment.</p>
+<p>Participated in 2025 Hari Raya Celebration and National Day Carnival at
+Tampines East Community Centre.</p>
 </li>
 <li>
-<p>Participated in 2025 Hari Raya Celebration, National Day Carnival at Tampines
-East Community Centre and Chongzheng Primary School’s 40<sup>th</sup> Anniversary
-Musical.</p>
+<p>Participated in 2026 SYF Arts Presentation and awarded Accomplishment.</p>
+</li>
+<li>
+<p>Participated in 2026 School’s National Day celebration and National Day
+Carnival at Tampines East Community Centre.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay1.jpg">
-</div>
-<p>Our Malay Dance CCA students presented a graceful performance that added
-to the festivity of Tampines East Community Club’s National Day celebrations.</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay2.png">
-</div>
-<p>Celebrating Hari Raya with joy, rhythm and the beauty of tradition.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/malay3.png">
-</div>
-<p>Marking our 40th Anniversary, the Malay Dance CCA lit up the stage with
-vibrant movements and cultural pride!</p>
