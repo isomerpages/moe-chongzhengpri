@@ -72,11 +72,19 @@ session lasting two and a half hours. Our hockey members also actively
 participate in friendly matches and competitive events organized by the
 school, other institutions, external hockey clubs, and in inter-school
 competitions, including the National School Games.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey01.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey02.png">
+</div>
 <p><strong>Achievements for the past 3 years:</strong>
 </p>
 <p><strong>2026:</strong>
 </p>
-<p>Senior Division Boys – Still in progress
+<p>Senior Division Boys – National Runner up
 <br>Senior Division Girls – National Runner up
 <br>J1 Boys – Still in progress
 <br>J1 Girls – Still in progress
@@ -99,49 +107,50 @@ competitions, including the National School Games.</p>
 <br>J1 Girls – Overall Champion
 <br>J2 Boys Tier 2 – Champion
 <br>J2 Girls – 2<sup>nd</sup>&nbsp;position overall</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hockey1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey03.jpg">
 </div>
-<p><strong>2025 Senior Boys</strong>
+<p><em>2026 Senior Boys</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey04.jpg">
 </div>
-<p><strong>2025 Senior Girls</strong>
+<p><em>2026 Senior Girls</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey05.jpg">
 </div>
-<p><strong>2025 J2 Boys</strong>
+<p><em>2026 J2 Boys</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey06.jpg">
+</div>
+<p><em>2026 J2 Girls</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey07.jpg">
 </div>
-<p><strong>2025 J2 Girls</strong>
+<p><em>2026 J1 Boys</em>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey08.jpg">
 </div>
-<p><strong>2025 J1 Boys</strong>
+<p><em>2026 J1 Girls</em>
 </p>
+<p><strong>Special Mention:</strong> Our Senior Girls Captain, Chloe Gwendelynn
+Pinto, was the Torch Bearer for this year’s NSG Games.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey11.png">
 </div>
-<p><strong>2025 J1 Girls</strong>
-</p>
 <p></p>
-<p><strong>2025 Hockey Carnival at Raffles Institution</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey8.png">
-</div>
 <p></p>
 <p></p>
 <p></p>
