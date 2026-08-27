@@ -88,4 +88,3 @@ Carnival at Tampines East Community Centre.</p>
 </div>
 <p><em>A memorable day at the Singapore Youth Festival Arts Presentation. Our dancers performed with grace, energy and confidence, celebrating our rich Malay heritage through every step and rhythm.</em>
 </p>
-<p></p>
