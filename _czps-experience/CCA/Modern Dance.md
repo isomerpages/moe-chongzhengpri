@@ -53,7 +53,6 @@ each dancer's unique potential. Our comprehensive curriculum provides immersion
 in diverse genres—including <strong>contemporary, hip-hop, and street dance</strong>—to
 broaden students’ cultural perspectives and equip them with a versatile
 technical repertoire.</p>
-<p></p>
 <p>Beyond technical training, the <strong>Chongzheng Modern Dance CCA</strong> provides
 students with high-profile platforms to showcase their artistry and dedication.
 Our dancers have consistently demonstrated excellence at prestigious events,
