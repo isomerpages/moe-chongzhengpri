@@ -84,12 +84,12 @@ competitions, including the National School Games.</p>
 </p>
 <p><strong>2026:</strong>
 </p>
-<p>Senior Division Boys – National Runner up
-<br>Senior Division Girls – National Runner up
-<br>J1 Boys – Still in progress
-<br>J1 Girls – Still in progress
-<br>J2 Boys – Still in progress
-<br>J2 Girls – Still in progress</p>
+<p>Senior Division Boys: Overall runner-up (2nd)
+<br>Senior Division Girls: Overall runner-up (2nd)
+<br>J1 Boys: Tier 2 - 2nd placing
+<br>J1 Girls: Overall - 4th placing
+<br>J2 Boys: Tier 1 - 3rd placing
+<br>J2 Girls: Overall - 4th placing</p>
 <p><strong>2025:</strong>
 <br>Senior Division Girls – National Runner up
 <br>J1 Boys – Tier 2A Champion
